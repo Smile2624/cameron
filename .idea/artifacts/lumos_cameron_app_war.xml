@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lumos-cameron-app:war">
+    <output-path>$PROJECT_DIR$/cameron-app/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lumos-cameron-app</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="lumos-cameron-app-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lumos-cameron-app:war exploded" />
+    </root>
+  </artifact>
+</component>

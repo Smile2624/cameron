@@ -1,0 +1,2046 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd">
+
+<!--    <changeSet id="INIT_PERMISSION_DATA" author="system">-->
+<!--        <validCheckSum>any</validCheckSum>-->
+<!--        <insert tableName="SYS_PERMISSION">-->
+<!--            <column name="ID" valueNumeric="800"/>-->
+<!--            <column name="COMPANY_ID" valueNumeric="-1"/>-->
+<!--            <column name="CREATE_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="CREATE_USER_ID" valueNumeric="1"/>-->
+<!--            <column name="CREATE_USER_NAME" value="admin"/>-->
+<!--            <column name="CREATE_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_CREATION_BID" valueNumeric="-1"/>-->
+<!--            <column name="LM_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="LM_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="LM_USER_NAME" value="admin"/>-->
+<!--            <column name="LM_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>-->
+<!--            <column name="DELETE_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="DELETED" valueBoolean="false"/>-->
+
+<!--            <column name="CATEGORY" value="InspectionType"/>-->
+<!--            <column name="NAME" value="InspectionType.add"/>-->
+<!--            <column name="NAME_KEY" value="permission.InspectionType.add"/>-->
+<!--            <column name="SYSTEM_DEFINED" valueBoolean="true"/>-->
+<!--            <column name="MODULE" value="Demo"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="SYS_PERMISSION">-->
+<!--            <column name="ID" valueNumeric="801"/>-->
+<!--            <column name="COMPANY_ID" valueNumeric="-1"/>-->
+<!--            <column name="CREATE_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="CREATE_USER_ID" valueNumeric="1"/>-->
+<!--            <column name="CREATE_USER_NAME" value="admin"/>-->
+<!--            <column name="CREATE_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_CREATION_BID" valueNumeric="-1"/>-->
+<!--            <column name="LM_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="LM_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="LM_USER_NAME" value="admin"/>-->
+<!--            <column name="LM_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>-->
+<!--            <column name="DELETE_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="DELETED" valueBoolean="false"/>-->
+
+<!--            <column name="CATEGORY" value="InspectionType"/>-->
+<!--            <column name="NAME" value="InspectionType.edit"/>-->
+<!--            <column name="NAME_KEY" value="permission.InspectionType.edit"/>-->
+<!--            <column name="SYSTEM_DEFINED" valueBoolean="true"/>-->
+<!--            <column name="MODULE" value="Demo"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="SYS_PERMISSION">-->
+<!--            <column name="ID" valueNumeric="802"/>-->
+<!--            <column name="COMPANY_ID" valueNumeric="-1"/>-->
+<!--            <column name="CREATE_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="CREATE_USER_ID" valueNumeric="1"/>-->
+<!--            <column name="CREATE_USER_NAME" value="admin"/>-->
+<!--            <column name="CREATE_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_CREATION_BID" valueNumeric="-1"/>-->
+<!--            <column name="LM_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="LM_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="LM_USER_NAME" value="admin"/>-->
+<!--            <column name="LM_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>-->
+<!--            <column name="DELETE_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="DELETED" valueBoolean="false"/>-->
+
+<!--            <column name="CATEGORY" value="InspectionType"/>-->
+<!--            <column name="NAME" value="InspectionType.delete"/>-->
+<!--            <column name="NAME_KEY" value="permission.InspectionType.delete"/>-->
+<!--            <column name="SYSTEM_DEFINED" valueBoolean="true"/>-->
+<!--            <column name="MODULE" value="Demo"/>-->
+<!--        </insert>-->
+<!--        <insert tableName="SYS_PERMISSION">-->
+<!--            <column name="ID" valueNumeric="803"/>-->
+<!--            <column name="COMPANY_ID" valueNumeric="-1"/>-->
+<!--            <column name="CREATE_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="CREATE_USER_ID" valueNumeric="1"/>-->
+<!--            <column name="CREATE_USER_NAME" value="admin"/>-->
+<!--            <column name="CREATE_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_CREATION_BID" valueNumeric="-1"/>-->
+<!--            <column name="LM_TIME" valueDate="2019-06-01"/>-->
+<!--            <column name="LM_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="LM_USER_NAME" value="admin"/>-->
+<!--            <column name="LM_USER_FULL_NAME" value="admin"/>-->
+<!--            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>-->
+<!--            <column name="DELETE_USER_ID" valueNumeric="-1"/>-->
+<!--            <column name="DELETED" valueBoolean="false"/>-->
+
+<!--            <column name="CATEGORY" value="InspectionType"/>-->
+<!--            <column name="NAME" value="InspectionType.refresh"/>-->
+<!--            <column name="NAME_KEY" value="permission.InspectionType.refresh"/>-->
+<!--            <column name="SYSTEM_DEFINED" valueBoolean="true"/>-->
+<!--            <column name="MODULE" value="Demo"/>-->
+<!--        </insert>-->
+<!--    </changeSet>-->
+
+    <changeSet author="system" id="CREATE_TABLE_POST">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="POST">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<< -->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>> -->
+            <column name="POST_CODE" type="varchar(255)"/>
+            <column name="POST_NAME" type="varchar(255)"/>
+        </createTable>
+    </changeSet>
+    <changeSet author="system" id="POST_ADD_INDEX_NAME">
+        <createIndex indexName="IDX_POST_NAME"
+                     tableName="POST">
+            <column name="POST_NAME"/>
+        </createIndex>
+    </changeSet>
+    <changeSet author="system" id="CREATE_TABLE_INSPECTION_TYPE">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="INSPECTION_TYPE">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="INSPECTION_NAME" type="varchar(255)"/>
+            <column name="INSPECTION_DESC" type="varchar(1024)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_INSPECTION_VALUE">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="INSPECTION_VALUE">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="INSPECTION_NAME" type="varchar(255)"/>
+            <column name="PRODUCT_SPECIFICATION" type="varchar(255)"/>
+            <column name="APPEARANCE_DESC" type="varchar(1024)"/>
+            <column name="MIN_VALUE" type="number(19, 6)"/>
+            <column name="MAX_VALUE" type="number(19, 6)"/>
+        </createTable>
+    </changeSet>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<产品信息<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_PRODUCT_INFORMATION">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PRODUCT_INFORMATION">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_ID" type="varchar(80)"/>
+            <column name="PRODUCT_VERSION_ID" type="varchar(80)"/>
+            <column name="PRODUCT_DESC" type="varchar(1024)"/>
+            <column name="TEMPERATURE_RATING" type="varchar(80)"/>
+            <column name="MATERIAL_RATING" type="varchar(80)"/>
+            <column name="PSL_RATING" type="varchar(80)"/>
+            <column name="PRESSURE_INSPECTION_PROCEDURE" type="varchar(80)"/>
+            <column name="PRESSURE_INSPECTION_PROCEDURE_VERSION" type="varchar(80)"/>
+            <column name="PAINTING_SPECIFICATION_FILE" type="varchar(1024)"/>
+
+        </createTable>
+    </changeSet>
+
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<零件信息<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_SPARE_PART">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="SPARE_PART">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="SPARE_PART_NO" type="varchar(80)"/>
+            <column name="SPARE_PART_REV" type="varchar(80)"/>
+            <column name="SPARE_PART_DEC" type="varchar(80)"/>
+            <column name="QA_PLAN_REV" type="varchar(80)"/>
+            <column name="DRAW_NO" type="varchar(80)"/>
+            <column name="PSL_LEVEL_STAND" type="varchar(80)"/>
+            <column name="API_STAND" type="varchar(80)"/>
+            <column name="HARDNESS_FILE" type="varchar(80)"/>
+            <column name="PLM_REV" type="varchar(80)"/>
+            <column name="PART_REV" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<产品BOM<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_BOM">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="BOM">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_NO" type="varchar(80)"/>
+            <column name="PRODUCT_REV" type="varchar(80)"/>
+            <column name="ITEM_NO" type="varchar(80)"/>
+            <column name="PART_NO" type="varchar(80)"/>
+            <column name="PART_REV" type="varchar(80)"/>
+            <column name="PART_QUANTITY" type="int"/>
+            <column name="IS_RETROSPECT" type="boolean" defaultValue="false"/>
+            <column name="RETROSPECT_TYPE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<产品订单<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_PRODUCT_ORDER">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PRODUCT_ORDER">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_ORDER_ID" type="varchar(80)"/>
+            <column name="PRODUCT_NUMBER" type="int"/>
+            <column name="PRODUCT_ID" type="varchar(80)"/>
+            <column name="PRODUCT_VERSION_ID" type="varchar(80)"/>
+
+        </createTable>
+    </changeSet>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<产品Routing<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_PRODUCT_ROUTING">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PRODUCT_ROUTING">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_ID" type="varchar(80)"/>
+            <column name="PRODUCT_VERSION_ID" type="varchar(80)"/>
+            <column name="OPRATION_NO" type="varchar(80)"/>
+            <column name="OPRATION_DESC" type="varchar(1024)"/>
+            <column name="ATTENTION" type="longtext"/>
+
+        </createTable>
+    </changeSet>
+    <!-- <<<<<<<<<<<<<<<<<<<<<装配信息<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_ASSEMBLING">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="ASSEMBLING">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="SN_BATCH" type="varchar(80)"/>
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="PART_DESC" type="varchar(80)"/>
+            <column name="PLM_REV" type="varchar(80)"/>
+            <column name="PART_REV" type="varchar(80)"/>
+            <column name="SERIAL_NO" type="varchar(80)"/>
+            <column name="BATCH" type="varchar(80)"/>
+            <column name="HEAT_NO_LOT" type="varchar(80)"/>
+            <column name="HARDNESS" type="varchar(80)"/>
+            <column name="MAT_TYPE" type="varchar(80)"/>
+            <column name="C_OR_D" type="varchar(80)"/>
+            <column name="E_OR_D" type="varchar(80)"/>
+            <column name="QC_CHECK" type="varchar(80)"/>
+            <column name="RETROSPECT_TYPE" type="varchar(80)"/>
+            <column name="BATCH_QTY" type="int"/>
+        </createTable>
+    </changeSet>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<喷漆信息<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_PAINTING_INFORMATION">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PAINTING_INFORMATION">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+
+            <column name="WO_SN" type="varchar(80)"/>
+            <column name="IS_CLEAR" type="boolean" defaultValue="true"/>
+            <column name="IS_PROTECT" type="boolean" defaultValue="true"/>
+
+            <column name="PRIMER_AIR_TEMP" type="float"/>
+            <column name="PRIMER_SURFACE_TEMP" type="float"/>
+            <column name="PRIMER_HUMIDITY" type="float"/>
+            <column name="PRIMER_DEW_POINT" type="float"/>
+            <column name="PRIMER_PAINT_APPLIED" type="varchar(80)"/>
+            <column name="PRIMER_DRY_FILM_THICKNESS" type="varchar(80)"/>
+            <column name="PRIMER_DRY_AIR_TEMP" type="float"/>
+            <column name="PRIMER_DRY_HUMIDITY" type="float"/>
+            <column name="PRIMER_DRY_METHOD" type="varchar(80)"/>
+            <column name="PRIMER_DRY_TIME" type="datetime2"/>
+
+            <column name="FINAL_COAT_AIR_TEMP" type="float"/>
+            <column name="FINAL_COAT_SURFACE_TEMP" type="float"/>
+            <column name="FINAL_COAT_HUMIDITY" type="float"/>
+            <column name="FINAL_COAT_DEW_POINT" type="float"/>
+            <column name="FINAL_COAT_PAINT_APPLIED" type="varchar(80)"/>
+
+            <column name="FINAL_COAT_COLOR" type="varchar(80)"/>
+            <column name="FINAL_COAT_TOTAL_FILM_THICKNESS" type="varchar(80)"/>
+            <column name="FINAL_COAT_DRY_AIR_TEMP" type="float"/>
+            <column name="FINAL_COAT_DRY_HUMIDITY" type="float"/>
+            <column name="FINAL_COAT_DRY_METHOD" type="varchar(80)"/>
+
+            <column name="FINAL_COAT_DRY_TIME" type="datetime2"/>
+            <column name="VISUAL_INSPECTION" type="varchar(80)"/>
+            <column name="VISUAL_TOTAL_DRY_FILM_THICKNESS" type="varchar(80)"/>
+            <column name="VISUAL_GAGE_NO" type="varchar(80)"/>
+            <column name="COMMENTS" type="varchar(80)"/>
+
+        </createTable>
+    </changeSet>
+
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<硬度标准<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_HARDNESS">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="HARDNESS">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="HARDNESS_NAME" type="varchar(80)"/>
+            <column name="HARDNESS_STAND" type="varchar(80)"/>
+            <column name="HARDNESS_UP_LIMIT" type="float"/>
+            <column name="HARDNESS_DOWN_LIMIT" type="float"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_FINAL_INSPECTION_ITEMS">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="FINAL_INSPECTION_ITEMS">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="INSPECTION_ITEM_NAME" type="varchar(80)"/>
+            <column name="DEFAULT_RESULT" type="varchar(1024)"/>
+        </createTable>
+    </changeSet>
+
+    <!-- <<<<<<<<<<<<<<<<<<<<<量具<<<<<<<<<<<<<<<<<<<<<-->
+    <changeSet author="system" id="CREATE_TABLE_GAGE">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="GAGE">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="GAGE_NAME" type="varchar(80)"/>
+            <column name="GAGE_NO" type="varchar(80)"/>
+            <column name="ACTIVE_DATE" type="datetime2"/>
+
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_ORDER_HISTORY">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="ORDER_HISTORY">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="OPERATION_NO" type="varchar(80)"/>
+            <column name="OPERATION_DESC" type="varchar(255)"/>
+            <column name="OPERATION_ATTENTION" type="longtext"/>
+            <column name="CONFIRM_BY" type="varchar(80)"/>
+            <column name="RECONFIRM_BY" type="varchar(80)"/>
+            <column name="CONFIRM_DATE" type="datetime2"/>
+            <column name="RECONFIRM_DATE" type="datetime2"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_FINAL_INSPECTION_RESULT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="FINAL_INSPECTION_RESULT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="CONSUMER" type="varchar(80)"/>
+            <column name="SALE_ORDER_NO" type="varchar(80)"/>
+            <column name="ROUTE_PACKAGE_RESULT" type="varchar(80)"/>
+            <column name="ASSEMBLING_RECORDER_RESULT" type="varchar(80)"/>
+            <column name="PRESSURE_TEST_REPORT_RESULT" type="varchar(80)"/>
+            <column name="MTR_METRIAL_REPORT_RESULT" type="varchar(80)"/>
+            <column name="DIMENSIONAL_REPORT_RESULT" type="varchar(80)"/>
+            <column name="HARDNESS_REPORT_RESULT" type="varchar(80)"/>
+            <column name="VISUAL_EXAMINATION_RESULT" type="varchar(80)"/>
+            <column name="FUNCTION_INSPECTION_RESULT" type="varchar(80)"/>
+            <column name="MONOGRAMMING_STATUS_RESULT" type="varchar(80)"/>
+            <column name="COMMENTS_RESULT" type="varchar(80)"/>
+            <column name="QC_CONFIRM_USER" type="varchar(80)"/>
+            <column name="QC_CONFIRM_DATE" type="datetime2"/>
+            <column name="QA_CONFIRM_USER" type="varchar(80)"/>
+            <column name="QA_CONFIRM_DATE" type="datetime2"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_APPEARANCE_INSTRUMENTATION_RESULT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="APPEARANCE_INSTRUMENTATION_RESULT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="SN" type="varchar(80)"/>
+            <column name="PAINTING_THICKNESS_RESULT" type="float"/>
+            <column name="VISUAL_EXAMINATION_DESC" type="varchar(255)"/>
+
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_FUNCTION_DETECTION_RESULT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="FUNCTION_DETECTION_RESULT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="SN" type="varchar(80)"/>
+            <column name="GAGE_NO" type="varchar(80)"/>
+            <column name="FUNCTION_INSPECTION_RESULT" type="varchar(80)"/>
+
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_PURCHASING_ORDER">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PURCHASING_ORDER">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="SAP_INSPECTION_LOT" type="varchar(255)"/>
+            <column name="MATERIAL_NO" type="varchar(255)"/>
+            <column name="MATERIAL_QUANTITY" type="int"/>
+            <column name="MATERIAL_UNIT" type="varchar(80)"/>
+            <column name="MATERIAL_DESC" type="varchar(1024)"/>
+            <column name="MATERIAL_REV" type="varchar(80)"/>
+            <column name="PURCHASING_NO" type="varchar(255)"/>
+            <column name="PURCHASING_ITEM_NO" type="varchar(255)"/>
+            <column name="VENDOR_NAME" type="varchar(1024)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_STATION_EQUIPMENT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="STATION_EQUIPMENT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="STATION" type="varchar(80)"/>
+            <column name="EQUIPMENT_NO" type="varchar(80)"/>
+            <column name="IP_ADRESS" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_PRESSURE_TEST">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PRESSURE_TEST">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_SN" type="varchar(80)"/>
+            <column name="PART_NO" type="varchar(80)"/>
+            <column name="PART_REV" type="varchar(80)"/>
+            <column name="STATION_NAME" type="varchar(80)"/>
+            <column name="GAGE_NO_SIZE" type="float"/>
+            <column name="BLOW_DOWN_TEST" type="boolean"/>
+            <column name="DRIFT_TEST" type="boolean"/>
+            <column name="TEST_BY" type="varchar(80)"/>
+            <column name="TEST_DATE" type="datetime2"/>
+        </createTable>
+    </changeSet>
+
+
+    <changeSet author="system" id="CREATE_TABLE_HARDNESS_TEST_REPORT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="HARDNESS_TEST_REPORT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PURCHASE_ORDER" type="varchar(80)"/>
+            <column name="SAP_BATCH_NO" type="varchar(80)"/>
+            <column name="PURCHASE_ORDER_SUBITEM" type="varchar(80)"/>
+            <column name="PART_QUANTITY" type="int"/>
+            <column name="SERIAL_NUMBERS" type="varchar(255)"/>
+            <column name="QUANTITY_ACCEPTED" type="int"/>
+            <column name="QUANTITY_REJECTED" type="int"/>
+            <column name="TESTED_FINISHED" type="boolean"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_HARDNESS_TEST_REPORT_ITEMS">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="HARDNESS_TEST_REPORT_ITEMS">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PURCHASE_ORDER" type="varchar(80)"/>
+            <column name="SAP_BATCH_NO" type="varchar(80)"/>
+            <column name="PURCHASE_ORDER_SUBITEM" type="varchar(80)"/>
+            <column name="PART_NO" type="varchar(80)"/>
+            <column name="PART_NO_REV" type="varchar(80)"/>
+            <column name="TEMP" type="float"/>
+            <column name="SERIAL_NO" type="varchar(80)"/>
+            <column name="HEAT_NO" type="varchar(80)"/>
+            <column name="HT_LOT_NO" type="varchar(80)"/>
+            <column name="ACTUAL_HARDNESS_VALUE" type="float"/>
+            <column name="RESULT" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_BOM_NAME_AUTHORITY">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="BOM_NAME_AUTHORITY">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="AUTHORITY_TYPE" type="varchar(80)"/>
+            <column name="NAME_EIGENVALUE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_PAINTING_SPECIFICATION">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PAINTING_SPECIFICATION">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PAINTING_SPECIFICATION_FILE" type="varchar(80)"/>
+            <column name="PRIMER" type="varchar(80)"/>
+            <column name="INTERMEDIATE" type="varchar(80)"/>
+            <column name="FINALS" type="varchar(80)"/>
+            <column name="COLOR" type="varchar(80)"/>
+            <column name="HUMIDITY" type="varchar(80)"/>
+            <column name="AVOVE_DEW_POINT" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_DIMENSION_INSPECTION_RESULT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="DIMENSION_INSPECTION_RESULT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PURCHASING_NO" type="varchar(80)"/>
+            <column name="ORDER_ITEM" type="varchar(80)"/>
+            <column name="SAP_INSPECTION_NO" type="varchar(80)"/>
+            <column name="MATRRIAL_NO" type="varchar(80)"/>
+            <column name="MATERIAL_REV" type="varchar(80)"/>
+            <column name="INSPECTION_VALUE" type="varchar(80)"/>
+            <column name="IS_PASS" type="boolean" defaultValue="true"/>
+            <column name="GAGE_INFO" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_DIMENSION_RULER">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="DIMENSION_RULER">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="MATRRIAL_NO" type="varchar(80)"/>
+            <column name="MATERIAL_REV" type="varchar(80)"/>
+            <column name="INSPECTION_ITEM_NAME" type="varchar(80)"/>
+            <column name="INSPECTION_ITEM_TYPE" type="varchar(80)"/>
+            <column name="MAX_VALUE" type="double"/>
+            <column name="MIN_VALUE" type="double"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_PAINTING_INSPECTION">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PAINTING_INSPECTION">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="WO_SN" type="varchar(80)"/>
+            <column name="RESULT" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_UNIQUE_DIMENSION_INSPECTION_ITEMS">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="UNIQUE_DIMENSION_INSPECTION_ITEMS">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PO_NO" type="varchar(80)"/>
+            <column name="MATERIAL_NO" type="varchar(80)"/>
+            <column name="MATERIAL_REV" type="varchar(80)"/>
+            <column name="SERIAL_SN" type="varchar(80)"/>
+            <column name="DRAW_NO" type="varchar(80)"/>
+            <column name="DRAW_REV" type="varchar(80)"/>
+            <column name="INSPECTION_ITEM" type="varchar(80)"/>
+            <column name="INSPECTION_VALUE" type="varchar(80)"/>
+            <column name="INSPECTION_RESULT" type="varchar(80)"/>
+            <column name="GAUGE_TYPE" type="varchar(80)"/>
+            <column name="GAUGE_SN" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_UNIQUE_DIMENSION_RESULT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="UNIQUE_DIMENSION_RESULT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="INSPECTOR" type="varchar(80)"/>
+            <column name="INSPECT_DATE" type="varchar(80)"/>
+            <column name="INSPECT_QUANTITY" type="int"/>
+            <column name="ACTIVE_QUANTITY" type="int"/>
+            <column name="PO_NO" type="varchar(80)"/>
+            <column name="MATERIAL_NO" type="varchar(80)"/>
+            <column name="MATERIAL_REV" type="varchar(80)"/>
+            <column name="APPEARANCE_INS" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_UNIQUE_TRACEABILITY_RECORD">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="UNIQUE_TRACEABILITY_RECORD">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="MATERIAL_NO" type="varchar(80)"/>
+            <column name="MATERIAL_REV" type="varchar(80)"/>
+            <column name="MATERIAL_DESC" type="varchar(255)"/>
+            <column name="HEAT_NO" type="varchar(80)"/>
+            <column name="HL_LOT_NO" type="varchar(80)"/>
+            <column name="CUST_PO" type="varchar(80)"/>
+            <column name="PURCHASING_NO" type="varchar(80)"/>
+            <column name="QUANTITY" type="varchar(80)"/>
+            <column name="IF_QCN" type="varchar(80)"/>
+            <column name="COMMENT" type="varchar(80)"/>
+            <column name="WAREHOUSE_CONFIRMER" type="varchar(80)"/>
+            <column name="QA_CONFIRMER" type="varchar(80)"/>
+            <column name="QC_CONFIRMER" type="varchar(80)"/>
+            <column name="WH_DATE" type="varchar(80)"/>
+            <column name="QA_DATE" type="varchar(80)"/>
+            <column name="QC_DATE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_RECEIVING_INSPECTION_REPORT">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="RECEIVING_INSPECTION_REPORT">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PURCHASING_ORDER" type="varchar(80)"/>
+            <column name="PURCHASING_ORDER_ITEM" type="varchar(80)"/>
+            <column name="SAP_INSPECTION_NO" type="varchar(80)"/>
+            <column name="VISUAL_RESULT" type="varchar(80)"/>
+            <column name="HARDNESS_RESULT" type="varchar(80)"/>
+            <column name="DIMENSION_RESULT" type="varchar(80)"/>
+            <column name="TRACEABILITY_RESULT" type="varchar(80)"/>
+            <column name="DOCUMENT_RESULT" type="varchar(80)"/>
+            <column name="PACKING_RESULT" type="varchar(80)"/>
+            <column name="CERTIFICATION_RESULT" type="varchar(80)"/>
+            <column name="OTHERS_RESULT" type="varchar(80)"/>
+            <column name="COMMENT" type="varchar(255)"/>
+            <column name="QC_CONFIRM_DATE" type="varchar(80)"/>
+            <column name="QA_CONFIRM_DATE" type="varchar(80)"/>
+            <column name="API_SPEC" type="varchar(80)"/>
+            <column name="PSL" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+    <changeSet author="system" id="CREATE_TABLE_CA_CONFIG">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="CA_CONFIG">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="CONFIG_TYPE" type="varchar(80)"/>
+            <column name="CONFIG_VALUE" type="varchar(80)"/>
+            <column name="CONFIG_REMARK" type="varchar(255)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_CERTIFICATE_CONFORMANCE">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="CERTIFICATE_CONFORMANCE">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="LOGO" type="varchar(80)"/>
+            <column name="CERTIFICATE_NUMBER" type="varchar(80)"/>
+            <column name="CUSTOMER" type="varchar(80)"/>
+            <column name="CUSTOMER_PO_NUMBER" type="varchar(80)"/>
+            <column name="DATE" type="datetime2"/>
+            <column name="SALES_ORDER_NUMBER" type="varchar(80)"/>
+            <column name="INTERNAL_TRACKING_NUMBER" type="varchar(80)"/>
+            <column name="ITEM" type="varchar(80)"/>
+            <column name="NOTES" type="varchar(80)"/>
+            <column name="LICENSE_NUMBER" type="varchar(80)"/>
+            <column name="QUALITY_REPRESENTATIVE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="CREATE_TABLE_PRESSURE_RULER" author="system">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="PRESSURE_RULER">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="RULER_NO" type="varchar(80)"/>
+            <column name="SUFFIX_NO" type="varchar(80)"/>
+            <column name="INSPECTION_TIMES" type="int"/>
+            <column name="TIME" type="double"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="CREATE_TABLE_ASSEMBLING_TEMP" author="system">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="ASSEMBLING_TEMP">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="SN_BATCH" type="varchar(80)"/>
+            <column name="X_VALUE" type="varchar(80)"/>
+            <column name="Y_VALUE" type="varchar(80)"/>
+            <column name="COUNT_NO" type="int"/>
+            <column name="SINGLE_OR_BATCH" type="boolean" defaultValue="true"/>
+            <column name="CHECK_TYPE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="CREATE_TABLE_OPERATION_INSTRUCTION" author="system">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="OPERATION_INSTRUCTION">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="INSTRUCTION_NAME" type="varchar(255)"/>
+            <column name="INSTRUCTION_DESC" type="varchar(255)"/>
+            <column name="INSTRUCTION_REV" type="varchar(80)"/>
+            <column name="MODIFIED_DATE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="CREATE_TABLE_DATA_STATUS" author="system">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="DATA_STATUS">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_NO" type="varchar(80)"/>
+            <column name="IS_BOM_CHECKED" type="boolean" defaultValue="false"/>
+            <column name="IS_RTG_CHECKED" type="boolean" defaultValue="false"/>
+            <column name="IS_ALL_CHECKED" type="boolean" defaultValue="false"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="INSPECTION_PLAN" author="system">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="INSPECTION_PLAN">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCT_NO" type="varchar(80)"/>
+            <column name="PRODUCT_DESC" type="varchar(80)"/>
+            <column name="INS_PLAN" type="varchar(80)"/>
+            <column name="Q_CODE" type="varchar(80)"/>
+            <column name="CHEMICAL_ANALYSIS" type="varchar(80)"/>
+            <column name="PRE_HEAT_DIMENSION" type="varchar(80)"/>
+            <column name="FORG_HEAT_CONTROL" type="varchar(80)"/>
+            <column name="MECHANICAL_TEST" type="varchar(80)"/>
+            <column name="VOLUM_NDE" type="varchar(80)"/>
+            <column name="TRACE_MARK" type="varchar(80)"/>
+            <column name="SUR_NDE" type="varchar(80)"/>
+            <column name="PART_HARDNESS" type="varchar(80)"/>
+            <column name="VISUAL_EXAM" type="varchar(80)"/>
+            <column name="WELD_OVERLAY" type="varchar(80)"/>
+            <column name="WELD_PREP_NDE" type="varchar(80)"/>
+            <column name="FINAL_NDE" type="varchar(80)"/>
+            <column name="DIMENSION_INSPECT" type="varchar(80)"/>
+            <column name="COAT_PAINT" type="varchar(80)"/>
+            <column name="COC_ELASTOMER" type="varchar(80)"/>
+            <column name="COC_CAMERON" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+    <changeSet id="VISUAL_INSPECTION" author="system">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="VISUAL_INSPECTION">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PURCHASING_ORDER" type="varchar(80)"/>
+            <column name="PURCHASING_ORDER_ITEM" type="varchar(80)"/>
+            <column name="SAP_INSPECTION_NO" type="varchar(80)"/>
+            <column name="PACKING_RESULT" type="varchar(80)"/>
+            <column name="RAW_MATERIAL_RESULT" type="varchar(80)"/>
+            <column name="MACHINED_SURFACE_RESULT" type="varchar(80)"/>
+            <column name="NONMETAL_PARTS_RESULT" type="varchar(80)"/>
+            <column name="COATING_RESULT" type="varchar(80)"/>
+            <column name="OTHERS_RESULT" type="varchar(80)"/>
+            <column name="COMMENT" type="varchar(80)"/>
+            <column name="QC_CONFIRM_DATE" type="varchar(80)"/>
+            <column name="QC_CHECKER" type="varchar(80)"/>
+            <column name="API_SPEC" type="varchar(80)"/>
+            <column name="PSL" type="varchar(80)"/>
+            <column name="SN" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+    <changeSet author="system" id="CREATE_TABLE_LEVP">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="LEVP">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="PRODUCTION_ORDER_NO" type="varchar(80)"/>
+            <column name="QC_RLT" type="varchar(80)"/>
+            <column name="QC_CHECKER" type="varchar(80)"/>
+            <column name="QC_CHECKED_DATE" type="datetime2"/>
+            <column name="WH_RLT" type="varchar(80)"/>
+            <column name="WH_CHECKER" type="varchar(80)"/>
+            <column name="WH_CHECKED_DATE" type="datetime2"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_ISSUE_MATERIAL_LIST">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="ISSUE_MATERIAL_LIST">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="ORDER_NO" type="varchar(80)"/>
+            <column name="MATERIAL_NO" type="varchar(80)"/>
+            <column name="MATERIA_DESC" type="varchar(255)"/>
+            <column name="REQUIREMENT_QUANTITY" type="double"/>
+            <column name="QUANTITY_WITHDRAWN" type="double"/>
+            <column name="SHORTAGE" type="double"/>
+            <column name="PROD_STORAGE" type="varchar(80)"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_VENDOR_MATERIAL_INFO">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="VENDOR_MATERIAL_INFO">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="MATERIAL_NO" type="varchar(80)"/>
+            <column name="MATERIAL_REV" type="varchar(25)"/>
+            <column name="MATERIAL_DESC" type="varchar(255)"/>
+
+        </createTable>
+    </changeSet>
+
+    <changeSet author="system" id="CREATE_TABLE_VENDOR_MATERIAL_INSPECTION_ITEMS">
+        <validCheckSum>any</validCheckSum>
+        <createTable tableName="VENDOR_MATERIAL_INSPECTION_ITEMS">
+            <!-- <<<<<<<<<<<<<<<<<<<<<公有属性开始<<<<<<<<<<<<<<<<<<<<<-->
+            <column name="ID" type="bigint">
+                <constraints primaryKey="true"/>
+            </column>
+            <column name="PLATFORM_ID" type="varchar(255)"/>
+            <column name="COMPANY_ID" type="bigint"/>
+            <column name="DESCRIPTION" type="varchar(2000)"/>
+
+            <column name="CREATE_TIME" type="datetime2"/>
+            <column name="CREATE_USER_ID" type="bigint"/>
+            <column name="CREATE_USER_NAME" type="varchar(255)"/>
+            <column name="CREATE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="CREATE_IP" type="varchar(128)"/>
+            <column name="DTS_CREATION_BID" type="bigint"/>
+
+            <column name="LM_TIME" type="datetime2"/>
+            <column name="LM_USER_ID" type="bigint"/>
+            <column name="LM_IP" type="varchar(128)"/>
+            <column name="LM_USER_NAME" type="varchar(255)"/>
+            <column name="LM_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DTS_MODIFIED_BID" type="bigint"/>
+
+            <column name="DELETE_TIME" type="datetime2"/>
+            <column name="DELETE_USER_ID" type="bigint"/>
+            <column name="DELETE_USER_NAME" type="varchar(255)"/>
+            <column name="DELETE_USER_FULL_NAME" type="varchar(255)"/>
+            <column name="DELETE_IP" type="varchar(128)"/>
+            <column name="DELETED" type="boolean" defaultValue="false"/>
+
+            <column name="ROW_LOG_ID" type="varchar(255)"/>
+            <!-->>>>>>>>>>>>>>>>>>>>>>>公有属性结束>>>>>>>>>>>>>>>>>>>>>>>-->
+            <column name="MATERIAL_ID" type="bigint"/>
+            <column name="INSPECTION_ITEM_NAME" type="varchar(80)"/>
+            <column name="INSPECTION_ITEM_TYPE" type="varchar(80)"/>
+            <column name="INSPECTION_ITEM_MAX_VALUE" type="double"/>
+            <column name="INSPECTION_ITEM_MIN_VALUE" type="double"/>
+            <column name="INSPECTION_ITEM_STANDARD_VALUE" type="double"/>
+            <column name="INSPECTION_ITEM_VALUE" type="varchar(1024)"/>
+
+        </createTable>
+    </changeSet>
+</databaseChangeLog>

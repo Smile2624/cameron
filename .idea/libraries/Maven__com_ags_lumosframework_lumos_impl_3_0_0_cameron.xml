@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ags.lumosframework:lumos-impl:3.0.0.cameron">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ags/lumosframework/lumos-impl/3.0.0.cameron/lumos-impl-3.0.0.cameron.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ags/lumosframework/lumos-impl/3.0.0.cameron/lumos-impl-3.0.0.cameron-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/ags/lumosframework/lumos-impl/3.0.0.cameron/lumos-impl-3.0.0.cameron-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

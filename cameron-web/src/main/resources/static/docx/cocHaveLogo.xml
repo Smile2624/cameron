@@ -1,0 +1,2778 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument
+        xmlns:aml="http://schemas.microsoft.com/aml/2001/core"
+        xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+        xmlns:o="urn:schemas-microsoft-com:office:office"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:w10="urn:schemas-microsoft-com:office:word"
+        xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml"
+        xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"
+        xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2"
+        w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no"
+        xml:space="preserve"><w:ignoreSubtree
+	w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2" /><o:DocumentProperties><o:Author>CAMERON</o:Author><o:LastAuthor>William Huang</o:LastAuthor><o:Revision>8</o:Revision><o:TotalTime>15</o:TotalTime><o:LastPrinted>2019-09-30T00:25:00Z</o:LastPrinted><o:Created>2019-10-22T08:40:00Z</o:Created><o:LastSaved>2019-12-03T02:43:00Z</o:LastSaved><o:Pages>1</o:Pages><o:Words>245</o:Words><o:Characters>1400</o:Characters><o:Company>CAMERON</o:Company><o:Lines>11</o:Lines><o:Paragraphs>3</o:Paragraphs><o:CharactersWithSpaces>1642</o:CharactersWithSpaces><o:Version>14</o:Version></o:DocumentProperties><o:CustomDocumentProperties><o:ContentTypeId
+	dt:dt="string">0x0101005FCF9C6B5F375546A93386A7EBD8D1BB</o:ContentTypeId><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Enabled
+	dt:dt="string">True</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Enabled><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SiteId
+	dt:dt="string">41ff26dc-250f-4b13-8981-739be8610c21</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SiteId><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Owner
+	dt:dt="string">RJia@slb.com</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Owner><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SetDate
+	dt:dt="string">2018-08-24T05:45:35.7948937Z</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SetDate><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Name
+	dt:dt="string">Private</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Name><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Application
+	dt:dt="string">Microsoft Azure Information Protection</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Application><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Extended_MSFT_Method
+	dt:dt="string">Automatic</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Extended_MSFT_Method><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Enabled
+	dt:dt="string">True</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Enabled><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SiteId
+	dt:dt="string">41ff26dc-250f-4b13-8981-739be8610c21</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SiteId><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Owner
+	dt:dt="string">RJia@slb.com</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Owner><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SetDate
+	dt:dt="string">2018-08-24T05:45:35.7948937Z</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SetDate><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Name
+	dt:dt="string">Internal</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Name><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Application
+	dt:dt="string">Microsoft Azure Information Protection</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Application><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Parent
+	dt:dt="string">585f1f62-8d2b-4457-869c-0a13c6549635</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Parent><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Extended_MSFT_Method
+	dt:dt="string">Automatic</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Extended_MSFT_Method><o:Sensitivity
+	dt:dt="string">Private Internal</o:Sensitivity></o:CustomDocumentProperties><w:fonts><w:defaultFonts
+	w:ascii="Calibri" w:fareast="宋体" w:h-ansi="Calibri"
+	w:cs="Times New Roman" /><w:font w:name="Times New Roman"><w:panose-1
+	w:val="02020603050405020304" /><w:charset w:val="00" /><w:family
+	w:val="Roman" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="E0002AFF" w:usb-1="C0007841" w:usb-2="00000009"
+	w:usb-3="00000000" w:csb-0="000001FF" w:csb-1="00000000" /></w:font><w:font
+	w:name="Arial"><w:panose-1 w:val="020B0604020202020204" /><w:charset
+	w:val="00" /><w:family w:val="Swiss" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="E0002AFF" w:usb-1="C0007843"
+	w:usb-2="00000009" w:usb-3="00000000" w:csb-0="000001FF"
+	w:csb-1="00000000" /></w:font><w:font w:name="宋体"><w:altName
+	w:val="SimSun" /><w:panose-1 w:val="02010600030101010101" /><w:charset
+	w:val="86" /><w:family w:val="auto" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="00000003" w:usb-1="288F0000"
+	w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001"
+	w:csb-1="00000000" /></w:font><w:font w:name="宋体"><w:altName
+	w:val="SimSun" /><w:panose-1 w:val="02010600030101010101" /><w:charset
+	w:val="86" /><w:family w:val="auto" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="00000003" w:usb-1="288F0000"
+	w:usb-2="00000016" w:usb-3="00000000" w:csb-0="00040001"
+	w:csb-1="00000000" /></w:font><w:font w:name="Calibri"><w:panose-1
+	w:val="020F0502020204030204" /><w:charset w:val="00" /><w:family
+	w:val="Swiss" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="E10002FF" w:usb-1="4000ACFF" w:usb-2="00000009"
+	w:usb-3="00000000" w:csb-0="0000019F" w:csb-1="00000000" /></w:font><w:font
+	w:name="Tahoma"><w:panose-1 w:val="020B0604030504040204" /><w:charset
+	w:val="00" /><w:family w:val="Swiss" /><w:notTrueType /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="00000003" w:usb-1="00000000"
+	w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001"
+	w:csb-1="00000000" /></w:font><w:font w:name="Arial Narrow"><w:panose-1
+	w:val="020B0606020202030204" /><w:charset w:val="00" /><w:family
+	w:val="Swiss" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000287" w:usb-1="00000800" w:usb-2="00000000"
+	w:usb-3="00000000" w:csb-0="0000009F" w:csb-1="00000000" /></w:font><w:font
+	w:name="Britannic Bold"><w:panose-1 w:val="020B0903060703020204" /><w:charset
+	w:val="00" /><w:family w:val="Swiss" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="00000003" w:usb-1="00000000"
+	w:usb-2="00000000" w:usb-3="00000000" w:csb-0="00000001"
+	w:csb-1="00000000" /></w:font><w:font w:name="@宋体"><w:panose-1
+	w:val="02010600030101010101" /><w:charset w:val="86" /><w:family
+	w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016"
+	w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" /></w:font></w:fonts><w:styles><w:versionOfBuiltInStylenames
+	w:val="7" /><w:latentStyles w:defLockedState="off"
+	w:latentStyleCount="267"><w:lsdException w:name="Normal" /><w:lsdException
+	w:name="heading 1" /><w:lsdException w:name="heading 2" /><w:lsdException
+	w:name="heading 3" /><w:lsdException w:name="heading 4" /><w:lsdException
+	w:name="heading 5" /><w:lsdException w:name="heading 6" /><w:lsdException
+	w:name="heading 7" /><w:lsdException w:name="heading 8" /><w:lsdException
+	w:name="heading 9" /><w:lsdException w:name="caption" /><w:lsdException
+	w:name="Title" /><w:lsdException w:name="Subtitle" /><w:lsdException
+	w:name="Strong" /><w:lsdException w:name="Emphasis" /><w:lsdException
+	w:name="No Spacing" /><w:lsdException
+	w:name="List Paragraph" /><w:lsdException w:name="Quote" /><w:lsdException
+	w:name="Intense Quote" /><w:lsdException
+	w:name="Subtle Emphasis" /><w:lsdException
+	w:name="Intense Emphasis" /><w:lsdException
+	w:name="Subtle Reference" /><w:lsdException
+	w:name="Intense Reference" /><w:lsdException
+	w:name="Book Title" /><w:lsdException
+	w:name="TOC Heading" /></w:latentStyles><w:style
+	w:type="paragraph" w:default="on" w:styleId="Normal"><w:name
+	w:val="Normal" /><w:rsid w:val="002862E8" /><w:pPr><w:spacing
+	w:after="200" w:line="276" w:line-rule="auto" /></w:pPr><w:rPr><wx:font
+	wx:val="Calibri" /><w:sz w:val="22" /><w:sz-cs w:val="22" /><w:lang
+	w:val="EN-US" w:fareast="EN-US" w:bidi="AR-SA" /></w:rPr></w:style><w:style
+	w:type="character" w:default="on" w:styleId="DefaultParagraphFont"><w:name
+	w:val="Default Paragraph Font" /></w:style><w:style
+	w:type="table" w:default="on" w:styleId="TableNormal"><w:name
+	w:val="Normal Table" /><wx:uiName wx:val="Table Normal" /><w:rPr><wx:font
+	wx:val="Calibri" /><w:lang w:val="EN-US" w:fareast="ZH-CN"
+	w:bidi="AR-SA" /></w:rPr><w:tblPr><w:tblInd w:w="0"
+	w:type="dxa" /><w:tblCellMar><w:top w:w="0" w:type="dxa" /><w:left
+	w:w="108" w:type="dxa" /><w:bottom w:w="0" w:type="dxa" /><w:right
+	w:w="108" w:type="dxa" /></w:tblCellMar></w:tblPr></w:style><w:style
+	w:type="list" w:default="on" w:styleId="NoList"><w:name w:val="No List" /></w:style><w:style
+	w:type="paragraph" w:styleId="Header"><w:name w:val="header" /><wx:uiName
+	wx:val="Header" /><w:basedOn w:val="Normal" /><w:link
+	w:val="HeaderChar" /><w:rsid w:val="00F0059A" /><w:pPr><w:tabs><w:tab
+	w:val="center" w:pos="4680" /><w:tab w:val="right" w:pos="9360" /></w:tabs><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /></w:pPr><w:rPr><wx:font
+	wx:val="Calibri" /></w:rPr></w:style><w:style
+	w:type="character" w:styleId="HeaderChar"><w:name w:val="Header Char" /><w:basedOn
+	w:val="DefaultParagraphFont" /><w:link w:val="Header" /><w:rsid
+	w:val="00F0059A" /></w:style><w:style w:type="paragraph"
+	w:styleId="Footer"><w:name w:val="footer" /><wx:uiName
+	wx:val="Footer" /><w:basedOn w:val="Normal" /><w:link
+	w:val="FooterChar" /><w:rsid w:val="00F0059A" /><w:pPr><w:tabs><w:tab
+	w:val="center" w:pos="4680" /><w:tab w:val="right" w:pos="9360" /></w:tabs><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /></w:pPr><w:rPr><wx:font
+	wx:val="Calibri" /></w:rPr></w:style><w:style
+	w:type="character" w:styleId="FooterChar"><w:name w:val="Footer Char" /><w:basedOn
+	w:val="DefaultParagraphFont" /><w:link w:val="Footer" /><w:rsid
+	w:val="00F0059A" /></w:style><w:style w:type="character"
+	w:styleId="Hyperlink"><w:name w:val="Hyperlink" /><w:rsid
+	w:val="006556CF" /><w:rPr><w:color w:val="0000FF" /><w:u
+	w:val="single" /></w:rPr></w:style><w:style w:type="paragraph"
+	w:styleId="BalloonText"><w:name w:val="Balloon Text" /><w:basedOn
+	w:val="Normal" /><w:link w:val="BalloonTextChar" /><w:rsid
+	w:val="006F5EAA" /><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /></w:pPr><w:rPr><w:rFonts w:ascii="Tahoma"
+	w:h-ansi="Tahoma" w:cs="Tahoma" /><wx:font wx:val="Tahoma" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /></w:rPr></w:style><w:style
+	w:type="character" w:styleId="BalloonTextChar"><w:name w:val="Balloon Text Char" /><w:link
+	w:val="BalloonText" /><w:rsid w:val="006F5EAA" /><w:rPr><w:rFonts
+	w:ascii="Tahoma" w:h-ansi="Tahoma" w:cs="Tahoma" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="EN-US" /></w:rPr></w:style></w:styles><w:divs><w:div
+	w:id="19471809"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="247813282"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="290668281"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="380977100"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="647245346"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="767192808"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="793793046"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="830871210"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1152603401"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1166940405"><w:bodyDiv w:val="on" /><w:marLeft w:val="20" /><w:marRight
+	w:val="20" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr><w:divsChild><w:div
+	w:id="655912259"><w:marLeft w:val="0" /><w:marRight w:val="0" /><w:marTop
+	w:val="0" /><w:marBottom w:val="0" /><w:divBdr><w:top
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr><w:divsChild><w:div
+	w:id="1926762498"><w:marLeft w:val="0" /><w:marRight w:val="0" /><w:marTop
+	w:val="0" /><w:marBottom w:val="0" /><w:divBdr><w:top
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr><w:divsChild><w:div
+	w:id="1273241879"><w:marLeft w:val="120" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr><w:divsChild><w:div
+	w:id="2106923722"><w:marLeft w:val="0" /><w:marRight w:val="0" /><w:marTop
+	w:val="0" /><w:marBottom w:val="0" /><w:divBdr><w:top
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div></w:divsChild></w:div></w:divsChild></w:div></w:divsChild></w:div></w:divsChild></w:div><w:div
+	w:id="1204904275"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1448163875"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1657027592"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1693267533"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1785466937"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1880511402"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="1974944158"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div><w:div
+	w:id="2120640994"><w:bodyDiv w:val="on" /><w:marLeft w:val="0" /><w:marRight
+	w:val="0" /><w:marTop w:val="0" /><w:marBottom
+	w:val="0" /><w:divBdr><w:top w:val="none" w:sz="0"
+	wx:bdrwidth="0" w:space="0" w:color="auto" /><w:left
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:bottom
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /><w:right
+	w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto" /></w:divBdr></w:div></w:divs><w:shapeDefaults><o:shapedefaults
+	v:ext="edit" spidmax="2053" /><o:shapelayout v:ext="edit"><o:idmap
+	v:ext="edit" data="1" /></o:shapelayout></w:shapeDefaults><w:docPr><w:view
+	w:val="print" /><w:zoom w:percent="100" /><w:doNotEmbedSystemFonts /><w:bordersDontSurroundHeader /><w:bordersDontSurroundFooter /><w:proofState
+	w:spelling="clean" w:grammar="clean" /><w:defaultTabStop
+	w:val="720" /><w:drawingGridHorizontalSpacing
+	w:val="110" /><w:displayHorizontalDrawingGridEvery
+	w:val="2" /><w:punctuationKerning /><w:characterSpacingControl
+	w:val="DontCompress" /><w:optimizeForBrowser /><w:validateAgainstSchema /><w:saveInvalidXML
+	w:val="off" /><w:ignoreMixedContent w:val="off" /><w:alwaysShowPlaceholderText
+	w:val="off" /><w:hdrShapeDefaults><o:shapedefaults
+	v:ext="edit" spidmax="2053" /><o:shapelayout v:ext="edit"><o:idmap
+	v:ext="edit" data="2" /></o:shapelayout></w:hdrShapeDefaults><w:footnotePr><w:footnote
+	w:type="separator"><w:p wsp:rsidR="00F006D1" wsp:rsidRDefault="00F006D1"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /></w:pPr><w:r><w:separator /></w:r></w:p></w:footnote><w:footnote
+	w:type="continuation-separator"><w:p wsp:rsidR="00F006D1" wsp:rsidRDefault="00F006D1"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /></w:pPr><w:r><w:continuationSeparator /></w:r></w:p></w:footnote></w:footnotePr><w:endnotePr><w:endnote
+	w:type="separator"><w:p wsp:rsidR="00F006D1" wsp:rsidRDefault="00F006D1"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /></w:pPr><w:r><w:separator /></w:r></w:p></w:endnote><w:endnote
+	w:type="continuation-separator"><w:p wsp:rsidR="00F006D1" wsp:rsidRDefault="00F006D1"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /></w:pPr><w:r><w:continuationSeparator /></w:r></w:p></w:endnote></w:endnotePr><w:compat><w:breakWrappedTables /><w:snapToGridInCell /><w:wrapTextWithPunct /><w:useAsianBreakRules /><w:dontGrowAutofit /><w:useFELayout /></w:compat><wsp:rsids><wsp:rsidRoot
+	wsp:val="00F0059A" /><wsp:rsid wsp:val="00001666" /><wsp:rsid
+	wsp:val="00001690" /><wsp:rsid wsp:val="000066F7" /><wsp:rsid
+	wsp:val="00010D56" /><wsp:rsid wsp:val="00010D61" /><wsp:rsid
+	wsp:val="0001212D" /><wsp:rsid wsp:val="00017AF9" /><wsp:rsid
+	wsp:val="00023954" /><wsp:rsid wsp:val="000265AF" /><wsp:rsid
+	wsp:val="00027082" /><wsp:rsid wsp:val="0003345C" /><wsp:rsid
+	wsp:val="000339CF" /><wsp:rsid wsp:val="00034BD5" /><wsp:rsid
+	wsp:val="00044BC7" /><wsp:rsid wsp:val="00047706" /><wsp:rsid
+	wsp:val="00047A71" /><wsp:rsid wsp:val="000612B5" /><wsp:rsid
+	wsp:val="000619D1" /><wsp:rsid wsp:val="00066E8F" /><wsp:rsid
+	wsp:val="00081EC4" /><wsp:rsid wsp:val="00083E5C" /><wsp:rsid
+	wsp:val="0008502C" /><wsp:rsid wsp:val="00087091" /><wsp:rsid
+	wsp:val="000950B9" /><wsp:rsid wsp:val="000A03B6" /><wsp:rsid
+	wsp:val="000A2A87" /><wsp:rsid wsp:val="000A3738" /><wsp:rsid
+	wsp:val="000A48FA" /><wsp:rsid wsp:val="000A6199" /><wsp:rsid
+	wsp:val="000A63E9" /><wsp:rsid wsp:val="000A7E79" /><wsp:rsid
+	wsp:val="000B08F5" /><wsp:rsid wsp:val="000B0968" /><wsp:rsid
+	wsp:val="000B4388" /><wsp:rsid wsp:val="000B6BB3" /><wsp:rsid
+	wsp:val="000C099D" /><wsp:rsid wsp:val="000C10C5" /><wsp:rsid
+	wsp:val="000C1B1E" /><wsp:rsid wsp:val="000C3C53" /><wsp:rsid
+	wsp:val="000D0923" /><wsp:rsid wsp:val="000D6451" /><wsp:rsid
+	wsp:val="000D6BC8" /><wsp:rsid wsp:val="000E4B94" /><wsp:rsid
+	wsp:val="000E55DA" /><wsp:rsid wsp:val="000E598B" /><wsp:rsid
+	wsp:val="000F1B7C" /><wsp:rsid wsp:val="000F3754" /><wsp:rsid
+	wsp:val="000F702F" /><wsp:rsid wsp:val="000F75EB" /><wsp:rsid
+	wsp:val="001024A9" /><wsp:rsid wsp:val="00117398" /><wsp:rsid
+	wsp:val="0012460E" /><wsp:rsid wsp:val="0012523C" /><wsp:rsid
+	wsp:val="00125949" /><wsp:rsid wsp:val="00126793" /><wsp:rsid
+	wsp:val="001333B2" /><wsp:rsid wsp:val="00142101" /><wsp:rsid
+	wsp:val="00143B2E" /><wsp:rsid wsp:val="00150D66" /><wsp:rsid
+	wsp:val="001530B0" /><wsp:rsid wsp:val="001549CC" /><wsp:rsid
+	wsp:val="00155FF3" /><wsp:rsid wsp:val="00156DE2" /><wsp:rsid
+	wsp:val="001570BE" /><wsp:rsid wsp:val="00164399" /><wsp:rsid
+	wsp:val="0017354D" /><wsp:rsid wsp:val="0018397D" /><wsp:rsid
+	wsp:val="00190542" /><wsp:rsid wsp:val="0019575D" /><wsp:rsid
+	wsp:val="0019712D" /><wsp:rsid wsp:val="00197BB9" /><wsp:rsid
+	wsp:val="001A2D4C" /><wsp:rsid wsp:val="001A476E" /><wsp:rsid
+	wsp:val="001B1439" /><wsp:rsid wsp:val="001B3F69" /><wsp:rsid
+	wsp:val="001B5364" /><wsp:rsid wsp:val="001B6E0B" /><wsp:rsid
+	wsp:val="001B7EC0" /><wsp:rsid wsp:val="001C2EC6" /><wsp:rsid
+	wsp:val="001C5750" /><wsp:rsid wsp:val="001D203D" /><wsp:rsid
+	wsp:val="001D3C22" /><wsp:rsid wsp:val="001D6A13" /><wsp:rsid
+	wsp:val="001E6240" /><wsp:rsid wsp:val="001F21B3" /><wsp:rsid
+	wsp:val="001F3000" /><wsp:rsid wsp:val="00204BC8" /><wsp:rsid
+	wsp:val="00205DED" /><wsp:rsid wsp:val="00207F97" /><wsp:rsid
+	wsp:val="00210EF8" /><wsp:rsid wsp:val="00214BEF" /><wsp:rsid
+	wsp:val="002176ED" /><wsp:rsid wsp:val="0022008D" /><wsp:rsid
+	wsp:val="0022436B" /><wsp:rsid wsp:val="00224BE5" /><wsp:rsid
+	wsp:val="0023031C" /><wsp:rsid wsp:val="00234CF1" /><wsp:rsid
+	wsp:val="002350D7" /><wsp:rsid wsp:val="0023604D" /><wsp:rsid
+	wsp:val="0024591A" /><wsp:rsid wsp:val="002460F9" /><wsp:rsid
+	wsp:val="00250573" /><wsp:rsid wsp:val="002601A9" /><wsp:rsid
+	wsp:val="002623DD" /><wsp:rsid wsp:val="00262722" /><wsp:rsid
+	wsp:val="002723DF" /><wsp:rsid wsp:val="00276998" /><wsp:rsid
+	wsp:val="002845A0" /><wsp:rsid wsp:val="002862E8" /><wsp:rsid
+	wsp:val="00286D42" /><wsp:rsid wsp:val="0029222C" /><wsp:rsid
+	wsp:val="002955BE" /><wsp:rsid wsp:val="00295D06" /><wsp:rsid
+	wsp:val="00296143" /><wsp:rsid wsp:val="002963FE" /><wsp:rsid
+	wsp:val="002A106A" /><wsp:rsid wsp:val="002B126F" /><wsp:rsid
+	wsp:val="002B2234" /><wsp:rsid wsp:val="002B371E" /><wsp:rsid
+	wsp:val="002B7944" /><wsp:rsid wsp:val="002C0DA0" /><wsp:rsid
+	wsp:val="002C250B" /><wsp:rsid wsp:val="002C2D36" /><wsp:rsid
+	wsp:val="002C500E" /><wsp:rsid wsp:val="002C7136" /><wsp:rsid
+	wsp:val="002D1150" /><wsp:rsid wsp:val="002D14BC" /><wsp:rsid
+	wsp:val="002D3A5C" /><wsp:rsid wsp:val="002D3CFD" /><wsp:rsid
+	wsp:val="002D58CA" /><wsp:rsid wsp:val="002E20F4" /><wsp:rsid
+	wsp:val="002E424A" /><wsp:rsid wsp:val="002F54C9" /><wsp:rsid
+	wsp:val="002F5606" /><wsp:rsid wsp:val="002F6080" /><wsp:rsid
+	wsp:val="00302428" /><wsp:rsid wsp:val="00305657" /><wsp:rsid
+	wsp:val="003143C6" /><wsp:rsid wsp:val="003149E7" /><wsp:rsid
+	wsp:val="003155CD" /><wsp:rsid wsp:val="003156BB" /><wsp:rsid
+	wsp:val="00315D94" /><wsp:rsid wsp:val="00316BEF" /><wsp:rsid
+	wsp:val="00325935" /><wsp:rsid wsp:val="003259F9" /><wsp:rsid
+	wsp:val="00330514" /><wsp:rsid wsp:val="00331025" /><wsp:rsid
+	wsp:val="00332145" /><wsp:rsid wsp:val="00335AA5" /><wsp:rsid
+	wsp:val="0034175A" /><wsp:rsid wsp:val="0034366F" /><wsp:rsid
+	wsp:val="0035426D" /><wsp:rsid wsp:val="00354671" /><wsp:rsid
+	wsp:val="00355BEB" /><wsp:rsid wsp:val="003574A7" /><wsp:rsid
+	wsp:val="00363F46" /><wsp:rsid wsp:val="00367566" /><wsp:rsid
+	wsp:val="00370D32" /><wsp:rsid wsp:val="003742C3" /><wsp:rsid
+	wsp:val="00374E4B" /><wsp:rsid wsp:val="0037527D" /><wsp:rsid
+	wsp:val="003755F6" /><wsp:rsid wsp:val="0037615A" /><wsp:rsid
+	wsp:val="00384314" /><wsp:rsid wsp:val="00384A38" /><wsp:rsid
+	wsp:val="003852B3" /><wsp:rsid wsp:val="00390C41" /><wsp:rsid
+	wsp:val="00390FC6" /><wsp:rsid wsp:val="00395560" /><wsp:rsid
+	wsp:val="00395ABF" /><wsp:rsid wsp:val="00396517" /><wsp:rsid
+	wsp:val="003971FE" /><wsp:rsid wsp:val="00397F61" /><wsp:rsid
+	wsp:val="003A285F" /><wsp:rsid wsp:val="003A2945" /><wsp:rsid
+	wsp:val="003A569C" /><wsp:rsid wsp:val="003A7A1A" /><wsp:rsid
+	wsp:val="003B6B58" /><wsp:rsid wsp:val="003C222E" /><wsp:rsid
+	wsp:val="003C3AE7" /><wsp:rsid wsp:val="003C753D" /><wsp:rsid
+	wsp:val="003D0180" /><wsp:rsid wsp:val="003D215B" /><wsp:rsid
+	wsp:val="003D2EB7" /><wsp:rsid wsp:val="003D3C39" /><wsp:rsid
+	wsp:val="003D7D00" /><wsp:rsid wsp:val="003E2F69" /><wsp:rsid
+	wsp:val="003E3365" /><wsp:rsid wsp:val="003E42DA" /><wsp:rsid
+	wsp:val="003F25CE" /><wsp:rsid wsp:val="003F29FD" /><wsp:rsid
+	wsp:val="003F2B67" /><wsp:rsid wsp:val="003F32FE" /><wsp:rsid
+	wsp:val="004003E3" /><wsp:rsid wsp:val="004011CD" /><wsp:rsid
+	wsp:val="004016BC" /><wsp:rsid wsp:val="00401F09" /><wsp:rsid
+	wsp:val="004033D7" /><wsp:rsid wsp:val="00405D49" /><wsp:rsid
+	wsp:val="004109DA" /><wsp:rsid wsp:val="00411F86" /><wsp:rsid
+	wsp:val="00413053" /><wsp:rsid wsp:val="004138DC" /><wsp:rsid
+	wsp:val="0041500C" /><wsp:rsid wsp:val="00416219" /><wsp:rsid
+	wsp:val="004172AF" /><wsp:rsid wsp:val="00420064" /><wsp:rsid
+	wsp:val="0042394E" /><wsp:rsid wsp:val="004265E9" /><wsp:rsid
+	wsp:val="00427985" /><wsp:rsid wsp:val="00443E8F" /><wsp:rsid
+	wsp:val="004451A2" /><wsp:rsid wsp:val="004474E2" /><wsp:rsid
+	wsp:val="004502ED" /><wsp:rsid wsp:val="00453A88" /><wsp:rsid
+	wsp:val="0045432C" /><wsp:rsid wsp:val="00454DB8" /><wsp:rsid
+	wsp:val="004553F3" /><wsp:rsid wsp:val="00463FF4" /><wsp:rsid
+	wsp:val="00464865" /><wsp:rsid wsp:val="00464A41" /><wsp:rsid
+	wsp:val="004665E1" /><wsp:rsid wsp:val="00467E0B" /><wsp:rsid
+	wsp:val="004708F5" /><wsp:rsid wsp:val="004717B7" /><wsp:rsid
+	wsp:val="00474CA1" /><wsp:rsid wsp:val="00475766" /><wsp:rsid
+	wsp:val="00476656" /><wsp:rsid wsp:val="00477AD2" /><wsp:rsid
+	wsp:val="00482AD2" /><wsp:rsid wsp:val="00490CC4" /><wsp:rsid
+	wsp:val="00495662" /><wsp:rsid wsp:val="00496C3A" /><wsp:rsid
+	wsp:val="004A04AD" /><wsp:rsid wsp:val="004A170E" /><wsp:rsid
+	wsp:val="004A743E" /><wsp:rsid wsp:val="004B1AE5" /><wsp:rsid
+	wsp:val="004B59CB" /><wsp:rsid wsp:val="004C16DC" /><wsp:rsid
+	wsp:val="004C3A02" /><wsp:rsid wsp:val="004D0DEE" /><wsp:rsid
+	wsp:val="004D13BB" /><wsp:rsid wsp:val="004D2CBF" /><wsp:rsid
+	wsp:val="004D3527" /><wsp:rsid wsp:val="004D6643" /><wsp:rsid
+	wsp:val="004E3133" /><wsp:rsid wsp:val="004E765A" /><wsp:rsid
+	wsp:val="004F20FB" /><wsp:rsid wsp:val="004F471B" /><wsp:rsid
+	wsp:val="004F4F80" /><wsp:rsid wsp:val="004F5590" /><wsp:rsid
+	wsp:val="004F7104" /><wsp:rsid wsp:val="005005C3" /><wsp:rsid
+	wsp:val="0050371F" /><wsp:rsid wsp:val="005045B7" /><wsp:rsid
+	wsp:val="005055DB" /><wsp:rsid wsp:val="00512B65" /><wsp:rsid
+	wsp:val="00513393" /><wsp:rsid wsp:val="00513A74" /><wsp:rsid
+	wsp:val="005212A4" /><wsp:rsid wsp:val="0052133A" /><wsp:rsid
+	wsp:val="00524670" /><wsp:rsid wsp:val="0053027A" /><wsp:rsid
+	wsp:val="00530D54" /><wsp:rsid wsp:val="005439F6" /><wsp:rsid
+	wsp:val="0055160A" /><wsp:rsid wsp:val="00551E33" /><wsp:rsid
+	wsp:val="0055296E" /><wsp:rsid wsp:val="00556D50" /><wsp:rsid
+	wsp:val="00560BE3" /><wsp:rsid wsp:val="00560C2E" /><wsp:rsid
+	wsp:val="00566008" /><wsp:rsid wsp:val="005671E2" /><wsp:rsid
+	wsp:val="00572D9A" /><wsp:rsid wsp:val="005741CD" /><wsp:rsid
+	wsp:val="00574DB7" /><wsp:rsid wsp:val="005758E5" /><wsp:rsid
+	wsp:val="00577473" /><wsp:rsid wsp:val="00592D11" /><wsp:rsid
+	wsp:val="00593CB2" /><wsp:rsid wsp:val="00593E6E" /><wsp:rsid
+	wsp:val="00595BBA" /><wsp:rsid wsp:val="005968D5" /><wsp:rsid
+	wsp:val="005A26EA" /><wsp:rsid wsp:val="005A585D" /><wsp:rsid
+	wsp:val="005B0BE7" /><wsp:rsid wsp:val="005B4BF4" /><wsp:rsid
+	wsp:val="005B5300" /><wsp:rsid wsp:val="005B7618" /><wsp:rsid
+	wsp:val="005C0A87" /><wsp:rsid wsp:val="005C22C3" /><wsp:rsid
+	wsp:val="005C44E5" /><wsp:rsid wsp:val="005C49DB" /><wsp:rsid
+	wsp:val="005C4B22" /><wsp:rsid wsp:val="005D22F3" /><wsp:rsid
+	wsp:val="005D2562" /><wsp:rsid wsp:val="005D3DA7" /><wsp:rsid
+	wsp:val="005D41B6" /><wsp:rsid wsp:val="005D578A" /><wsp:rsid
+	wsp:val="005D6FBB" /><wsp:rsid wsp:val="005D7066" /><wsp:rsid
+	wsp:val="005E00CA" /><wsp:rsid wsp:val="005E0989" /><wsp:rsid
+	wsp:val="005E4EBD" /><wsp:rsid wsp:val="005E7DC6" /><wsp:rsid
+	wsp:val="005F6629" /><wsp:rsid wsp:val="005F6B38" /><wsp:rsid
+	wsp:val="005F764C" /><wsp:rsid wsp:val="005F7862" /><wsp:rsid
+	wsp:val="005F7CC4" /><wsp:rsid wsp:val="00600B07" /><wsp:rsid
+	wsp:val="00603CC0" /><wsp:rsid wsp:val="00607751" /><wsp:rsid
+	wsp:val="00612BF5" /><wsp:rsid wsp:val="00617591" /><wsp:rsid
+	wsp:val="00620D3C" /><wsp:rsid wsp:val="0062613D" /><wsp:rsid
+	wsp:val="0062792C" /><wsp:rsid wsp:val="00627AAB" /><wsp:rsid
+	wsp:val="00630AAE" /><wsp:rsid wsp:val="0063463C" /><wsp:rsid
+	wsp:val="006368B7" /><wsp:rsid wsp:val="0064234D" /><wsp:rsid
+	wsp:val="006454E2" /><wsp:rsid wsp:val="0064663B" /><wsp:rsid
+	wsp:val="00647839" /><wsp:rsid wsp:val="0065095A" /><wsp:rsid
+	wsp:val="006526B9" /><wsp:rsid wsp:val="006556CF" /><wsp:rsid
+	wsp:val="006558B5" /><wsp:rsid wsp:val="0065620C" /><wsp:rsid
+	wsp:val="00657A38" /><wsp:rsid wsp:val="00661021" /><wsp:rsid
+	wsp:val="00667420" /><wsp:rsid wsp:val="00667AA6" /><wsp:rsid
+	wsp:val="0067260C" /><wsp:rsid wsp:val="00675716" /><wsp:rsid
+	wsp:val="00676F34" /><wsp:rsid wsp:val="00677DC3" /><wsp:rsid
+	wsp:val="00681353" /><wsp:rsid wsp:val="00685012" /><wsp:rsid
+	wsp:val="00692E78" /><wsp:rsid wsp:val="006A2F0E" /><wsp:rsid
+	wsp:val="006A4BD6" /><wsp:rsid wsp:val="006A6ED5" /><wsp:rsid
+	wsp:val="006B0846" /><wsp:rsid wsp:val="006B29BC" /><wsp:rsid
+	wsp:val="006B3D2D" /><wsp:rsid wsp:val="006B52A6" /><wsp:rsid
+	wsp:val="006C3E84" /><wsp:rsid wsp:val="006C415D" /><wsp:rsid
+	wsp:val="006C750C" /><wsp:rsid wsp:val="006D2C73" /><wsp:rsid
+	wsp:val="006D3D0C" /><wsp:rsid wsp:val="006D4735" /><wsp:rsid
+	wsp:val="006D5063" /><wsp:rsid wsp:val="006D67DF" /><wsp:rsid
+	wsp:val="006E0B78" /><wsp:rsid wsp:val="006F4FF2" /><wsp:rsid
+	wsp:val="006F5EAA" /><wsp:rsid wsp:val="006F6306" /><wsp:rsid
+	wsp:val="006F70E6" /><wsp:rsid wsp:val="007032CB" /><wsp:rsid
+	wsp:val="00706570" /><wsp:rsid wsp:val="00707E84" /><wsp:rsid
+	wsp:val="00711787" /><wsp:rsid wsp:val="00714A4D" /><wsp:rsid
+	wsp:val="0072277B" /><wsp:rsid wsp:val="00724C98" /><wsp:rsid
+	wsp:val="00725429" /><wsp:rsid wsp:val="007259F1" /><wsp:rsid
+	wsp:val="00726099" /><wsp:rsid wsp:val="00730675" /><wsp:rsid
+	wsp:val="007335DF" /><wsp:rsid wsp:val="00733EA3" /><wsp:rsid
+	wsp:val="00734936" /><wsp:rsid wsp:val="00735A90" /><wsp:rsid
+	wsp:val="0074426E" /><wsp:rsid wsp:val="0074533D" /><wsp:rsid
+	wsp:val="007457D8" /><wsp:rsid wsp:val="0075290B" /><wsp:rsid
+	wsp:val="0075447B" /><wsp:rsid wsp:val="0075597C" /><wsp:rsid
+	wsp:val="00756D41" /><wsp:rsid wsp:val="00763157" /><wsp:rsid
+	wsp:val="007633A3" /><wsp:rsid wsp:val="00765E4E" /><wsp:rsid
+	wsp:val="00770DB7" /><wsp:rsid wsp:val="00776993" /><wsp:rsid
+	wsp:val="00776B53" /><wsp:rsid wsp:val="00780D73" /><wsp:rsid
+	wsp:val="00781B28" /><wsp:rsid wsp:val="007907A0" /><wsp:rsid
+	wsp:val="0079569F" /><wsp:rsid wsp:val="007B0A50" /><wsp:rsid
+	wsp:val="007B7043" /><wsp:rsid wsp:val="007C0CFD" /><wsp:rsid
+	wsp:val="007C1FB1" /><wsp:rsid wsp:val="007C2F68" /><wsp:rsid
+	wsp:val="007D131D" /><wsp:rsid wsp:val="007D5E0B" /><wsp:rsid
+	wsp:val="007D6DF6" /><wsp:rsid wsp:val="007E2C09" /><wsp:rsid
+	wsp:val="007F190F" /><wsp:rsid wsp:val="007F1F97" /><wsp:rsid
+	wsp:val="007F2E0D" /><wsp:rsid wsp:val="008003CC" /><wsp:rsid
+	wsp:val="008048D7" /><wsp:rsid wsp:val="00804C96" /><wsp:rsid
+	wsp:val="0080511C" /><wsp:rsid wsp:val="0080614F" /><wsp:rsid
+	wsp:val="00811B57" /><wsp:rsid wsp:val="00812453" /><wsp:rsid
+	wsp:val="00822331" /><wsp:rsid wsp:val="008235EB" /><wsp:rsid
+	wsp:val="008377D7" /><wsp:rsid wsp:val="00840B32" /><wsp:rsid
+	wsp:val="00841E6C" /><wsp:rsid wsp:val="00843C26" /><wsp:rsid
+	wsp:val="0084638A" /><wsp:rsid wsp:val="00851E57" /><wsp:rsid
+	wsp:val="00852271" /><wsp:rsid wsp:val="008549ED" /><wsp:rsid
+	wsp:val="0085597A" /><wsp:rsid wsp:val="00862673" /><wsp:rsid
+	wsp:val="008629CA" /><wsp:rsid wsp:val="00865D9A" /><wsp:rsid
+	wsp:val="0087038F" /><wsp:rsid wsp:val="00872B5F" /><wsp:rsid
+	wsp:val="00873668" /><wsp:rsid wsp:val="00876FC7" /><wsp:rsid
+	wsp:val="008778DF" /><wsp:rsid wsp:val="00880202" /><wsp:rsid
+	wsp:val="00880F69" /><wsp:rsid wsp:val="00884DA3" /><wsp:rsid
+	wsp:val="00885EA0" /><wsp:rsid wsp:val="00890F73" /><wsp:rsid
+	wsp:val="0089282C" /><wsp:rsid wsp:val="008A07B9" /><wsp:rsid
+	wsp:val="008A0964" /><wsp:rsid wsp:val="008A1573" /><wsp:rsid
+	wsp:val="008A1FED" /><wsp:rsid wsp:val="008A7707" /><wsp:rsid
+	wsp:val="008B0DC7" /><wsp:rsid wsp:val="008B3297" /><wsp:rsid
+	wsp:val="008B5168" /><wsp:rsid wsp:val="008C13B7" /><wsp:rsid
+	wsp:val="008C2592" /><wsp:rsid wsp:val="008C2E3B" /><wsp:rsid
+	wsp:val="008C7A6C" /><wsp:rsid wsp:val="008D1061" /><wsp:rsid
+	wsp:val="008D2558" /><wsp:rsid wsp:val="008D2B4F" /><wsp:rsid
+	wsp:val="008D3FDF" /><wsp:rsid wsp:val="008D5912" /><wsp:rsid
+	wsp:val="008E2A4C" /><wsp:rsid wsp:val="008E49B6" /><wsp:rsid
+	wsp:val="008F4399" /><wsp:rsid wsp:val="008F5824" /><wsp:rsid
+	wsp:val="0090236F" /><wsp:rsid wsp:val="0090502F" /><wsp:rsid
+	wsp:val="0090504B" /><wsp:rsid wsp:val="009056C5" /><wsp:rsid
+	wsp:val="009067CE" /><wsp:rsid wsp:val="00911795" /><wsp:rsid
+	wsp:val="00911FE0" /><wsp:rsid wsp:val="00912400" /><wsp:rsid
+	wsp:val="00914CF0" /><wsp:rsid wsp:val="00915BC3" /><wsp:rsid
+	wsp:val="009171A1" /><wsp:rsid wsp:val="00917907" /><wsp:rsid
+	wsp:val="00924268" /><wsp:rsid wsp:val="00925504" /><wsp:rsid
+	wsp:val="00930470" /><wsp:rsid wsp:val="00935FF4" /><wsp:rsid
+	wsp:val="00936257" /><wsp:rsid wsp:val="00955B12" /><wsp:rsid
+	wsp:val="00956B44" /><wsp:rsid wsp:val="0095725F" /><wsp:rsid
+	wsp:val="00962192" /><wsp:rsid wsp:val="00962877" /><wsp:rsid
+	wsp:val="00962FAB" /><wsp:rsid wsp:val="00965137" /><wsp:rsid
+	wsp:val="00966F2B" /><wsp:rsid wsp:val="00975428" /><wsp:rsid
+	wsp:val="00975AA6" /><wsp:rsid wsp:val="00983560" /><wsp:rsid
+	wsp:val="0098397D" /><wsp:rsid wsp:val="00992C73" /><wsp:rsid
+	wsp:val="009963E2" /><wsp:rsid wsp:val="009A1FE2" /><wsp:rsid
+	wsp:val="009A2623" /><wsp:rsid wsp:val="009B373A" /><wsp:rsid
+	wsp:val="009B3AC3" /><wsp:rsid wsp:val="009C0E83" /><wsp:rsid
+	wsp:val="009C781E" /><wsp:rsid wsp:val="009E2366" /><wsp:rsid
+	wsp:val="009E49EB" /><wsp:rsid wsp:val="009E63D9" /><wsp:rsid
+	wsp:val="009F05BE" /><wsp:rsid wsp:val="009F4B90" /><wsp:rsid
+	wsp:val="009F616B" /><wsp:rsid wsp:val="009F73AD" /><wsp:rsid
+	wsp:val="00A01133" /><wsp:rsid wsp:val="00A07BF0" /><wsp:rsid
+	wsp:val="00A102CB" /><wsp:rsid wsp:val="00A153E8" /><wsp:rsid
+	wsp:val="00A20208" /><wsp:rsid wsp:val="00A24B6A" /><wsp:rsid
+	wsp:val="00A27CAE" /><wsp:rsid wsp:val="00A44265" /><wsp:rsid
+	wsp:val="00A44562" /><wsp:rsid wsp:val="00A44AF5" /><wsp:rsid
+	wsp:val="00A4640C" /><wsp:rsid wsp:val="00A4747C" /><wsp:rsid
+	wsp:val="00A474D3" /><wsp:rsid wsp:val="00A50AB3" /><wsp:rsid
+	wsp:val="00A553DF" /><wsp:rsid wsp:val="00A55DCB" /><wsp:rsid
+	wsp:val="00A56410" /><wsp:rsid wsp:val="00A5751E" /><wsp:rsid
+	wsp:val="00A60A5D" /><wsp:rsid wsp:val="00A67C26" /><wsp:rsid
+	wsp:val="00A703CE" /><wsp:rsid wsp:val="00A73DD9" /><wsp:rsid
+	wsp:val="00A839EC" /><wsp:rsid wsp:val="00A85FF2" /><wsp:rsid
+	wsp:val="00A90257" /><wsp:rsid wsp:val="00A95D6E" /><wsp:rsid
+	wsp:val="00AA17FC" /><wsp:rsid wsp:val="00AA6DD5" /><wsp:rsid
+	wsp:val="00AB0187" /><wsp:rsid wsp:val="00AB28D4" /><wsp:rsid
+	wsp:val="00AB6B88" /><wsp:rsid wsp:val="00AC0112" /><wsp:rsid
+	wsp:val="00AC0F51" /><wsp:rsid wsp:val="00AC1C60" /><wsp:rsid
+	wsp:val="00AC4C0D" /><wsp:rsid wsp:val="00AC4F90" /><wsp:rsid
+	wsp:val="00AC5A92" /><wsp:rsid wsp:val="00AD0A43" /><wsp:rsid
+	wsp:val="00AD0BB0" /><wsp:rsid wsp:val="00AD2034" /><wsp:rsid
+	wsp:val="00AD20D8" /><wsp:rsid wsp:val="00AD2365" /><wsp:rsid
+	wsp:val="00AD2CD2" /><wsp:rsid wsp:val="00AD6C59" /><wsp:rsid
+	wsp:val="00AE1394" /><wsp:rsid wsp:val="00AE3D1C" /><wsp:rsid
+	wsp:val="00AE783B" /><wsp:rsid wsp:val="00AF085D" /><wsp:rsid
+	wsp:val="00AF1D47" /><wsp:rsid wsp:val="00AF4C2F" /><wsp:rsid
+	wsp:val="00AF58FC" /><wsp:rsid wsp:val="00B0101B" /><wsp:rsid
+	wsp:val="00B02172" /><wsp:rsid wsp:val="00B04C64" /><wsp:rsid
+	wsp:val="00B06A96" /><wsp:rsid wsp:val="00B12D67" /><wsp:rsid
+	wsp:val="00B20522" /><wsp:rsid wsp:val="00B2779A" /><wsp:rsid
+	wsp:val="00B31146" /><wsp:rsid wsp:val="00B32CDA" /><wsp:rsid
+	wsp:val="00B34C52" /><wsp:rsid wsp:val="00B4503A" /><wsp:rsid
+	wsp:val="00B503E0" /><wsp:rsid wsp:val="00B5234C" /><wsp:rsid
+	wsp:val="00B54C3F" /><wsp:rsid wsp:val="00B5557C" /><wsp:rsid
+	wsp:val="00B56A92" /><wsp:rsid wsp:val="00B61946" /><wsp:rsid
+	wsp:val="00B61A6F" /><wsp:rsid wsp:val="00B62D6A" /><wsp:rsid
+	wsp:val="00B70B63" /><wsp:rsid wsp:val="00B749D5" /><wsp:rsid
+	wsp:val="00B76A04" /><wsp:rsid wsp:val="00B76C5F" /><wsp:rsid
+	wsp:val="00B77FE4" /><wsp:rsid wsp:val="00B81662" /><wsp:rsid
+	wsp:val="00B82873" /><wsp:rsid wsp:val="00B83ADF" /><wsp:rsid
+	wsp:val="00B96048" /><wsp:rsid wsp:val="00BA44CE" /><wsp:rsid
+	wsp:val="00BB4037" /><wsp:rsid wsp:val="00BB6EEB" /><wsp:rsid
+	wsp:val="00BC0BBE" /><wsp:rsid wsp:val="00BC23D6" /><wsp:rsid
+	wsp:val="00BC3675" /><wsp:rsid wsp:val="00BD0D69" /><wsp:rsid
+	wsp:val="00BD1EE5" /><wsp:rsid wsp:val="00BD6582" /><wsp:rsid
+	wsp:val="00BE0567" /><wsp:rsid wsp:val="00BE14E7" /><wsp:rsid
+	wsp:val="00BE2634" /><wsp:rsid wsp:val="00BE3178" /><wsp:rsid
+	wsp:val="00BE4AB5" /><wsp:rsid wsp:val="00BE73E7" /><wsp:rsid
+	wsp:val="00BF2A89" /><wsp:rsid wsp:val="00C035F0" /><wsp:rsid
+	wsp:val="00C0693F" /><wsp:rsid wsp:val="00C1239F" /><wsp:rsid
+	wsp:val="00C134C1" /><wsp:rsid wsp:val="00C1791C" /><wsp:rsid
+	wsp:val="00C20654" /><wsp:rsid wsp:val="00C21693" /><wsp:rsid
+	wsp:val="00C216D9" /><wsp:rsid wsp:val="00C257EB" /><wsp:rsid
+	wsp:val="00C27A28" /><wsp:rsid wsp:val="00C3111C" /><wsp:rsid
+	wsp:val="00C3510B" /><wsp:rsid wsp:val="00C35384" /><wsp:rsid
+	wsp:val="00C379C7" /><wsp:rsid wsp:val="00C404EC" /><wsp:rsid
+	wsp:val="00C43F95" /><wsp:rsid wsp:val="00C45B08" /><wsp:rsid
+	wsp:val="00C46D24" /><wsp:rsid wsp:val="00C56EC1" /><wsp:rsid
+	wsp:val="00C57E20" /><wsp:rsid wsp:val="00C60868" /><wsp:rsid
+	wsp:val="00C63CEA" /><wsp:rsid wsp:val="00C63DB6" /><wsp:rsid
+	wsp:val="00C6504A" /><wsp:rsid wsp:val="00C65D17" /><wsp:rsid
+	wsp:val="00C6655D" /><wsp:rsid wsp:val="00C66D13" /><wsp:rsid
+	wsp:val="00C71193" /><wsp:rsid wsp:val="00C7278B" /><wsp:rsid
+	wsp:val="00C73381" /><wsp:rsid wsp:val="00C76B90" /><wsp:rsid
+	wsp:val="00C84A1C" /><wsp:rsid wsp:val="00C85E24" /><wsp:rsid
+	wsp:val="00C863C8" /><wsp:rsid wsp:val="00C875A6" /><wsp:rsid
+	wsp:val="00C92B3C" /><wsp:rsid wsp:val="00C9314D" /><wsp:rsid
+	wsp:val="00C950DD" /><wsp:rsid wsp:val="00CA1D13" /><wsp:rsid
+	wsp:val="00CA2769" /><wsp:rsid wsp:val="00CB0CCD" /><wsp:rsid
+	wsp:val="00CB1191" /><wsp:rsid wsp:val="00CB2441" /><wsp:rsid
+	wsp:val="00CB320D" /><wsp:rsid wsp:val="00CB38F0" /><wsp:rsid
+	wsp:val="00CB4537" /><wsp:rsid wsp:val="00CB4E47" /><wsp:rsid
+	wsp:val="00CB616C" /><wsp:rsid wsp:val="00CB67FE" /><wsp:rsid
+	wsp:val="00CD563B" /><wsp:rsid wsp:val="00CD7467" /><wsp:rsid
+	wsp:val="00CE25F1" /><wsp:rsid wsp:val="00CE2F0E" /><wsp:rsid
+	wsp:val="00CE3F4E" /><wsp:rsid wsp:val="00CE43B2" /><wsp:rsid
+	wsp:val="00CE5697" /><wsp:rsid wsp:val="00CE71EC" /><wsp:rsid
+	wsp:val="00CF46A5" /><wsp:rsid wsp:val="00CF5853" /><wsp:rsid
+	wsp:val="00D00130" /><wsp:rsid wsp:val="00D01931" /><wsp:rsid
+	wsp:val="00D04041" /><wsp:rsid wsp:val="00D05361" /><wsp:rsid
+	wsp:val="00D1091E" /><wsp:rsid wsp:val="00D119A8" /><wsp:rsid
+	wsp:val="00D16ACD" /><wsp:rsid wsp:val="00D215C1" /><wsp:rsid
+	wsp:val="00D26787" /><wsp:rsid wsp:val="00D27CDE" /><wsp:rsid
+	wsp:val="00D44FB1" /><wsp:rsid wsp:val="00D45F1A" /><wsp:rsid
+	wsp:val="00D47F83" /><wsp:rsid wsp:val="00D47FF2" /><wsp:rsid
+	wsp:val="00D51AAA" /><wsp:rsid wsp:val="00D55686" /><wsp:rsid
+	wsp:val="00D55B77" /><wsp:rsid wsp:val="00D56438" /><wsp:rsid
+	wsp:val="00D604C4" /><wsp:rsid wsp:val="00D6493E" /><wsp:rsid
+	wsp:val="00D66575" /><wsp:rsid wsp:val="00D67CFE" /><wsp:rsid
+	wsp:val="00D726B5" /><wsp:rsid wsp:val="00D7420C" /><wsp:rsid
+	wsp:val="00D806EA" /><wsp:rsid wsp:val="00D82A80" /><wsp:rsid
+	wsp:val="00D852D3" /><wsp:rsid wsp:val="00D872FD" /><wsp:rsid
+	wsp:val="00D9311E" /><wsp:rsid wsp:val="00D95001" /><wsp:rsid
+	wsp:val="00D95581" /><wsp:rsid wsp:val="00DA4595" /><wsp:rsid
+	wsp:val="00DA5105" /><wsp:rsid wsp:val="00DB0154" /><wsp:rsid
+	wsp:val="00DB1ECE" /><wsp:rsid wsp:val="00DB3AE8" /><wsp:rsid
+	wsp:val="00DC1074" /><wsp:rsid wsp:val="00DC1EDA" /><wsp:rsid
+	wsp:val="00DC2500" /><wsp:rsid wsp:val="00DD1506" /><wsp:rsid
+	wsp:val="00DD55F0" /><wsp:rsid wsp:val="00DE1BEB" /><wsp:rsid
+	wsp:val="00DE3D10" /><wsp:rsid wsp:val="00DE4E8D" /><wsp:rsid
+	wsp:val="00DF14F4" /><wsp:rsid wsp:val="00DF44A5" /><wsp:rsid
+	wsp:val="00DF6440" /><wsp:rsid wsp:val="00E03FAC" /><wsp:rsid
+	wsp:val="00E0619B" /><wsp:rsid wsp:val="00E15D4E" /><wsp:rsid
+	wsp:val="00E16A46" /><wsp:rsid wsp:val="00E20AF3" /><wsp:rsid
+	wsp:val="00E21114" /><wsp:rsid wsp:val="00E21EB9" /><wsp:rsid
+	wsp:val="00E24CAE" /><wsp:rsid wsp:val="00E25416" /><wsp:rsid
+	wsp:val="00E259ED" /><wsp:rsid wsp:val="00E26FCC" /><wsp:rsid
+	wsp:val="00E271B3" /><wsp:rsid wsp:val="00E273F9" /><wsp:rsid
+	wsp:val="00E27D27" /><wsp:rsid wsp:val="00E3076D" /><wsp:rsid
+	wsp:val="00E32E49" /><wsp:rsid wsp:val="00E35C59" /><wsp:rsid
+	wsp:val="00E40AA6" /><wsp:rsid wsp:val="00E50339" /><wsp:rsid
+	wsp:val="00E6149B" /><wsp:rsid wsp:val="00E66C9F" /><wsp:rsid
+	wsp:val="00E710E4" /><wsp:rsid wsp:val="00E726E9" /><wsp:rsid
+	wsp:val="00E815EC" /><wsp:rsid wsp:val="00E83CC7" /><wsp:rsid
+	wsp:val="00E86617" /><wsp:rsid wsp:val="00E908F3" /><wsp:rsid
+	wsp:val="00E90EE3" /><wsp:rsid wsp:val="00E93FFA" /><wsp:rsid
+	wsp:val="00E95460" /><wsp:rsid wsp:val="00E965F0" /><wsp:rsid
+	wsp:val="00EA0498" /><wsp:rsid wsp:val="00EA5356" /><wsp:rsid
+	wsp:val="00EA7B78" /><wsp:rsid wsp:val="00EB0B18" /><wsp:rsid
+	wsp:val="00EB0FBD" /><wsp:rsid wsp:val="00EB1E1B" /><wsp:rsid
+	wsp:val="00EB22D5" /><wsp:rsid wsp:val="00EB53D1" /><wsp:rsid
+	wsp:val="00EB6AE2" /><wsp:rsid wsp:val="00EC0938" /><wsp:rsid
+	wsp:val="00EC25D4" /><wsp:rsid wsp:val="00EC356E" /><wsp:rsid
+	wsp:val="00EC4628" /><wsp:rsid wsp:val="00ED2E13" /><wsp:rsid
+	wsp:val="00ED4C82" /><wsp:rsid wsp:val="00EF0D48" /><wsp:rsid
+	wsp:val="00EF3A81" /><wsp:rsid wsp:val="00F0059A" /><wsp:rsid
+	wsp:val="00F006D1" /><wsp:rsid wsp:val="00F06D53" /><wsp:rsid
+	wsp:val="00F07969" /><wsp:rsid wsp:val="00F10D85" /><wsp:rsid
+	wsp:val="00F15514" /><wsp:rsid wsp:val="00F24182" /><wsp:rsid
+	wsp:val="00F32613" /><wsp:rsid wsp:val="00F414AA" /><wsp:rsid
+	wsp:val="00F43B82" /><wsp:rsid wsp:val="00F45879" /><wsp:rsid
+	wsp:val="00F46420" /><wsp:rsid wsp:val="00F47301" /><wsp:rsid
+	wsp:val="00F475D0" /><wsp:rsid wsp:val="00F47B13" /><wsp:rsid
+	wsp:val="00F51400" /><wsp:rsid wsp:val="00F51F58" /><wsp:rsid
+	wsp:val="00F52348" /><wsp:rsid wsp:val="00F55921" /><wsp:rsid
+	wsp:val="00F56631" /><wsp:rsid wsp:val="00F57295" /><wsp:rsid
+	wsp:val="00F614B0" /><wsp:rsid wsp:val="00F62EF6" /><wsp:rsid
+	wsp:val="00F676B8" /><wsp:rsid wsp:val="00F70A6A" /><wsp:rsid
+	wsp:val="00F74282" /><wsp:rsid wsp:val="00F74506" /><wsp:rsid
+	wsp:val="00F747EF" /><wsp:rsid wsp:val="00F771A5" /><wsp:rsid
+	wsp:val="00F83327" /><wsp:rsid wsp:val="00F83624" /><wsp:rsid
+	wsp:val="00F847F4" /><wsp:rsid wsp:val="00F85324" /><wsp:rsid
+	wsp:val="00F861A1" /><wsp:rsid wsp:val="00F8639E" /><wsp:rsid
+	wsp:val="00F87C43" /><wsp:rsid wsp:val="00F90596" /><wsp:rsid
+	wsp:val="00FA3373" /><wsp:rsid wsp:val="00FA38AC" /><wsp:rsid
+	wsp:val="00FB37C3" /><wsp:rsid wsp:val="00FB4082" /><wsp:rsid
+	wsp:val="00FB52F4" /><wsp:rsid wsp:val="00FB62D1" /><wsp:rsid
+	wsp:val="00FB6E12" /><wsp:rsid wsp:val="00FC575B" /><wsp:rsid
+	wsp:val="00FC7882" /><wsp:rsid wsp:val="00FC7A33" /><wsp:rsid
+	wsp:val="00FD0EC6" /><wsp:rsid wsp:val="00FD21E6" /><wsp:rsid
+	wsp:val="00FD68A8" /><wsp:rsid wsp:val="00FE5C99" /><wsp:rsid
+	wsp:val="00FE6211" /><wsp:rsid wsp:val="00FE6E7E" /><wsp:rsid
+	wsp:val="00FF564E" /></wsp:rsids></w:docPr><w:body><wx:sect><w:tbl><w:tblPr><w:tblW
+	w:w="10679" w:type="dxa" /><w:tblInd w:w="-612" w:type="dxa" /><w:tblBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideH
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideV
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tblBorders><w:tblLayout
+	w:type="Fixed" /><w:tblLook w:val="04A0" /></w:tblPr><w:tblGrid><w:gridCol
+	w:w="599" /><w:gridCol w:w="1110" /><w:gridCol
+	w:w="628" /><w:gridCol w:w="452" /><w:gridCol
+	w:w="181" /><w:gridCol w:w="1619" /><w:gridCol
+	w:w="263" /><w:gridCol w:w="7" /><w:gridCol
+	w:w="537" /><w:gridCol w:w="92" /><w:gridCol
+	w:w="236" /><w:gridCol w:w="465" /><w:gridCol
+	w:w="560" /><w:gridCol w:w="56" /><w:gridCol
+	w:w="1024" /><w:gridCol w:w="537" /><w:gridCol
+	w:w="419" /><w:gridCol w:w="900" /><w:gridCol
+	w:w="994" /></w:tblGrid><w:tr wsp:rsidR="00C950DD"
+	wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="20" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1709"
+	w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00374E4B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>Certificate Number</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00374E4B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>合格证号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2880" w:type="dxa" /><w:gridSpan w:val="4" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:noWrap /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="000F1B7C"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:ind w:right="-509" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${certificateNumber}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="263" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:noWrap /></w:tcPr><w:p wsp:rsidR="00C950DD"
+	wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD" wsp:rsidP="00F0059A"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1897" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00374E4B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>Date</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>日期</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3930" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00E25416" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="004502ED"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:ind w:right="-509" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${date}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00C950DD" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="239" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1709"
+	w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F8639E"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>Customer</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="003F29FD"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>客户</w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t> </w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2880" w:type="dxa" /><w:gridSpan w:val="4" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00E25416" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="004502ED"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:ind w:right="-509" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${customer}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="263" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="00C950DD"
+	wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD" wsp:rsidP="00F0059A"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1897" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>Sales Order Number</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>销售订单号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3930" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="009F73AD" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="000F1B7C"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:ind w:right="-509" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${salesOrderNumber}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00C950DD" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="20" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1709"
+	w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>Customer PO </w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>N</w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>umber</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00047A71"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>客户订单号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2880" w:type="dxa" /><w:gridSpan w:val="4" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00E25416" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="000F1B7C"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial"
+	w:hint="fareast" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>${customerPONumber}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="263" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="00C950DD"
+	wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00C950DD" wsp:rsidP="00F0059A"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1897" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz
+	w:val="16" /><w:sz-cs w:val="18" /></w:rPr><w:t>Internal Tracking Number</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>内部跟踪号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3930" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00E25416" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="000F1B7C"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:ind w:right="-509" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${internalTrackingNumber}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00374E4B" wsp:rsidRPr="001333B2" wsp:rsidTr="00FC7A33"><w:trPr><w:trHeight
+	w:val="1052" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10679"
+	w:type="dxa" /><w:gridSpan w:val="19" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="00FC7A33" wsp:rsidRPr="00FC7A33" wsp:rsidRDefault="00FC7A33"
+	wsp:rsidP="00374E4B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="10" /><w:sz-cs w:val="16" /></w:rPr></w:pPr></w:p><w:p
+	wsp:rsidR="00374E4B" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00374E4B"
+	wsp:rsidP="00374E4B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t>Cameron certifies that the item(s) described herewith is (are) in conformance with the requirements of the above Purchase Order Number and fully comply with applicable Cameron specifications in effect at the date of manufacture. All related documentation in support of the above statement is retained on file by Cameron for a minimum of 10 years from date of manufacture and can be made available to the purchaser upon request.</w:t></w:r></w:p><w:p
+	wsp:rsidR="00374E4B" wsp:rsidRPr="005C4B22" wsp:rsidRDefault="00374E4B"
+	wsp:rsidP="00374E4B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:i /><w:i-cs /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>本合格证旨在证明所有的项目符合订单要求，</w:t></w:r><w:r
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:i /><w:i-cs /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>同时</w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="宋体" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>符合适用的</w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Cameron</w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="宋体" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>规范要求。所有与本合格证相关文件至少保存</w:t></w:r><w:r
+	wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>10</w:t></w:r><w:r
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005C4B22"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:i /><w:i-cs /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>年。当客户需要时，这些文件可以提供给客户。</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="00FC7A33"><w:trPr><w:trHeight
+	w:val="74" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10679"
+	w:type="dxa" /><w:gridSpan w:val="19" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:vAlign
+	w:val="bottom" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="001333B2" wsp:rsidRDefault="00BE3178" wsp:rsidP="00F0059A"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:color
+	w:val="000000" /><w:sz w:val="24" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="493" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="599"
+	w:type="dxa" /><w:tcBorders><w:bottom w:val="single" w:sz="4"
+	wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Item</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00CD563B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>项目</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1738" w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Part Number</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00CD563B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:proofErr
+	w:type="gramStart" /><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>料号</w:t></w:r><w:proofErr
+	w:type="gramEnd" /></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="633"
+	w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Rev</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00CD563B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>版本</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3219" w:type="dxa" /><w:gridSpan w:val="7" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Description</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00CD563B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>描述</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="616" w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:proofErr
+	w:type="spellStart" /><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Qty</w:t></w:r><w:proofErr
+	w:type="spellEnd" /></w:p><w:p wsp:rsidR="006B29BC"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>数量</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="3" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Serial Number(s)</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00CD563B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>序列号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="900" w:type="dxa" /><w:tcBorders><w:bottom w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="006B29BC"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC" wsp:rsidP="006B29BC"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>HT</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="006B29BC"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:proofErr
+	w:type="gramStart" /><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>炉号</w:t></w:r><w:proofErr
+	w:type="gramEnd" /></w:p></w:tc><w:tc><w:tcPr><w:tcW w:w="994"
+	w:type="dxa" /><w:tcBorders><w:bottom w:val="single" w:sz="4"
+	wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="005758E5" wsp:rsidRDefault="00BE3178" wsp:rsidP="00CD563B"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00F0059A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Notes</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00CD563B"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>备注</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="001D6A13" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="2834" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="599"
+	w:type="dxa" /><w:tcBorders><w:bottom w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="008D2558" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${item}</w:t></w:r></w:p><w:p
+	wsp:rsidR="000C10C5" wsp:rsidRDefault="000C10C5" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="000C10C5"
+	wsp:rsidRDefault="000C10C5" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00250573"
+	wsp:rsidRDefault="00250573" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00250573"
+	wsp:rsidRDefault="00250573" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00F06D53"
+	wsp:rsidRDefault="00F06D53" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00F06D53"
+	wsp:rsidRDefault="00F06D53" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00F06D53"
+	wsp:rsidRDefault="00F06D53" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00354671"
+	wsp:rsidRDefault="00354671" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00354671"
+	wsp:rsidRDefault="00354671" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00F83327"
+	wsp:rsidRDefault="00F83327" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00F83327"
+	wsp:rsidRDefault="00F83327" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00405D49"
+	wsp:rsidRDefault="00405D49" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00405D49"
+	wsp:rsidRDefault="00405D49" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00405D49"
+	wsp:rsidRDefault="00405D49" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00405D49"
+	wsp:rsidRDefault="00405D49" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00530D54"
+	wsp:rsidRDefault="00530D54" wsp:rsidP="00AD2365"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1738" w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:bottom
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="000000"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="001D6A13"
+	wsp:rsidRPr="00AD2365" wsp:rsidRDefault="000F1B7C" wsp:rsidP="000F1B7C"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${partNO}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="633" w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:bottom
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="000000"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="001D6A13"
+	wsp:rsidRPr="00983560" wsp:rsidRDefault="000F1B7C" wsp:rsidP="000F1B7C"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${partNORev}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3219" w:type="dxa" /><w:gridSpan w:val="7" /><w:tcBorders><w:bottom
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="000000"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="006D4735"
+	wsp:rsidRPr="00962192" wsp:rsidRDefault="00A07BF0" wsp:rsidP="000F1B7C"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:highlight
+	w:val="yellow" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00FA38AC"><w:rPr><w:color w:val="000000" /><w:sz
+	w:val="20" /><w:sz-cs w:val="20" /><w:highlight
+	w:val="black" /></w:rPr><w:br /></w:r><w:r wsp:rsidR="000F1B7C"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${description}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="616" w:type="dxa" /><w:gridSpan w:val="2" /><w:tcBorders><w:bottom
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="000000"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="001D6A13"
+	wsp:rsidRPr="00962192" wsp:rsidRDefault="001A476E" wsp:rsidP="000F1B7C"><w:pPr><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="20" /><w:sz-cs w:val="16" /><w:highlight
+	w:val="yellow" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00FA38AC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="000F1B7C"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${quantity}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="3" /><w:tcBorders><w:bottom
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="000000"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="00556D50"
+	wsp:rsidRPr="00AD2365" wsp:rsidRDefault="000F1B7C" wsp:rsidP="000F1B7C"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${serialNumber}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="900" w:type="dxa" /><w:tcBorders><w:bottom w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="001D6A13" wsp:rsidRPr="00C65D17" wsp:rsidRDefault="0065620C"
+	wsp:rsidP="00490CC4"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Times New Roman" w:h-ansi="Times New Roman" /><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Times New Roman" w:h-ansi="Times New Roman" /><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /></w:rPr><w:t>-</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="994" w:type="dxa" /><w:tcBorders><w:bottom w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="000000" w:fill="auto" /></w:tcPr><w:p
+	wsp:rsidR="001D6A13" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="000F1B7C"><w:pPr><w:autoSpaceDE w:val="off" /><w:autoSpaceDN
+	w:val="off" /><w:adjustRightInd w:val="off" /><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Times New Roman" w:h-ansi="Times New Roman" /><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:hint="fareast" /><wx:font
+	wx:val="Times New Roman" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${notes}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="006B29BC"><w:trPr><w:trHeight
+	w:val="79" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10679"
+	w:type="dxa" /><w:gridSpan w:val="19" /><w:tcBorders><w:left
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:vAlign
+	w:val="bottom" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00F0059A" wsp:rsidRDefault="00BE3178" wsp:rsidP="00F0059A"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:fareast="Times New Roman" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:color
+	w:val="000000" /><w:sz w:val="24" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="006B29BC" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="431" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="5488"
+	w:type="dxa" /><w:gridSpan w:val="10" /><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /></w:tcPr><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="006B29BC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Additional Endorsements</w:t></w:r><w:r
+	wsp:rsidR="002B371E" wsp:rsidRPr="00C6504A"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> Report Number</w:t></w:r><w:r
+	wsp:rsidR="00C950DD"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>/License Number</w:t></w:r><w:r
+	wsp:rsidRPr="006B29BC"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t> (if applicable)</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="006B29BC" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>附加证书</w:t></w:r><w:r
+	wsp:rsidR="002B371E"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>编号</w:t></w:r><w:r
+	wsp:rsidR="00C950DD"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>/</w:t></w:r><w:r
+	wsp:rsidR="00AD6C59"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>会标编号</w:t></w:r><w:r
+	wsp:rsidRPr="005758E5"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>（如适用）</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="236" w:type="dxa" /><w:vmerge w:val="restart" /><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:noWrap /></w:tcPr><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="006B29BC" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00A44562"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:fareast="Times New Roman" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4955" w:type="dxa" /><w:gridSpan w:val="8" /><w:shd
+	w:val="clear" w:color="000000" w:fill="F2F2F2" /><w:noWrap /></w:tcPr><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="006B29BC"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Notes on Scope of Certification</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5" wsp:rsidRDefault="002B371E"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>合格证</w:t></w:r><w:r
+	wsp:rsidR="006B29BC" wsp:rsidRPr="005758E5"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>备注</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="006B29BC" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="394" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="5488"
+	w:type="dxa" /><w:gridSpan w:val="10" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="006B29BC"
+	wsp:rsidRPr="00B61A6F" wsp:rsidRDefault="000F1B7C" wsp:rsidP="000F1B7C"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${licenseNumber}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="236" w:type="dxa" /><w:vmerge /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:noWrap /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="006B29BC"
+	wsp:rsidRPr="00F0059A" wsp:rsidRDefault="006B29BC" wsp:rsidP="008778DF"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4955" w:type="dxa" /><w:gridSpan w:val="8" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="006B29BC"
+	wsp:rsidRPr="002963FE" wsp:rsidRDefault="000F1B7C" wsp:rsidP="008778DF"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:color
+	w:val="000000" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:hint="fareast" /><w:color w:val="000000" /><w:sz
+	w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>${notesOfCertification}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="00027082"><w:trPr><w:trHeight
+	w:val="151" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10679"
+	w:type="dxa" /><w:gridSpan w:val="19" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00F0059A" wsp:rsidRDefault="00BE3178"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:rPr><w:rFonts
+	w:fareast="Times New Roman" /><w:color w:val="000000" /><w:sz
+	w:val="24" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="00027082"><w:trPr><w:trHeight
+	w:val="223" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10679"
+	w:type="dxa" /><w:gridSpan w:val="19" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="nil" /><w:right w:val="nil" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="auto" /><w:vAlign
+	w:val="bottom" /></w:tcPr><w:p wsp:rsidR="006B29BC"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00C950DD"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="20" /></w:rPr><w:t>All documents and inspection reports to support this certificate of conformance have been verified to the best of my knowledge to be true and correct</w:t></w:r><w:r
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:i /><w:i-cs /><w:color
+	w:val="000000" /><w:sz w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>. </w:t></w:r><w:r
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>本证书涉及的</w:t></w:r><w:r
+	wsp:rsidR="006B29BC" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>所有文件和检验报告</w:t></w:r><w:r
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>的真实性和准确性</w:t></w:r><w:r
+	wsp:rsidR="006B29BC" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>已被验证</w:t></w:r><w:r
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>。</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="629" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="2337"
+	w:type="dxa" /><w:gridSpan w:val="3" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00A5751E" wsp:rsidRPr="00081EC4" wsp:rsidRDefault="00081EC4"
+	wsp:rsidP="005C0A87"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${representative}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="452" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2070" w:type="dxa" /><w:gridSpan w:val="4" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00CA1D13"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:noProof /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+	path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke
+	joinstyle="miter" /><v:formulas><v:f
+	eqn="if lineDrawn pixelLineWidth 0" /><v:f eqn="sum @0 1 0" /><v:f
+	eqn="sum 0 0 @1" /><v:f eqn="prod @2 1 2" /><v:f
+	eqn="prod @3 21600 pixelWidth" /><v:f
+	eqn="prod @3 21600 pixelHeight" /><v:f eqn="sum @0 0 1" /><v:f
+	eqn="prod @6 1 2" /><v:f eqn="prod @7 21600 pixelWidth" /><v:f
+	eqn="sum @8 21600 0" /><v:f eqn="prod @7 21600 pixelHeight" /><v:f
+	eqn="sum @10 21600 0" /></v:formulas><v:path o:extrusionok="f"
+	gradientshapeok="t" o:connecttype="rect" /><o:lock v:ext="edit"
+	aspectratio="t" /></v:shapetype><w:binData
+	w:name="wordml://03000001.png" xml:space="preserve">${signature}
+</w:binData><v:shape id="_x0000_s1029" type="#_x0000_t75"
+	style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:0;width:90pt;height:30pt;z-index:2;mso-position-horizontal:center;mso-position-horizontal-relative:text;mso-position-vertical:inside;mso-position-vertical-relative:text;mso-width-relative:page;mso-height-relative:page"><v:imagedata src="wordml://03000001.png" o:title="1" /></v:shape></w:pict></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="537" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2433" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00CA1D13"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:noProof /></w:rPr><w:pict><w:binData
+	w:name="wordml://03000002.png" xml:space="preserve">${stamp}
+</w:binData><v:shape id="_x0000_s1028" type="#_x0000_t75"
+	style="position:absolute;left:0;text-align:left;margin-left:10.7pt;margin-top:.1pt;width:90pt;height:30pt;z-index:1;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-relative:page;mso-height-relative:page"><v:imagedata src="wordml://03000002.png" o:title="2" /></v:shape></w:pict></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="537" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="004265E9"
+	wsp:rsidP="00F0059A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2313" w:type="dxa" /><w:gridSpan w:val="3" /><w:tcBorders><w:top
+	w:val="nil" /><w:left w:val="nil" /><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:vAlign w:val="bottom" /></w:tcPr><w:p
+	wsp:rsidR="00BE3178" wsp:rsidRPr="00FA38AC" wsp:rsidRDefault="000F1B7C"
+	wsp:rsidP="00A24B6A"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>${date}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00BE3178" wsp:rsidRPr="001333B2" wsp:rsidTr="008C13B7"><w:trPr><w:trHeight
+	w:val="97" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="2337"
+	w:type="dxa" /><w:gridSpan w:val="3" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Cameron Quality Representative Name</w:t></w:r></w:p><w:p
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="003D7D00"
+	wsp:rsidP="00027082"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><aml:annotation
+	aml:id="0" w:type="Word.Bookmark.Start" w:name="OLE_LINK1" /><aml:annotation
+	aml:id="1" w:type="Word.Bookmark.Start" w:name="OLE_LINK2" /><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:hint="fareast" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Cameron</w:t></w:r><w:r
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>质量代表</w:t></w:r><aml:annotation
+	aml:id="0" w:type="Word.Bookmark.End" /><aml:annotation
+	aml:id="1" w:type="Word.Bookmark.End" /></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="452" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:noWrap /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2070" w:type="dxa" /><w:gridSpan w:val="4" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:noWrap /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Signature</w:t></w:r></w:p><w:p
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00027082"
+	wsp:rsidP="00027082"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>签名</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="537" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:noWrap /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2433" w:type="dxa" /><w:gridSpan w:val="6" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:noWrap /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Stamp</w:t></w:r></w:p><w:p
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00027082"
+	wsp:rsidP="00027082"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>盖章</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="537" w:type="dxa" /><w:tcBorders><w:top w:val="nil" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /><w:noWrap /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2313" w:type="dxa" /><w:gridSpan w:val="3" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:left
+	w:val="nil" /><w:bottom w:val="nil" /><w:right
+	w:val="nil" /></w:tcBorders><w:shd w:val="clear" w:color="auto"
+	w:fill="auto" /></w:tcPr><w:p wsp:rsidR="00BE3178"
+	wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00BE3178" wsp:rsidP="00027082"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /></w:rPr><w:t>Date</w:t></w:r></w:p><w:p
+	wsp:rsidR="00027082" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00027082"
+	wsp:rsidP="00027082"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>日期</w:t></w:r></w:p></w:tc></w:tr></w:tbl><w:p
+	wsp:rsidR="002862E8" wsp:rsidRDefault="00F74506" wsp:rsidP="00B5234C"><w:pPr><w:rPr><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>                                                                                                                                                                                                                                  </w:t></w:r></w:p><w:sectPr
+	wsp:rsidR="002862E8" wsp:rsidSect="009963E2"><w:hdr w:type="odd"><w:p
+	wsp:rsidR="008D1061" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00524670"
+	wsp:rsidP="008D1061"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="-630" w:right="-1053" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524670"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:noProof /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+	path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke
+	joinstyle="miter" /><v:formulas><v:f
+	eqn="if lineDrawn pixelLineWidth 0" /><v:f eqn="sum @0 1 0" /><v:f
+	eqn="sum 0 0 @1" /><v:f eqn="prod @2 1 2" /><v:f
+	eqn="prod @3 21600 pixelWidth" /><v:f
+	eqn="prod @3 21600 pixelHeight" /><v:f eqn="sum @0 0 1" /><v:f
+	eqn="prod @6 1 2" /><v:f eqn="prod @7 21600 pixelWidth" /><v:f
+	eqn="sum @8 21600 0" /><v:f eqn="prod @7 21600 pixelHeight" /><v:f
+	eqn="sum @10 21600 0" /></v:formulas><v:path o:extrusionok="f"
+	gradientshapeok="t" o:connecttype="rect" /><o:lock v:ext="edit"
+	aspectratio="t" /></v:shapetype><w:binData
+	w:name="wordml://03000003.png" xml:space="preserve">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
+</w:binData><v:shape id="_x0000_s2051" type="#_x0000_t75"
+	style="position:absolute;left:0;text-align:left;margin-left:317.25pt;margin-top:-6.65pt;width:170.75pt;height:46.35pt;z-index:1"><v:imagedata src="wordml://03000003.png" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00B503E0" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t>C</w:t></w:r><w:r
+	wsp:rsidR="005005C3" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t>ameron</w:t></w:r><w:r
+	wsp:rsidR="00B503E0" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="005005C3" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t>Systems</w:t></w:r><w:r
+	wsp:rsidR="00126793" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="0080511C" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t>Shanghai</w:t></w:r><w:r
+	wsp:rsidR="00B503E0" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="00726099" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:t>Co., Ltd</w:t></w:r><w:r
+	wsp:rsidR="008D1061" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r></w:p><w:p
+	wsp:rsidR="008D1061" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="008D1061"
+	wsp:rsidP="008D1061"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="-630" w:right="-1053" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:color w:val="000000" /><w:sz w:val="16" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>卡麦龙（上海）机械有限公司</w:t></w:r><w:r
+	wsp:rsidR="00B503E0" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /></w:rPr><w:br /></w:r><w:r
+	wsp:rsidR="00355BEB" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Building 4, 5, 6, No.388, </w:t></w:r><w:proofErr
+	w:type="spellStart" /><w:r wsp:rsidR="00355BEB"
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Xin</w:t></w:r><w:proofErr
+	w:type="spellEnd" /><w:r wsp:rsidR="00355BEB"
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> Run Road, </w:t></w:r><w:proofErr
+	w:type="spellStart" /><w:r wsp:rsidR="00355BEB"
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Xinqiao</w:t></w:r><w:proofErr
+	w:type="spellEnd" /><w:r wsp:rsidR="00355BEB"
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> Town, </w:t></w:r><w:proofErr
+	w:type="spellStart" /><w:r wsp:rsidR="00355BEB"
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Songjiang</w:t></w:r><w:proofErr
+	w:type="spellEnd" /><w:r wsp:rsidR="00355BEB"
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> Dist., Shanghai 201612 , P.R. China</w:t></w:r></w:p><w:p
+	wsp:rsidR="00355BEB" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="008D1061"
+	wsp:rsidP="008D1061"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="-630" w:right="-1053" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:color w:val="000000" /><w:sz w:val="16" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>上海市松江区新桥镇</w:t></w:r><w:proofErr
+	w:type="gramStart" /><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:color w:val="000000" /><w:sz w:val="16" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>新润路</w:t></w:r><w:proofErr
+	w:type="gramEnd" /><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>388</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font wx:val="宋体" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>号，</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>4</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font wx:val="宋体" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>号，</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>5</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font wx:val="宋体" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>号，</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>6</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font wx:val="宋体" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>号厂房，邮编：</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>201612</w:t></w:r></w:p><w:p
+	wsp:rsidR="00355BEB" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00355BEB"
+	wsp:rsidP="008D1061"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="-630" w:right="-1053" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Tel</w:t></w:r><w:r
+	wsp:rsidR="008D1061" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="宋体" /><w:color w:val="000000" /><w:sz w:val="16" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>电话</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>: +8621 5707 1614</w:t></w:r></w:p><w:p
+	wsp:rsidR="00C950DD" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00C950DD"
+	wsp:rsidP="008D1061"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="-630" w:right="-1053" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Fax </w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font wx:val="宋体" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>传真</w:t></w:r><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>: +8621 5707 1670</w:t></w:r></w:p><w:p
+	wsp:rsidR="00355BEB" wsp:rsidRPr="00BD0D69" wsp:rsidRDefault="00B54C3F"
+	wsp:rsidP="008D1061"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="-630" w:right="-1053" /><w:rPr><w:rStyle
+	w:val="Hyperlink" /><w:rFonts w:ascii="Arial Narrow"
+	w:h-ansi="Arial Narrow" /><wx:font wx:val="Arial Narrow" /><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="00BD0D69"><w:rPr><w:rStyle w:val="Hyperlink" /><w:rFonts
+	w:ascii="Arial Narrow" w:fareast="Times New Roman"
+	w:h-ansi="Arial Narrow" w:cs="Arial" /><wx:font
+	wx:val="Arial Narrow" /><w:sz w:val="16" /><w:sz-cs
+	w:val="16" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>http://cameron.slb.com</w:t></w:r></w:p><w:p
+	wsp:rsidR="00355BEB" wsp:rsidRPr="00781B28" wsp:rsidRDefault="00355BEB"
+	wsp:rsidP="0087038F"><w:pPr><w:pStyle w:val="Header" /><w:tabs><w:tab
+	w:val="clear" w:pos="4680" /><w:tab w:val="clear" w:pos="9360" /></w:tabs><w:ind
+	w:left="6930" w:right="-1053" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:fareast="Times New Roman" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:color
+	w:val="000000" /><w:sz w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00B503E0"
+	wsp:rsidRDefault="00B503E0" wsp:rsidP="00F0059A"><w:pPr><w:pStyle
+	w:val="Header" /><w:tabs><w:tab w:val="clear" w:pos="4680" /><w:tab
+	w:val="clear" w:pos="9360" /><w:tab w:val="left" w:pos="7275" /></w:tabs><w:ind
+	w:left="7275" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:fareast="Times New Roman" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:color w:val="000000" /><w:sz
+	w:val="16" /><w:sz-cs w:val="32" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:p wsp:rsidR="00B503E0"
+	wsp:rsidRPr="003F29FD" wsp:rsidRDefault="00B503E0" wsp:rsidP="006556CF"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Britannic Bold" w:fareast="Times New Roman"
+	w:h-ansi="Britannic Bold" /><wx:font wx:val="Britannic Bold" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="36" /><w:sz-cs w:val="40" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="003F29FD"><w:rPr><w:rFonts w:ascii="Britannic Bold"
+	w:fareast="Times New Roman" w:h-ansi="Britannic Bold" /><wx:font
+	wx:val="Britannic Bold" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="36" /><w:sz-cs w:val="40" /></w:rPr><w:t>Certificate of Conformance</w:t></w:r><w:r
+	wsp:rsidRPr="003F29FD"><w:rPr><w:rFonts w:ascii="Britannic Bold"
+	w:fareast="Times New Roman" w:h-ansi="Britannic Bold" /><wx:font
+	wx:val="Britannic Bold" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="36" /><w:sz-cs w:val="40" /></w:rPr><w:br /><w:t>New Manufacture</w:t></w:r></w:p><w:p
+	wsp:rsidR="00B503E0" wsp:rsidRDefault="003F29FD" wsp:rsidP="006556CF"><w:pPr><w:spacing
+	w:after="0" w:line="240" w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Britannic Bold" w:h-ansi="Britannic Bold" /><wx:font
+	wx:val="Britannic Bold" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="36" /><w:sz-cs w:val="40" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00374E4B"><w:rPr><w:rFonts
+	w:ascii="Britannic Bold" w:h-ansi="Britannic Bold" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="36" /><w:sz-cs w:val="40" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>产品合格证</w:t></w:r><w:r
+	wsp:rsidR="003D7D00"><w:rPr><w:rFonts w:ascii="Britannic Bold"
+	w:h-ansi="Britannic Bold" /><wx:font wx:val="Britannic Bold" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="36" /><w:sz-cs w:val="40" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(</w:t></w:r><w:r
+	wsp:rsidR="003D7D00"><w:rPr><w:rFonts w:ascii="Britannic Bold"
+	w:h-ansi="Britannic Bold" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:color w:val="000000" /><w:sz
+	w:val="36" /><w:sz-cs w:val="40" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>新制造的产品</w:t></w:r><w:r
+	wsp:rsidR="003D7D00"><w:rPr><w:rFonts w:ascii="Britannic Bold"
+	w:h-ansi="Britannic Bold" /><wx:font wx:val="Britannic Bold" /><w:b /><w:b-cs /><w:color
+	w:val="000000" /><w:sz w:val="36" /><w:sz-cs w:val="40" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r></w:p><w:p
+	wsp:rsidR="006B29BC" wsp:rsidRPr="00781B28" wsp:rsidRDefault="006B29BC"
+	wsp:rsidP="006556CF"><w:pPr><w:spacing w:after="0" w:line="240"
+	w:line-rule="auto" /><w:jc w:val="center" /><w:rPr><w:sz
+	w:val="16" /><w:sz-cs w:val="16" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:hdr><w:ftr
+	w:type="odd"><w:p wsp:rsidR="00D00130" wsp:rsidRPr="00BD0D69"
+	wsp:rsidRDefault="00524670" wsp:rsidP="00BD0D69"><w:pPr><w:pStyle
+	w:val="Footer" /><w:ind w:right="-333" /><w:jc w:val="right" /><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /><w:noProof /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t202" coordsize="21600,21600" o:spt="202"
+	path="m,l,21600r21600,l21600,xe"><v:stroke joinstyle="miter" /><v:path
+	gradientshapeok="t" o:connecttype="rect" /></v:shapetype><v:shape
+	id="MSIPCMd788462289babcfed06340b0" o:spid="_x0000_s2052"
+	type="#_x0000_t202"
+	alt="{&quot;HashCode&quot;:1831732991,&quot;Height&quot;:841.0,&quot;Width&quot;:595.0,&quot;Placement&quot;:&quot;Footer&quot;,&quot;Index&quot;:&quot;Primary&quot;,&quot;Section&quot;:1,&quot;Top&quot;:0.0,&quot;Left&quot;:0.0}"
+	style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:805.95pt;width:595.35pt;height:21pt;z-index:2;mso-position-horizontal-relative:page;mso-position-vertical-relative:page;v-text-anchor:bottom"
+	o:allowincell="f" filled="f" stroked="f"><v:textbox inset=",0,,0"><w:txbxContent><w:p
+	wsp:rsidR="000B4388" wsp:rsidRPr="000B4388" wsp:rsidRDefault="000B4388"
+	wsp:rsidP="000B4388"><w:pPr><w:spacing w:after="0" /><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:cs="Calibri" /><w:color
+	w:val="000000" /><w:sz w:val="20" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="000B4388"><w:rPr><w:rFonts w:cs="Calibri" /><w:color
+	w:val="000000" /><w:sz w:val="20" /></w:rPr><w:t>Schlumberger-Private</w:t></w:r></w:p></w:txbxContent></v:textbox><w10:wrap
+	anchorx="page" anchory="page" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00D00130" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /></w:rPr><w:t>Form Code</w:t></w:r><w:r
+	wsp:rsidR="008D1061" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="宋体" /><w:b /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>表格代码</w:t></w:r><w:r
+	wsp:rsidR="00D00130" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /></w:rPr><w:t>: QAF-11 Rev.</w:t></w:r><w:r
+	wsp:rsidR="008D1061" wsp:rsidRPr="00BD0D69"><w:rPr><w:rFonts
+	w:ascii="Arial Narrow" w:h-ansi="Arial Narrow" /><wx:font
+	wx:val="Arial Narrow" /></w:rPr><w:t>02</w:t></w:r></w:p></w:ftr><w:pgSz
+	w:w="11907" w:h="16839" w:code="9" /><w:pgMar w:top="1440"
+	w:right="1440" w:bottom="450" w:left="1440" w:header="720"
+	w:footer="720" w:gutter="0" /><w:cols w:space="720" /><w:docGrid
+	w:line-pitch="360" /></w:sectPr></wx:sect></w:body></w:wordDocument>

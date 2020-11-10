@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: jacob:jacob:jacob">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jacob/jacob/jacob/jacob-jacob.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/jacob/jacob/jacob/jacob-jacob-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/jacob/jacob/jacob/jacob-jacob-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,1382 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd">
+    <!-- 初始化检测项，终检检测项固定，所以直接写入，不做面维护 -->
+    <changeSet id="INIT_FINAL_INSPECTION_ITEMS" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="900"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="工作路线包"/>
+            <column name="DEFAULT_RESULT" value=""/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="901"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="装配记录"/>
+            <column name="DEFAULT_RESULT" value=""/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="902"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="压力试验"/>
+            <column name="DEFAULT_RESULT" value=""/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="903"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="MTR材料报告"/>
+            <column name="DEFAULT_RESULT" value="OK"/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="904"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="尺寸报告"/>
+            <column name="DEFAULT_RESULT" value="OK"/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="905"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="硬度报告"/>
+            <column name="DEFAULT_RESULT" value="OK"/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="906"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="外观检测"/>
+            <column name="DEFAULT_RESULT" value=""/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="907"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="功能检验"/>
+            <column name="DEFAULT_RESULT" value=""/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="908"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="会标是否应用且正确"/>
+            <column name="DEFAULT_RESULT" value="OK"/>
+        </insert>
+        <insert tableName="FINAL_INSPECTION_ITEMS">
+            <column name="ID" valueNumeric="909"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-08-29"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-08-29"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSPECTION_ITEM_NAME" value="其他"/>
+            <column name="DEFAULT_RESULT" value=""/>
+        </insert>
+    </changeSet>
+    <!-- 初始化Cameron页面权限 -->
+    <changeSet id="INIT_CAMERON_PRIVILEGE_1" author="system">
+        <validCheckSum>any</validCheckSum>
+        <!-- 基础信息 BaseInfo-->
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1000"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="GageInfo"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.GageInfo"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1010"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="SparePart"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.SparePart"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1020"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="Bom"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.Bom"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1030"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="ProductInformation"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.ProductInformation"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1040"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="ProductRouting"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.ProductRouting"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1050"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="ProductionOrder"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.ProductionOrder"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1060"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="DimensionRuler"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.DimensionRuler"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1070"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="Hardness"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.Hardness"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1080"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="PaintingSpecification"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.PaintingSpecification"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1090"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="ElectronicSignatureLoGo"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.ElectronicSignatureLoGo"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1100"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="StationEquipment"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.StationEquipment"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1110"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="PressureRuler"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.PressureRuler"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1120"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="MaterialInspectionListView"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.MaterialInspectionListView"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1130"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="CaConfig"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.CaConfig"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_CAMERON_PRIVILEGE_2" author="system">
+        <validCheckSum>any</validCheckSum>
+        <!-- 车间工作台 UserOperation-->
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1200"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="MaterialInspectionInfo"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.MaterialInspectionInfo"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1210"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="HardnessTestReport"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.HardnessTestReport"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1220"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="DimensionInspection"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.DimensionInspection"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1230"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="ReceivingInspection"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.ReceivingInspection"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1240"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="OperationInstruction"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.OperationInstruction"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1250"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="ProductionOrderInfo"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.ProductionOrderInfo"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1260"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="Assembling"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.Assembling"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1270"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="PressureTestView"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.PressureTestView"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1280"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="PaintingInformation"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.PaintingInformation"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1290"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="PaintingInspection"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.PaintingInspection"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1300"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="QCInspection"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.QCInspection"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1310"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="QAInspection"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.QAInspection"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1320"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="CertificateOfConformance"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.CertificateOfConformance"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1330"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="UserOperation"/>
+            <column name="NAME" value="OrderHistory"/>
+            <column name="NAME_KEY"
+                    value="Privilege.UserOperation.OrderHistory"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_CAMERON_PRIVILEGE_3" author="system">
+        <validCheckSum>any</validCheckSum>
+        <!-- 供应商信息 -->
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1400"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="VendorInfo"/>
+            <column name="NAME" value="UniqueTraceabilityRecord"/>
+            <column name="NAME_KEY"
+                    value="Privilege.VendorInfo.UniqueTraceabilityRecord"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_CAMERON_PRIVILEGE_4" author="system">
+        <validCheckSum>any</validCheckSum>
+        <!-- 结果查询 -->
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1600"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="OperationResult"/>
+            <column name="NAME" value="AssemblingInfo"/>
+            <column name="NAME_KEY"
+                    value="Privilege.OperationResult.AssemblingInfo"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1610"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="OperationResult"/>
+            <column name="NAME" value="DimensionResultView"/>
+            <column name="NAME_KEY"
+                    value="Privilege.OperationResult.DimensionResultView"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1620"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="OperationResult"/>
+            <column name="NAME" value="HardnessTestInfo"/>
+            <column name="NAME_KEY"
+                    value="Privilege.OperationResult.HardnessTestInfo"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_CAMERON_PRIVILEGE_1_1" author="system">
+        <validCheckSum>any</validCheckSum>
+        <!-- 基础信息-Routing审核 -->
+        <insert tableName="SYS_PERMISSION">
+            <column name="ID" valueNumeric="1041"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="BaseInfo"/>
+            <column name="NAME" value="RoutingCheck"/>
+            <column name="NAME_KEY"
+                    value="Privilege.BaseInfo.RoutingCheck"/>
+            <column name="SYSTEM_DEFINED" valueBoolean="true"/>
+            <column name="MODULE" value="Cameron"/>
+        </insert>
+    </changeSet>
+    <!--初始化textblob中的定时任务所需要的信息-->
+    <changeSet id="INIT_SPAREPART_CRON" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10001"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="零件导入后台任务执行时间CRON表达式"/>
+            <column name="NAME" value="Spare_Part_Timer_Cron"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_SPAREPART_FILE_PATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10002"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="零件导入后台任务执行文件上传路径"/>
+            <column name="NAME" value="Spare_Part_File_Path"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_SPAREPART_FILE_HOLDPATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10003"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="零件导入后台任务执行文件读取后处理路径"/>
+            <column name="NAME" value="Spare_Part_File_HoldPath"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_MATERIAL_CRON" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10004"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="发料后台任务执行周期CRON表达式"/>
+            <column name="NAME" value="Issue_Material_Schedule_cron"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_MATERIAL_FILE_PATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10005"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="零件导入后台任务执行文件上传路径"/>
+            <column name="NAME" value="Issue_Material_File_Path"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_MATERIAL_FILE_HOLDPATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10006"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2019-06-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2019-06-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="发料导入后台任务执行文件读取后处理路径"/>
+            <column name="NAME" value="Issue_Material_File_HoldPath"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+
+    <changeSet id="INIT_BOM_TIMER_CRON" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10007"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="Bom后台任务执行周期CRON表达式"/>
+            <column name="NAME" value="Bom_Timer_Cron"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_BOM_FILE_PATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10008"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="Bom导入后台任务执行文件上传路径"/>
+            <column name="NAME" value="Bom_File_Path"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_BOM_FILE_HOLDPATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10009"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="Bom导入后台任务执行文件读取后处理路径"/>
+            <column name="NAME" value="Bom_File_HoldPath"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+
+    <changeSet id="INIT_OPERATION_INSTRUCTION_1" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="OPERATION_INSTRUCTION">
+            <column name="ID" valueNumeric="10020"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSTRUCTION_NAME" value="FacilityProcedures"/>
+            <column name="INSTRUCTION_DESC" value="Facility Procedures"/>
+            <column name="INSTRUCTION_REV" value="null" />
+            <column name="MODIFIED_DATE" value="null" />
+            <column name="TOC_TYPE" value="Super" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_OPERATION_INSTRUCTION_2" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="OPERATION_INSTRUCTION">
+            <column name="ID" valueNumeric="10021"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSTRUCTION_NAME" value="WorkInstructions"/>
+            <column name="INSTRUCTION_DESC" value="Work Instructions"/>
+            <column name="INSTRUCTION_REV" value="null" />
+            <column name="MODIFIED_DATE" value="null" />
+            <column name="TOC_TYPE" value="Super" />
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_OPERATION_INSTRUCTION_3" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="OPERATION_INSTRUCTION">
+            <column name="ID" valueNumeric="10022"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="INSTRUCTION_NAME" value="FacilityForms"/>
+            <column name="INSTRUCTION_DESC" value="Facility Forms"/>
+            <column name="INSTRUCTION_REV" value="null" />
+            <column name="MODIFIED_DATE" value="null" />
+            <column name="TOC_TYPE" value="Super" />
+        </insert>
+    </changeSet>
+
+    <changeSet id="INIT_OPERATION_INSTRUCTION_TIMER_CRON" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10010"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="作业指导书定时检查文件周期Corn表达式"/>
+            <column name="NAME" value="Operation_Instruction_Timer_Cron"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+
+    <changeSet id="INIT_OPERATION_INSTRUCTION_FILE_PATH" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_TEXT_BLOB">
+            <column name="ID" valueNumeric="10011"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="CATEGORY" value="作业指导书生成文件清单TOC文件保存路径"/>
+            <column name="NAME" value="Operation_Instruction_File_Path"/>
+            <column name="VALUE" value="null" />
+        </insert>
+    </changeSet>
+
+    <changeSet id="INIT_SYS_ROLE_TOC_1" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_ROLE">
+            <column name="ID" valueNumeric="10031"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="DESCRIPTION" value="作业指导书FacilityProcedures模块文件角色权限"/>
+            <column name="ROLE_NAME" value="TOC-FacilityProcedures"/>
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_SYS_ROLE_TOC_2" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_ROLE">
+            <column name="ID" valueNumeric="10032"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="DESCRIPTION" value="作业指导书WorkInstructions模块文件角色权限"/>
+            <column name="ROLE_NAME" value="TOC-WorkInstructions"/>
+        </insert>
+    </changeSet>
+    <changeSet id="INIT_SYS_ROLE_TOC_3" author="system">
+        <validCheckSum>any</validCheckSum>
+        <insert tableName="SYS_ROLE">
+            <column name="ID" valueNumeric="10033"/>
+            <column name="COMPANY_ID" valueNumeric="-1"/>
+            <column name="CREATE_TIME" valueDate="2020-07-01"/>
+            <column name="CREATE_USER_ID" valueNumeric="1"/>
+            <column name="CREATE_USER_NAME" value="admin"/>
+            <column name="CREATE_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_CREATION_BID" valueNumeric="-1"/>
+            <column name="LM_TIME" valueDate="2020-07-01"/>
+            <column name="LM_USER_ID" valueNumeric="-1"/>
+            <column name="LM_USER_NAME" value="admin"/>
+            <column name="LM_USER_FULL_NAME" value="admin"/>
+            <column name="DTS_MODIFIED_BID" valueNumeric="-1"/>
+            <column name="DELETE_USER_ID" valueNumeric="-1"/>
+            <column name="DELETED" valueBoolean="false"/>
+
+            <column name="DESCRIPTION" value="作业指导书FacilityForms模块文件角色权限"/>
+            <column name="ROLE_NAME" value="TOC-FacilityForms"/>
+        </insert>
+    </changeSet>
+
+</databaseChangeLog>
+	

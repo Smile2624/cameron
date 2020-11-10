@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                   xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+                   xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd">
+
+    <!-- 引入建表脚本 -->
+    <include file="table-ddl.xml" relativeToChangelogFile="true"/>
+    <!-- 引入补充脚本；一般地，在应用上线后，不能直接修改原有脚本，而是通过补充脚本来修改数据表结构及数据 -->
+    <include file="patch.xml" relativeToChangelogFile="true"/>
+    <!-- 引入数据初始化脚本 -->
+    <include file="data-dml.xml" relativeToChangelogFile="true"/>
+
+</databaseChangeLog>

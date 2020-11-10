@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.afterturn:easypoi-annotation:4.1.0.AGS">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-annotation/4.1.0.AGS/easypoi-annotation-4.1.0.AGS.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-annotation/4.1.0.AGS/easypoi-annotation-4.1.0.AGS-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-annotation/4.1.0.AGS/easypoi-annotation-4.1.0.AGS-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

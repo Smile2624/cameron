@@ -1,0 +1,2499 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument
+        xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+        xmlns:o="urn:schemas-microsoft-com:office:office"
+        xmlns:v="urn:schemas-microsoft-com:vml"
+        xmlns:w10="urn:schemas-microsoft-com:office:word"
+        xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml"
+        xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint"
+        xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2"
+        w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no"
+        xml:space="preserve"><w:ignoreSubtree
+	w:val="http://schemas.microsoft.com/office/word/2003/wordml/sp2" /><o:DocumentProperties><o:Title>VISUAL INSPECTION REPORT</o:Title><o:Author>martin kelley</o:Author><o:LastAuthor>Bruce Yang</o:LastAuthor><o:Revision>2</o:Revision><o:TotalTime>0</o:TotalTime><o:LastPrinted>2016-12-27T08:23:00Z</o:LastPrinted><o:Created>2019-10-12T08:55:00Z</o:Created><o:LastSaved>2019-10-12T08:55:00Z</o:LastSaved><o:Pages>1</o:Pages><o:Words>189</o:Words><o:Characters>1079</o:Characters><o:Company>Cooper Cameron Corp</o:Company><o:Lines>8</o:Lines><o:Paragraphs>2</o:Paragraphs><o:CharactersWithSpaces>1266</o:CharactersWithSpaces><o:Version>14</o:Version></o:DocumentProperties><o:CustomDocumentProperties><o:ContentTypeId
+	dt:dt="string">0x010100FCE4821E71FEBC499BAE8D8D17F2F1C1</o:ContentTypeId><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Enabled
+	dt:dt="string">True</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Enabled><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SiteId
+	dt:dt="string">41ff26dc-250f-4b13-8981-739be8610c21</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SiteId><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Owner
+	dt:dt="string">JYang46@slb.com</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Owner><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SetDate
+	dt:dt="string">2019-08-23T00:52:24.6400512Z</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_SetDate><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Name
+	dt:dt="string">Private</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Name><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Application
+	dt:dt="string">Microsoft Azure Information Protection</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Application><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_ActionId
+	dt:dt="string">974a111d-eb17-4593-9455-628d195e8ed0</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_ActionId><o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Extended_MSFT_Method
+	dt:dt="string">Automatic</o:MSIP_Label_585f1f62-8d2b-4457-869c-0a13c6549635_Extended_MSFT_Method><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Enabled
+	dt:dt="string">True</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Enabled><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SiteId
+	dt:dt="string">41ff26dc-250f-4b13-8981-739be8610c21</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SiteId><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Owner
+	dt:dt="string">JYang46@slb.com</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Owner><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SetDate
+	dt:dt="string">2019-08-23T00:52:24.6400512Z</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_SetDate><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Name
+	dt:dt="string">Internal</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Name><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Application
+	dt:dt="string">Microsoft Azure Information Protection</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Application><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_ActionId
+	dt:dt="string">974a111d-eb17-4593-9455-628d195e8ed0</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_ActionId><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Parent
+	dt:dt="string">585f1f62-8d2b-4457-869c-0a13c6549635</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Parent><o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Extended_MSFT_Method
+	dt:dt="string">Automatic</o:MSIP_Label_8bb759f6-5337-4dc5-b19b-e74b6da11f8f_Extended_MSFT_Method><o:Sensitivity
+	dt:dt="string">Private Internal</o:Sensitivity></o:CustomDocumentProperties><w:fonts><w:defaultFonts
+	w:ascii="Times New Roman" w:fareast="宋体" w:h-ansi="Times New Roman"
+	w:cs="Times New Roman" /><w:font w:name="Times New Roman"><w:panose-1
+	w:val="02020603050405020304" /><w:charset w:val="00" /><w:family
+	w:val="Roman" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="E0002AFF" w:usb-1="C0007841" w:usb-2="00000009"
+	w:usb-3="00000000" w:csb-0="000001FF" w:csb-1="00000000" /></w:font><w:font
+	w:name="Arial"><w:panose-1 w:val="020B0604020202020204" /><w:charset
+	w:val="00" /><w:family w:val="Swiss" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="E0002AFF" w:usb-1="C0007843"
+	w:usb-2="00000009" w:usb-3="00000000" w:csb-0="000001FF"
+	w:csb-1="00000000" /></w:font><w:font w:name="Helvetica"><w:panose-1
+	w:val="020B0604020202020204" /><w:charset w:val="00" /><w:family
+	w:val="Swiss" /><w:notTrueType /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000"
+	w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000" /></w:font><w:font
+	w:name="Courier"><w:altName w:val="Courier New" /><w:panose-1
+	w:val="02070409020205020404" /><w:charset w:val="00" /><w:family
+	w:val="Modern" /><w:notTrueType /><w:pitch w:val="fixed" /><w:sig
+	w:usb-0="00000003" w:usb-1="00000000" w:usb-2="00000000"
+	w:usb-3="00000000" w:csb-0="00000001" w:csb-1="00000000" /></w:font><w:font
+	w:name="宋体"><w:altName w:val="SimSun" /><w:panose-1
+	w:val="02010600030101010101" /><w:charset w:val="86" /><w:family
+	w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016"
+	w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" /></w:font><w:font
+	w:name="宋体"><w:altName w:val="SimSun" /><w:panose-1
+	w:val="02010600030101010101" /><w:charset w:val="86" /><w:family
+	w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016"
+	w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" /></w:font><w:font
+	w:name="Calibri"><w:panose-1 w:val="020F0502020204030204" /><w:charset
+	w:val="00" /><w:family w:val="Swiss" /><w:pitch
+	w:val="variable" /><w:sig w:usb-0="E10002FF" w:usb-1="4000ACFF"
+	w:usb-2="00000009" w:usb-3="00000000" w:csb-0="0000019F"
+	w:csb-1="00000000" /></w:font><w:font w:name="@宋体"><w:panose-1
+	w:val="02010600030101010101" /><w:charset w:val="86" /><w:family
+	w:val="auto" /><w:pitch w:val="variable" /><w:sig
+	w:usb-0="00000003" w:usb-1="288F0000" w:usb-2="00000016"
+	w:usb-3="00000000" w:csb-0="00040001" w:csb-1="00000000" /></w:font></w:fonts><w:styles><w:versionOfBuiltInStylenames
+	w:val="7" /><w:latentStyles w:defLockedState="off"
+	w:latentStyleCount="267"><w:lsdException w:name="Normal" /><w:lsdException
+	w:name="heading 1" /><w:lsdException w:name="heading 2" /><w:lsdException
+	w:name="heading 3" /><w:lsdException w:name="heading 4" /><w:lsdException
+	w:name="heading 5" /><w:lsdException w:name="heading 6" /><w:lsdException
+	w:name="heading 7" /><w:lsdException w:name="heading 8" /><w:lsdException
+	w:name="heading 9" /><w:lsdException w:name="header" /><w:lsdException
+	w:name="caption" /><w:lsdException w:name="Title" /><w:lsdException
+	w:name="Subtitle" /><w:lsdException w:name="Strong" /><w:lsdException
+	w:name="Emphasis" /><w:lsdException
+	w:name="Placeholder Text" /><w:lsdException
+	w:name="No Spacing" /><w:lsdException
+	w:name="Light Shading" /><w:lsdException
+	w:name="Light List" /><w:lsdException
+	w:name="Light Grid" /><w:lsdException
+	w:name="Medium Shading 1" /><w:lsdException
+	w:name="Medium Shading 2" /><w:lsdException
+	w:name="Medium List 1" /><w:lsdException
+	w:name="Medium List 2" /><w:lsdException
+	w:name="Medium Grid 1" /><w:lsdException
+	w:name="Medium Grid 2" /><w:lsdException
+	w:name="Medium Grid 3" /><w:lsdException
+	w:name="Dark List" /><w:lsdException
+	w:name="Colorful Shading" /><w:lsdException
+	w:name="Colorful List" /><w:lsdException
+	w:name="Colorful Grid" /><w:lsdException
+	w:name="Light Shading Accent 1" /><w:lsdException
+	w:name="Light List Accent 1" /><w:lsdException
+	w:name="Light Grid Accent 1" /><w:lsdException
+	w:name="Medium Shading 1 Accent 1" /><w:lsdException
+	w:name="Medium Shading 2 Accent 1" /><w:lsdException
+	w:name="Medium List 1 Accent 1" /><w:lsdException
+	w:name="Revision" /><w:lsdException
+	w:name="List Paragraph" /><w:lsdException w:name="Quote" /><w:lsdException
+	w:name="Intense Quote" /><w:lsdException
+	w:name="Medium List 2 Accent 1" /><w:lsdException
+	w:name="Medium Grid 1 Accent 1" /><w:lsdException
+	w:name="Medium Grid 2 Accent 1" /><w:lsdException
+	w:name="Medium Grid 3 Accent 1" /><w:lsdException
+	w:name="Dark List Accent 1" /><w:lsdException
+	w:name="Colorful Shading Accent 1" /><w:lsdException
+	w:name="Colorful List Accent 1" /><w:lsdException
+	w:name="Colorful Grid Accent 1" /><w:lsdException
+	w:name="Light Shading Accent 2" /><w:lsdException
+	w:name="Light List Accent 2" /><w:lsdException
+	w:name="Light Grid Accent 2" /><w:lsdException
+	w:name="Medium Shading 1 Accent 2" /><w:lsdException
+	w:name="Medium Shading 2 Accent 2" /><w:lsdException
+	w:name="Medium List 1 Accent 2" /><w:lsdException
+	w:name="Medium List 2 Accent 2" /><w:lsdException
+	w:name="Medium Grid 1 Accent 2" /><w:lsdException
+	w:name="Medium Grid 2 Accent 2" /><w:lsdException
+	w:name="Medium Grid 3 Accent 2" /><w:lsdException
+	w:name="Dark List Accent 2" /><w:lsdException
+	w:name="Colorful Shading Accent 2" /><w:lsdException
+	w:name="Colorful List Accent 2" /><w:lsdException
+	w:name="Colorful Grid Accent 2" /><w:lsdException
+	w:name="Light Shading Accent 3" /><w:lsdException
+	w:name="Light List Accent 3" /><w:lsdException
+	w:name="Light Grid Accent 3" /><w:lsdException
+	w:name="Medium Shading 1 Accent 3" /><w:lsdException
+	w:name="Medium Shading 2 Accent 3" /><w:lsdException
+	w:name="Medium List 1 Accent 3" /><w:lsdException
+	w:name="Medium List 2 Accent 3" /><w:lsdException
+	w:name="Medium Grid 1 Accent 3" /><w:lsdException
+	w:name="Medium Grid 2 Accent 3" /><w:lsdException
+	w:name="Medium Grid 3 Accent 3" /><w:lsdException
+	w:name="Dark List Accent 3" /><w:lsdException
+	w:name="Colorful Shading Accent 3" /><w:lsdException
+	w:name="Colorful List Accent 3" /><w:lsdException
+	w:name="Colorful Grid Accent 3" /><w:lsdException
+	w:name="Light Shading Accent 4" /><w:lsdException
+	w:name="Light List Accent 4" /><w:lsdException
+	w:name="Light Grid Accent 4" /><w:lsdException
+	w:name="Medium Shading 1 Accent 4" /><w:lsdException
+	w:name="Medium Shading 2 Accent 4" /><w:lsdException
+	w:name="Medium List 1 Accent 4" /><w:lsdException
+	w:name="Medium List 2 Accent 4" /><w:lsdException
+	w:name="Medium Grid 1 Accent 4" /><w:lsdException
+	w:name="Medium Grid 2 Accent 4" /><w:lsdException
+	w:name="Medium Grid 3 Accent 4" /><w:lsdException
+	w:name="Dark List Accent 4" /><w:lsdException
+	w:name="Colorful Shading Accent 4" /><w:lsdException
+	w:name="Colorful List Accent 4" /><w:lsdException
+	w:name="Colorful Grid Accent 4" /><w:lsdException
+	w:name="Light Shading Accent 5" /><w:lsdException
+	w:name="Light List Accent 5" /><w:lsdException
+	w:name="Light Grid Accent 5" /><w:lsdException
+	w:name="Medium Shading 1 Accent 5" /><w:lsdException
+	w:name="Medium Shading 2 Accent 5" /><w:lsdException
+	w:name="Medium List 1 Accent 5" /><w:lsdException
+	w:name="Medium List 2 Accent 5" /><w:lsdException
+	w:name="Medium Grid 1 Accent 5" /><w:lsdException
+	w:name="Medium Grid 2 Accent 5" /><w:lsdException
+	w:name="Medium Grid 3 Accent 5" /><w:lsdException
+	w:name="Dark List Accent 5" /><w:lsdException
+	w:name="Colorful Shading Accent 5" /><w:lsdException
+	w:name="Colorful List Accent 5" /><w:lsdException
+	w:name="Colorful Grid Accent 5" /><w:lsdException
+	w:name="Light Shading Accent 6" /><w:lsdException
+	w:name="Light List Accent 6" /><w:lsdException
+	w:name="Light Grid Accent 6" /><w:lsdException
+	w:name="Medium Shading 1 Accent 6" /><w:lsdException
+	w:name="Medium Shading 2 Accent 6" /><w:lsdException
+	w:name="Medium List 1 Accent 6" /><w:lsdException
+	w:name="Medium List 2 Accent 6" /><w:lsdException
+	w:name="Medium Grid 1 Accent 6" /><w:lsdException
+	w:name="Medium Grid 2 Accent 6" /><w:lsdException
+	w:name="Medium Grid 3 Accent 6" /><w:lsdException
+	w:name="Dark List Accent 6" /><w:lsdException
+	w:name="Colorful Shading Accent 6" /><w:lsdException
+	w:name="Colorful List Accent 6" /><w:lsdException
+	w:name="Colorful Grid Accent 6" /><w:lsdException
+	w:name="Subtle Emphasis" /><w:lsdException
+	w:name="Intense Emphasis" /><w:lsdException
+	w:name="Subtle Reference" /><w:lsdException
+	w:name="Intense Reference" /><w:lsdException
+	w:name="Book Title" /><w:lsdException
+	w:name="Bibliography" /><w:lsdException
+	w:name="TOC Heading" /></w:latentStyles><w:style
+	w:type="paragraph" w:default="on" w:styleId="a"><w:name
+	w:val="Normal" /><wx:uiName wx:val="正文" /><w:rsid
+	w:val="00EA14F4" /><w:pPr><w:widowControl w:val="off" /><w:autoSpaceDE
+	w:val="off" /><w:autoSpaceDN w:val="off" /><w:adjustRightInd
+	w:val="off" /></w:pPr><w:rPr><w:rFonts w:ascii="Courier"
+	w:h-ansi="Courier" /><wx:font wx:val="Courier" /><w:sz
+	w:val="24" /><w:sz-cs w:val="24" /><w:lang w:val="EN-US"
+	w:fareast="EN-US" w:bidi="AR-SA" /></w:rPr></w:style><w:style
+	w:type="paragraph" w:styleId="1"><w:name w:val="heading 1" /><wx:uiName
+	wx:val="标题 1" /><w:basedOn w:val="a" /><w:next
+	w:val="a" /><w:rsid w:val="00EA14F4" /><w:pPr><w:keepNext /><w:tabs><w:tab
+	w:val="left" w:pos="0" /></w:tabs><w:suppressAutoHyphens /><w:spacing
+	w:line="240" w:line-rule="at-least" /><w:jc w:val="center" /><w:outlineLvl
+	w:val="0" /></w:pPr><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:spacing w:val="-1" /><w:sz
+	w:val="20" /><w:sz-cs w:val="20" /></w:rPr></w:style><w:style
+	w:type="character" w:default="on" w:styleId="a0"><w:name
+	w:val="Default Paragraph Font" /><wx:uiName wx:val="默认段落字体" /></w:style><w:style
+	w:type="table" w:default="on" w:styleId="a1"><w:name
+	w:val="Normal Table" /><wx:uiName wx:val="普通表格" /><w:rPr><wx:font
+	wx:val="Times New Roman" /><w:lang w:val="EN-US"
+	w:fareast="ZH-CN" w:bidi="AR-SA" /></w:rPr><w:tblPr><w:tblInd
+	w:w="0" w:type="dxa" /><w:tblCellMar><w:top w:w="0" w:type="dxa" /><w:left
+	w:w="108" w:type="dxa" /><w:bottom w:w="0" w:type="dxa" /><w:right
+	w:w="108" w:type="dxa" /></w:tblCellMar></w:tblPr></w:style><w:style
+	w:type="list" w:default="on" w:styleId="a2"><w:name w:val="No List" /><wx:uiName
+	wx:val="无列表" /></w:style><w:style w:type="character"
+	w:styleId="a3"><w:name w:val="footnote reference" /><wx:uiName
+	wx:val="脚注引用" /><w:rsid w:val="00EA14F4" /></w:style><w:style
+	w:type="paragraph" w:styleId="a4"><w:name w:val="header" /><wx:uiName
+	wx:val="页眉" /><w:basedOn w:val="a" /><w:link
+	w:val="Char" /><w:rsid w:val="00EA14F4" /><w:pPr><w:tabs><w:tab
+	w:val="center" w:pos="4320" /><w:tab w:val="right" w:pos="8640" /></w:tabs></w:pPr><w:rPr><wx:font
+	wx:val="Courier" /><w:lang /></w:rPr></w:style><w:style
+	w:type="paragraph" w:styleId="a5"><w:name w:val="footer" /><wx:uiName
+	wx:val="页脚" /><w:basedOn w:val="a" /><w:rsid
+	w:val="00EA14F4" /><w:pPr><w:tabs><w:tab w:val="center"
+	w:pos="4320" /><w:tab w:val="right" w:pos="8640" /></w:tabs></w:pPr><w:rPr><wx:font
+	wx:val="Courier" /></w:rPr></w:style><w:style
+	w:type="paragraph" w:styleId="a6"><w:name w:val="Body Text" /><wx:uiName
+	wx:val="正文文本" /><w:basedOn w:val="a" /><w:rsid
+	w:val="00EA14F4" /><w:pPr><w:tabs><w:tab w:val="left" w:pos="0" /></w:tabs><w:suppressAutoHyphens /><w:spacing
+	w:line="240" w:line-rule="at-least" /></w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:b /><w:b-cs /><w:spacing w:val="-1" /><w:sz-cs
+	w:val="12" /></w:rPr></w:style><w:style w:type="character"
+	w:styleId="Char"><w:name w:val="页眉 Char" /><w:link w:val="a4" /><w:rsid
+	w:val="008A0B95" /><w:rPr><w:rFonts w:ascii="Courier"
+	w:h-ansi="Courier" /><w:sz w:val="24" /><w:sz-cs
+	w:val="24" /><w:lang w:fareast="EN-US" /></w:rPr></w:style><w:style
+	w:type="paragraph" w:styleId="a7"><w:name w:val="Balloon Text" /><wx:uiName
+	wx:val="批注框文本" /><w:basedOn w:val="a" /><w:link
+	w:val="Char0" /><w:rsid w:val="008A0B95" /><w:rPr><wx:font
+	wx:val="Courier" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang /></w:rPr></w:style><w:style
+	w:type="character" w:styleId="Char0"><w:name w:val="批注框文本 Char" /><w:link
+	w:val="a7" /><w:rsid w:val="008A0B95" /><w:rPr><w:rFonts
+	w:ascii="Courier" w:h-ansi="Courier" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="EN-US" /></w:rPr></w:style><w:style
+	w:type="paragraph" w:styleId="a8"><w:name w:val="No Spacing" /><wx:uiName
+	wx:val="无间隔" /><w:rsid w:val="002964A7" /><w:rPr><w:rFonts
+	w:ascii="Calibri" w:h-ansi="Calibri" /><wx:font
+	wx:val="Calibri" /><w:sz w:val="22" /><w:sz-cs w:val="22" /><w:lang
+	w:val="EN-US" w:fareast="ZH-CN" w:bidi="AR-SA" /></w:rPr></w:style></w:styles><w:shapeDefaults><o:shapedefaults
+	v:ext="edit" spidmax="2051" /><o:shapelayout v:ext="edit"><o:idmap
+	v:ext="edit" data="1" /></o:shapelayout></w:shapeDefaults><w:docPr><w:view
+	w:val="print" /><w:zoom w:percent="100" /><w:bordersDontSurroundHeader /><w:bordersDontSurroundFooter /><w:stylePaneFormatFilter
+	w:val="3F01" /><w:defaultTabStop w:val="720" /><w:doNotHyphenateCaps /><w:drawingGridHorizontalSpacing
+	w:val="120" /><w:drawingGridVerticalSpacing
+	w:val="120" /><w:displayHorizontalDrawingGridEvery
+	w:val="0" /><w:displayVerticalDrawingGridEvery
+	w:val="3" /><w:doNotShadeFormData /><w:punctuationKerning /><w:characterSpacingControl
+	w:val="CompressPunctuation" /><w:webPageEncoding
+	w:val="windows-1252" /><w:optimizeForBrowser /><w:validateAgainstSchema /><w:saveInvalidXML
+	w:val="off" /><w:ignoreMixedContent w:val="off" /><w:alwaysShowPlaceholderText
+	w:val="off" /><w:hdrShapeDefaults><o:shapedefaults
+	v:ext="edit" spidmax="2051" /><o:shapelayout v:ext="edit"><o:idmap
+	v:ext="edit" data="2" /></o:shapelayout></w:hdrShapeDefaults><w:footnotePr><w:footnote
+	w:type="separator"><w:p wsp:rsidR="00E967AA" wsp:rsidRDefault="00E967AA"><w:r><w:separator /></w:r></w:p></w:footnote><w:footnote
+	w:type="continuation-separator"><w:p wsp:rsidR="00E967AA" wsp:rsidRDefault="00E967AA"><w:r><w:continuationSeparator /></w:r></w:p></w:footnote></w:footnotePr><w:endnotePr><w:endnote
+	w:type="separator"><w:p wsp:rsidR="00E967AA" wsp:rsidRDefault="00E967AA"><w:r><w:separator /></w:r></w:p></w:endnote><w:endnote
+	w:type="continuation-separator"><w:p wsp:rsidR="00E967AA" wsp:rsidRDefault="00E967AA"><w:r><w:continuationSeparator /></w:r></w:p></w:endnote></w:endnotePr><w:compat><w:breakWrappedTables /><w:snapToGridInCell /><w:wrapTextWithPunct /><w:useAsianBreakRules /><w:dontGrowAutofit /><w:useFELayout /></w:compat><wsp:rsids><wsp:rsidRoot
+	wsp:val="00860688" /><wsp:rsid wsp:val="00003462" /><wsp:rsid
+	wsp:val="000124E2" /><wsp:rsid wsp:val="00050EF6" /><wsp:rsid
+	wsp:val="00057528" /><wsp:rsid wsp:val="00067EAC" /><wsp:rsid
+	wsp:val="00082EFE" /><wsp:rsid wsp:val="000F3431" /><wsp:rsid
+	wsp:val="0012770D" /><wsp:rsid wsp:val="0016004F" /><wsp:rsid
+	wsp:val="001857B3" /><wsp:rsid wsp:val="00196FB7" /><wsp:rsid
+	wsp:val="001B16C1" /><wsp:rsid wsp:val="001E101E" /><wsp:rsid
+	wsp:val="001E1C55" /><wsp:rsid wsp:val="001F635F" /><wsp:rsid
+	wsp:val="00226D32" /><wsp:rsid wsp:val="002444EF" /><wsp:rsid
+	wsp:val="00245B82" /><wsp:rsid wsp:val="002964A7" /><wsp:rsid
+	wsp:val="002F1198" /><wsp:rsid wsp:val="0032508D" /><wsp:rsid
+	wsp:val="003430FF" /><wsp:rsid wsp:val="00364A53" /><wsp:rsid
+	wsp:val="00373871" /><wsp:rsid wsp:val="00384C91" /><wsp:rsid
+	wsp:val="003912F0" /><wsp:rsid wsp:val="003A2832" /><wsp:rsid
+	wsp:val="003F36C7" /><wsp:rsid wsp:val="004047B9" /><wsp:rsid
+	wsp:val="00405696" /><wsp:rsid wsp:val="00415DF4" /><wsp:rsid
+	wsp:val="00462951" /><wsp:rsid wsp:val="004877F3" /><wsp:rsid
+	wsp:val="004A240F" /><wsp:rsid wsp:val="004B0A33" /><wsp:rsid
+	wsp:val="00524B9B" /><wsp:rsid wsp:val="005304DE" /><wsp:rsid
+	wsp:val="00570111" /><wsp:rsid wsp:val="0057042B" /><wsp:rsid
+	wsp:val="00583D7B" /><wsp:rsid wsp:val="005C1D76" /><wsp:rsid
+	wsp:val="005E5E69" /><wsp:rsid wsp:val="005F0CF3" /><wsp:rsid
+	wsp:val="00607BBD" /><wsp:rsid wsp:val="006235A7" /><wsp:rsid
+	wsp:val="00635ADF" /><wsp:rsid wsp:val="006775C4" /><wsp:rsid
+	wsp:val="006973BD" /><wsp:rsid wsp:val="006A3642" /><wsp:rsid
+	wsp:val="006B3766" /><wsp:rsid wsp:val="006D0D5F" /><wsp:rsid
+	wsp:val="006F25FB" /><wsp:rsid wsp:val="006F354B" /><wsp:rsid
+	wsp:val="00724CCA" /><wsp:rsid wsp:val="00773A48" /><wsp:rsid
+	wsp:val="007F0E7C" /><wsp:rsid wsp:val="008029E3" /><wsp:rsid
+	wsp:val="00807222" /><wsp:rsid wsp:val="00844F2A" /><wsp:rsid
+	wsp:val="00853050" /><wsp:rsid wsp:val="00860688" /><wsp:rsid
+	wsp:val="008733B2" /><wsp:rsid wsp:val="008A0B95" /><wsp:rsid
+	wsp:val="008D58E0" /><wsp:rsid wsp:val="00926EC2" /><wsp:rsid
+	wsp:val="00953502" /><wsp:rsid wsp:val="00991DA8" /><wsp:rsid
+	wsp:val="009D6337" /><wsp:rsid wsp:val="00A05681" /><wsp:rsid
+	wsp:val="00A34B37" /><wsp:rsid wsp:val="00A62D81" /><wsp:rsid
+	wsp:val="00A6501B" /><wsp:rsid wsp:val="00A90C8A" /><wsp:rsid
+	wsp:val="00AF7C70" /><wsp:rsid wsp:val="00B15A0C" /><wsp:rsid
+	wsp:val="00BB7C4E" /><wsp:rsid wsp:val="00BF7305" /><wsp:rsid
+	wsp:val="00C67A64" /><wsp:rsid wsp:val="00C81524" /><wsp:rsid
+	wsp:val="00C82908" /><wsp:rsid wsp:val="00CA3973" /><wsp:rsid
+	wsp:val="00CA3B33" /><wsp:rsid wsp:val="00CA7D7C" /><wsp:rsid
+	wsp:val="00CC0372" /><wsp:rsid wsp:val="00D00873" /><wsp:rsid
+	wsp:val="00D626CC" /><wsp:rsid wsp:val="00D646E2" /><wsp:rsid
+	wsp:val="00D82B74" /><wsp:rsid wsp:val="00DC28F6" /><wsp:rsid
+	wsp:val="00DD726B" /><wsp:rsid wsp:val="00DE381C" /><wsp:rsid
+	wsp:val="00E00610" /><wsp:rsid wsp:val="00E1185E" /><wsp:rsid
+	wsp:val="00E23A53" /><wsp:rsid wsp:val="00E51349" /><wsp:rsid
+	wsp:val="00E90852" /><wsp:rsid wsp:val="00E967AA" /><wsp:rsid
+	wsp:val="00E96F83" /><wsp:rsid wsp:val="00EA14F4" /><wsp:rsid
+	wsp:val="00EC69B7" /><wsp:rsid wsp:val="00ED3F62" /><wsp:rsid
+	wsp:val="00EF3E33" /><wsp:rsid wsp:val="00F47DBA" /><wsp:rsid
+	wsp:val="00F65B34" /><wsp:rsid wsp:val="00F92D97" /><wsp:rsid
+	wsp:val="00FF2E35" /></wsp:rsids></w:docPr><w:body><wx:sect><w:tbl><w:tblPr><w:tblW
+	w:w="10687" w:type="dxa" /><w:tblBorders><w:top w:val="double"
+	w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /><w:left
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /><w:bottom
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /><w:right
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /><w:insideH
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:insideV
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tblBorders><w:tblLayout
+	w:type="Fixed" /><w:tblLook w:val="01E0" /></w:tblPr><w:tblGrid><w:gridCol
+	w:w="1638" /><w:gridCol w:w="1710" /><w:gridCol
+	w:w="270" /><w:gridCol w:w="270" /><w:gridCol
+	w:w="270" /><w:gridCol w:w="3870" /><w:gridCol
+	w:w="1329" /><w:gridCol w:w="1330" /></w:tblGrid><w:tr
+	wsp:rsidR="00926EC2" wsp:rsidRPr="00197F33" wsp:rsidTr="00570111"><w:trPr><w:trHeight
+	w:val="372" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3348"
+	w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRDefault="00926EC2" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>PN/REV </w:t></w:r></w:p><w:p
+	wsp:rsidR="00926EC2" wsp:rsidRDefault="00926EC2" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>零件号</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>/</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>版本号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4680" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRDefault="00926EC2" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>D</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>escription</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r></w:p><w:p
+	wsp:rsidR="00926EC2" wsp:rsidRDefault="00926EC2" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>描述</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRDefault="00926EC2" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>WO-SN </w:t></w:r></w:p><w:p
+	wsp:rsidR="00926EC2" wsp:rsidRDefault="00570111" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>工单</w:t></w:r><w:r
+	wsp:rsidR="00926EC2"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>序列号</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00926EC2" wsp:rsidRPr="00197F33" wsp:rsidTr="00570111"><w:trPr><w:trHeight
+	w:val="372" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3348"
+	w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00926EC2" wsp:rsidRPr="002F1198" wsp:rsidRDefault="009D6337"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${partNOAndRev}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4680" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00926EC2" wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${partNODesc}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00926EC2" wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${productOrderId}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00570111" wsp:rsidRPr="00197F33" wsp:rsidTr="00570111"><w:trPr><w:trHeight
+	w:val="255" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="4158"
+	w:type="dxa" /><w:gridSpan w:val="5" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00570111"
+	wsp:rsidRDefault="00570111" wsp:rsidP="00570111"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Quality Plan</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>质量计划</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3870" w:type="dxa" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${qualityPlanStandard}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1329" w:type="dxa" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRDefault="00570111" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>REV.</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1330" w:type="dxa" /><w:tcBorders><w:bottom
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${qPRev}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00570111" wsp:rsidRPr="00197F33" wsp:rsidTr="00570111"><w:trPr><w:trHeight
+	w:val="255" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="4158"
+	w:type="dxa" /><w:gridSpan w:val="5" /><w:tcBorders><w:top
+	w:val="single" w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00570111"
+	wsp:rsidRDefault="00570111" wsp:rsidP="00570111"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>P</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ainting Specification</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>喷漆规范</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="3870" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${paintingSpecification}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1329" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRDefault="00570111" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>REV.</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1330" w:type="dxa" /><w:tcBorders><w:top w:val="single"
+	w:sz="4" wx:bdrwidth="10" w:space="0" w:color="auto" /><w:bottom
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00570111" wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${pSRev}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00524B9B" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="255" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10687"
+	w:type="dxa" /><w:gridSpan w:val="8" /><w:tcBorders><w:top
+	w:val="double" w:sz="12" wx:bdrwidth="90" w:space="0" w:color="auto" /></w:tcBorders><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00524B9B"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00524B9B" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>S</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>urface Preparation</w:t></w:r><w:r
+	wsp:rsidR="005304DE"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> &amp;</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="005304DE"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Protection</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>表面准备</w:t></w:r><w:r
+	wsp:rsidR="005304DE"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>和保护</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00524B9B" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="8028"
+	w:type="dxa" /><w:gridSpan w:val="6" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00524B9B"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="005304DE" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Operation </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>操作内容</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00524B9B"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00D82B74" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Operator</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>/Date</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>操作人</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>/</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>日期</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00D82B74" wsp:rsidRPr="00197F33" wsp:rsidTr="00570111"><w:trPr><w:trHeight
+	w:val="576" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="8028"
+	w:type="dxa" /><w:gridSpan w:val="6" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="005304DE"
+	wsp:rsidRDefault="005304DE" wsp:rsidP="00926EC2"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>learing and </w:t></w:r><w:r
+	wsp:rsidRPr="005304DE"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>derusting</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00926EC2"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>Surface shall be clean, dry and free from oil/grease,            dust and rust.</w:t></w:r></w:p><w:p
+	wsp:rsidR="00D82B74" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="005304DE"
+	wsp:rsidP="00926EC2"><w:pPr><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>清洗与除锈</w:t></w:r><w:r
+	wsp:rsidR="00926EC2"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：没有油污、灰尘、铁锈等杂质，产品表面干燥清洁</w:t></w:r><w:r
+	wsp:rsidR="00BF7305"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>。</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="00D82B74" wsp:rsidRPr="002F1198" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="00F47DBA"><w:pPr><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+	path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke
+	joinstyle="miter" /><v:formulas><v:f
+	eqn="if lineDrawn pixelLineWidth 0" /><v:f eqn="sum @0 1 0" /><v:f
+	eqn="sum 0 0 @1" /><v:f eqn="prod @2 1 2" /><v:f
+	eqn="prod @3 21600 pixelWidth" /><v:f
+	eqn="prod @3 21600 pixelHeight" /><v:f eqn="sum @0 0 1" /><v:f
+	eqn="prod @6 1 2" /><v:f eqn="prod @7 21600 pixelWidth" /><v:f
+	eqn="sum @8 21600 0" /><v:f eqn="prod @7 21600 pixelHeight" /><v:f
+	eqn="sum @10 21600 0" /></v:formulas><v:path o:extrusionok="f"
+	gradientshapeok="t" o:connecttype="rect" /><o:lock v:ext="edit"
+	aspectratio="t" /></v:shapetype><w:binData
+	w:name="wordml://02000001.jpg" xml:space="preserve">${operator}
+</w:binData><v:shape id="图片 16" o:spid="_x0000_i1031"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000001.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="005304DE" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="576" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="8028"
+	w:type="dxa" /><w:gridSpan w:val="6" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00926EC2"
+	wsp:rsidRDefault="005304DE" wsp:rsidP="00926EC2"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>M</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>a</w:t></w:r><w:r
+	wsp:rsidR="00724CCA"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>s</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>king</w:t></w:r><w:r
+	wsp:rsidR="00926EC2"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>: </w:t></w:r><w:r
+	wsp:rsidR="00926EC2" wsp:rsidRPr="00926EC2"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Protect all critical areas</w:t></w:r><w:r
+	wsp:rsidR="00926EC2"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>.</w:t></w:r></w:p><w:p
+	wsp:rsidR="005304DE" wsp:rsidRDefault="005304DE" wsp:rsidP="00570111"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>保护</w:t></w:r><w:r
+	wsp:rsidR="00570111"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00926EC2"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>将不喷漆的区域遮盖保护</w:t></w:r><w:r
+	wsp:rsidR="00BF7305"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>。</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="005304DE" wsp:rsidRPr="002F1198" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="00F47DBA"><w:pPr><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><w:binData
+	w:name="wordml://02000002.jpg" xml:space="preserve">${operator}
+</w:binData><v:shape id="图片 11" o:spid="_x0000_i1030"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000002.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00D82B74" wsp:rsidRPr="00197F33" wsp:rsidTr="001F635F"><w:trPr><w:trHeight
+	w:val="255" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10687"
+	w:type="dxa" /><w:gridSpan w:val="8" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00D82B74"
+	wsp:rsidRPr="00D82B74" wsp:rsidRDefault="00D82B74" wsp:rsidP="001F635F"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00D82B74"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Painting </w:t></w:r><w:r
+	wsp:rsidRPr="00D82B74"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>喷漆</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00524B9B" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="00524B9B" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00D82B74"
+	wsp:rsidP="00724CCA"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>P</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>rocess </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>工艺</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00524B9B"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00E51349" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Operation</w:t></w:r><w:r
+	wsp:rsidR="00D82B74"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>操作内容</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00524B9B"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00D82B74" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Operator</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>/D</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>ate</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>操作人</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>/</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>日期</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge w:val="restart" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00CC0372"
+	wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>P</w:t></w:r><w:r
+	wsp:rsidR="00245B82"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>rimer </w:t></w:r><w:r
+	wsp:rsidR="00245B82"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r
+	wsp:rsidR="00245B82"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>oating</w:t></w:r></w:p><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>底漆</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>mbient Condition </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>环境条件</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ir Temp.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>空气温度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerAirTemp}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="002F1198" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="00724CCA"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><w:binData
+	w:name="wordml://02000003.jpg" xml:space="preserve">${operator}
+</w:binData><v:shape id="图片 12" o:spid="_x0000_i1029"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000003.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00E51349"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Surface Temp.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>表面温度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${pSTemp}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00E51349"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>RH</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>湿度</w:t></w:r><w:r
+	wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>(%)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerHumidity}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00E51349"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Dew </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>P</w:t></w:r><w:r
+	wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>oint</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>露点</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerDewPoint}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00245B82" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Paint</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> Applied</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>油漆</w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>型号</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerPaintApplied}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="006F25FB" wsp:rsidRDefault="00CC0372" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Required </w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>P</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>rimer</w:t></w:r><w:r
+	wsp:rsidR="00724CCA"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> Dry</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>F</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>ilm Thickness </w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>底漆干膜厚度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>要求</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(µm)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${pDF}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge w:val="restart" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00CC0372"
+	wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>D</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>rying</w:t></w:r></w:p><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干燥</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="000F3431"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>mbient Condition</w:t></w:r></w:p><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="000F3431"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>环境条件</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ir Temp.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>空气温度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${pDryAirTemp}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="002F1198" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="00724CCA"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><w:binData
+	w:name="wordml://02000004.jpg" xml:space="preserve">${operator}
+</w:binData><v:shape id="图片 13" o:spid="_x0000_i1028"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000004.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="006B3766"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>RH</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>湿度</w:t></w:r><w:r
+	wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>(%)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerDryHumidity}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>D</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>rying Method </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干燥方式</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerDryMethod}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Drying </w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>T</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ime </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干燥时间</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${primerDryTime}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge w:val="restart" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00CC0372"
+	wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>F</w:t></w:r><w:r
+	wsp:rsidR="00245B82"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>inal Coating</w:t></w:r></w:p><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>面漆</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>mbient Condition </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>环境条件</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ir Temp.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>空气温度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${fCoatAirTemp}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="002F1198" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="00724CCA"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><w:binData
+	w:name="wordml://02000005.jpg" xml:space="preserve">${operator}
+</w:binData><v:shape id="图片 14" o:spid="_x0000_i1027"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000005.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="006B3766"><w:pPr><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Surface Temp.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>表面温度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${fCSTemp}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="006B3766"><w:pPr><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>RH</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>湿度</w:t></w:r><w:r
+	wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>(%)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatHumidity}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="006B3766"><w:pPr><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Dew </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>P</w:t></w:r><w:r
+	wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>oint</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>露点</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatDewPoint}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Paint Applied</w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>油漆型号</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatPaintApplied}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="00953502" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="00953502" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00953502"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00953502"
+	wsp:rsidRDefault="00953502" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Color of final coat </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>面漆颜色</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatColor}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00953502"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00953502" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="00CC0372" wsp:rsidP="00953502"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Required</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> T</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>otal </w:t></w:r><w:r
+	wsp:rsidR="00724CCA"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>Dry </w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>F</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>ilm Thickness </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>总</w:t></w:r><w:r
+	wsp:rsidR="000F3431"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干膜厚度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>要求</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(µm)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${TDFT}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge w:val="restart" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="00CC0372"
+	wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>D</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>rying</w:t></w:r></w:p><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干燥</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>mbient Condition</w:t></w:r></w:p><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00953502"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>环境条件</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>A</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ir Temp.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>空气温度</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>(°</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>C</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${fCDryAirTemp}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge
+	w:val="restart" /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /><w:vAlign w:val="center" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="002F1198" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="00724CCA"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz w:val="20" /><w:sz-cs
+	w:val="20" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:pict><w:binData
+	w:name="wordml://02000006.jpg" xml:space="preserve">${operator}
+</w:binData><v:shape id="图片 15" o:spid="_x0000_i1026"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000006.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRDefault="000F3431" wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="1980" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRDefault="000F3431" wsp:rsidP="006B3766"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="4410" w:type="dxa" /><w:gridSpan w:val="3" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>RH</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>湿度</w:t></w:r><w:r
+	wsp:rsidRPr="00524B9B"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>(%)</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatDryHumidity}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00953502"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>D</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>rying Method </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干燥方式</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatDryMethod}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="288" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="1638"
+	w:type="dxa" /><w:vmerge /><w:shd w:val="clear" w:color="auto"
+	w:fill="FFFFFF" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00524B9B"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6390" w:type="dxa" /><w:gridSpan w:val="5" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="006A3642"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Drying </w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>T</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>ime </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>干燥时间</w:t></w:r><w:r
+	wsp:rsidR="006F25FB"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>：</w:t></w:r><w:r
+	wsp:rsidR="00807222" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${finalCoatDryTime}</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="2659" w:type="dxa" /><w:gridSpan w:val="2" /><w:vmerge /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /></w:tcPr><w:p
+	wsp:rsidR="000F3431" wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431"
+	wsp:rsidP="00524B9B"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="001F635F"><w:trPr><w:trHeight
+	w:val="255" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="10687"
+	w:type="dxa" /><w:gridSpan w:val="8" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="001F635F"><w:pPr><w:jc
+	w:val="center" /><w:rPr><w:rFonts w:ascii="Arial"
+	w:h-ansi="Arial" w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>I</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>nspection </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="28" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>检验</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="379" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3888"
+	w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Visual Inspection </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>外观检验</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6799" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${visualInspection}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="379" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3888"
+	w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Total </w:t></w:r><w:r
+	wsp:rsidR="00724CCA"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>Dry </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Film </w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>T</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>hickness</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>总干膜厚度</w:t></w:r><w:r
+	wsp:rsidR="00CC0372"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>(µm)</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6799" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${visualTotalDryFilmThickness}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="379" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3888"
+	w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Gage No.</w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>量具编号</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6799" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${visualGageNo}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="379" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3888"
+	w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Comments</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>结论</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6799" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="002F1198" wsp:rsidRDefault="00807222" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${comments}</w:t></w:r></w:p></w:tc></w:tr><w:tr
+	wsp:rsidR="000F3431" wsp:rsidRPr="00197F33" wsp:rsidTr="00724CCA"><w:trPr><w:trHeight
+	w:val="380" /></w:trPr><w:tc><w:tcPr><w:tcW w:w="3888"
+	w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="000F3431" wsp:rsidP="00724CCA"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Inspector</w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>/</w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>Date</w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>检验员</w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>/</w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="宋体" /><w:sz
+	w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>日期</w:t></w:r></w:p></w:tc><w:tc><w:tcPr><w:tcW
+	w:w="6799" w:type="dxa" /><w:gridSpan w:val="4" /><w:shd
+	w:val="clear" w:color="auto" w:fill="FFFFFF" /><w:vAlign
+	w:val="center" /></w:tcPr><w:p wsp:rsidR="000F3431"
+	wsp:rsidRPr="00524B9B" wsp:rsidRDefault="002444EF" wsp:rsidP="00415DF4"><w:pPr><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r wsp:rsidRPr="002444EF"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:noProof /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:pict><w:binData
+	w:name="wordml://02000007.jpg" xml:space="preserve">${qcinspector}
+</w:binData><v:shape id="图片 4" o:spid="_x0000_i1025"
+	type="#_x0000_t75"
+	style="width:66pt;height:22pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://02000007.jpg" o:title="" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="0016004F" wsp:rsidRPr="002F1198"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="20" /><w:sz-cs w:val="20" /></w:rPr><w:t>${AndDate}</w:t></w:r></w:p></w:tc></w:tr></w:tbl><w:p
+	wsp:rsidR="006973BD" wsp:rsidRDefault="006973BD" wsp:rsidP="00E96F83"><w:pPr><w:jc
+	w:val="both" /><w:rPr><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr></w:p><w:sectPr
+	wsp:rsidR="006973BD" wsp:rsidSect="00405696"><w:hdr w:type="odd"><w:p
+	wsp:rsidR="00405696" wsp:rsidRPr="00405696" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="003A2832"><w:pPr><w:ind w:left="2880" /><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:noProof /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t202" coordsize="21600,21600" o:spt="202"
+	path="m,l,21600r21600,l21600,xe"><v:stroke joinstyle="miter" /><v:path
+	gradientshapeok="t" o:connecttype="rect" /></v:shapetype><v:shape
+	id="Text Box 3" o:spid="_x0000_s2050" type="#_x0000_t202"
+	style="position:absolute;left:0;text-align:left;margin-left:6.3pt;margin-top:-33.6pt;width:152.75pt;height:42.5pt;z-index:1;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:200;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:200;mso-width-relative:margin;mso-height-relative:margin;v-text-anchor:top"
+	o:gfxdata="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&#xA;AADmBQAAAAA=&#xA;"
+	stroked="f"><v:textbox style="mso-fit-shape-to-text:t"><w:txbxContent><w:p
+	wsp:rsidR="00CA7D7C" wsp:rsidRPr="00EE093A" wsp:rsidRDefault="002444EF"
+	wsp:rsidP="002964A7"><w:pPr><w:pStyle w:val="a8" /><w:rPr><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /></w:rPr></w:pPr><w:r
+	wsp:rsidRPr="007C0F26"><w:rPr><w:noProof /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+	path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke
+	joinstyle="miter" /><v:formulas><v:f
+	eqn="if lineDrawn pixelLineWidth 0" /><v:f eqn="sum @0 1 0" /><v:f
+	eqn="sum 0 0 @1" /><v:f eqn="prod @2 1 2" /><v:f
+	eqn="prod @3 21600 pixelWidth" /><v:f
+	eqn="prod @3 21600 pixelHeight" /><v:f eqn="sum @0 0 1" /><v:f
+	eqn="prod @6 1 2" /><v:f eqn="prod @7 21600 pixelWidth" /><v:f
+	eqn="sum @8 21600 0" /><v:f eqn="prod @7 21600 pixelHeight" /><v:f
+	eqn="sum @10 21600 0" /></v:formulas><v:path o:extrusionok="f"
+	gradientshapeok="t" o:connecttype="rect" /><o:lock v:ext="edit"
+	aspectratio="t" /></v:shapetype><w:binData
+	w:name="wordml://03000008.png" xml:space="preserve">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
+AAAASUVORK5CYIJ=
+</w:binData><v:shape id="Picture 1" o:spid="_x0000_i1032"
+	type="#_x0000_t75"
+	style="width:138pt;height:35.25pt;visibility:visible;mso-wrap-style:square"><v:imagedata src="wordml://03000008.png" o:title="" /></v:shape></w:pict></w:r></w:p></w:txbxContent></v:textbox></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>  </w:t></w:r><w:r
+	wsp:rsidR="003A2832"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" w:hint="fareast" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="005304DE"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" w:hint="fareast" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>Painting</w:t></w:r><w:r
+	wsp:rsidR="00405696" wsp:rsidRPr="00405696"><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /></w:rPr><w:t> R</w:t></w:r><w:r wsp:rsidR="003A2832"><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>eport</w:t></w:r></w:p><w:p
+	wsp:rsidR="00CA7D7C" wsp:rsidRPr="00405696" wsp:rsidRDefault="003912F0"
+	wsp:rsidP="003912F0"><w:pPr><w:jc w:val="both" /><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz
+	w:val="44" /><w:sz-cs w:val="44" /></w:rPr><w:t>                               </w:t></w:r><w:r
+	wsp:rsidR="006A3642"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /></w:rPr><w:t>  </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz
+	w:val="44" /><w:sz-cs w:val="44" /></w:rPr><w:t>   </w:t></w:r><w:r
+	wsp:rsidR="00D626CC"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>喷漆</w:t></w:r><w:r
+	wsp:rsidR="00405696" wsp:rsidRPr="00405696"><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="宋体" /><w:b /><w:b-cs /><w:sz
+	w:val="44" /><w:sz-cs w:val="44" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>报告</w:t></w:r><w:r
+	wsp:rsidR="00CA7D7C"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" w:hint="fareast" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="44" /><w:sz-cs
+	w:val="44" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>       </w:t></w:r><w:r
+	wsp:rsidR="00CA7D7C" wsp:rsidRPr="003912F0"><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz
+	w:val="21" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r></w:p><w:p
+	wsp:rsidR="00CA7D7C" wsp:rsidRDefault="00CA7D7C"><w:pPr><w:pStyle
+	w:val="a4" /></w:pPr><w:r wsp:rsidRPr="004047B9"><w:rPr><w:rFonts
+	w:hint="fareast" /><w:b /><w:noProof /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>                                                         </w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz
+	w:val="21" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Report</w:t></w:r><w:r
+	wsp:rsidRPr="003912F0"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" w:hint="fareast" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="21" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> N</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz
+	w:val="21" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>o</w:t></w:r><w:r
+	wsp:rsidRPr="003912F0"><w:rPr><w:rFonts w:ascii="Helvetica"
+	w:h-ansi="Helvetica" w:cs="Helvetica" w:hint="fareast" /><wx:font
+	wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz w:val="21" /><w:sz-cs
+	w:val="21" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t>.</w:t></w:r><w:r><w:rPr><w:rFonts
+	w:ascii="Helvetica" w:h-ansi="Helvetica" w:cs="Helvetica"
+	w:hint="fareast" /><wx:font wx:val="Helvetica" /><w:b /><w:b-cs /><w:sz
+	w:val="21" /><w:sz-cs w:val="21" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>:</w:t></w:r></w:p></w:hdr><w:ftr
+	w:type="odd"><w:p wsp:rsidR="00CA7D7C" wsp:rsidRPr="00E1185E"
+	wsp:rsidRDefault="002444EF" wsp:rsidP="00405696"><w:pPr><w:pStyle
+	w:val="a5" /><w:jc w:val="right" /><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" /><wx:font
+	wx:val="Arial" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr></w:pPr><w:r><w:rPr><w:noProof /></w:rPr><w:pict><v:shapetype
+	id="_x0000_t202" coordsize="21600,21600" o:spt="202"
+	path="m,l,21600r21600,l21600,xe"><v:stroke joinstyle="miter" /><v:path
+	gradientshapeok="t" o:connecttype="rect" /></v:shapetype><v:shape
+	id="MSIPCM710c4746897ed469bd7008db" o:spid="_x0000_s2049"
+	type="#_x0000_t202"
+	alt="说明: {&quot;HashCode&quot;:1831732991,&quot;Height&quot;:841.0,&quot;Width&quot;:595.0,&quot;Placement&quot;:&quot;Footer&quot;,&quot;Index&quot;:&quot;Primary&quot;,&quot;Section&quot;:1,&quot;Top&quot;:0.0,&quot;Left&quot;:0.0}"
+	style="position:absolute;left:0;text-align:left;margin-left:0;margin-top:805.95pt;width:595.35pt;height:21pt;z-index:2;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:page;mso-position-vertical:absolute;mso-position-vertical-relative:page;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page;v-text-anchor:bottom"
+	o:gfxdata="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&#xA;BQYAAAAABAAEAPMAAACdBgAAAAA=&#xA;"
+	o:allowincell="f" filled="f" stroked="f"><v:textbox inset=",0,,0"><w:txbxContent><w:p
+	wsp:rsidR="001E1C55" wsp:rsidRPr="001E1C55" wsp:rsidRDefault="001E1C55"
+	wsp:rsidP="001E1C55"><w:pPr><w:jc w:val="center" /><w:rPr><w:rFonts
+	w:ascii="Calibri" w:h-ansi="Calibri" w:cs="Calibri" /><wx:font
+	wx:val="Calibri" /><w:color w:val="000000" /><w:sz
+	w:val="20" /></w:rPr></w:pPr><w:r wsp:rsidRPr="001E1C55"><w:rPr><w:rFonts
+	w:ascii="Calibri" w:h-ansi="Calibri" w:cs="Calibri" /><wx:font
+	wx:val="Calibri" /><w:color w:val="000000" /><w:sz
+	w:val="20" /></w:rPr><w:t>Schlumberger-Private</w:t></w:r></w:p></w:txbxContent></v:textbox><w10:wrap
+	anchorx="page" anchory="page" /></v:shape></w:pict></w:r><w:r
+	wsp:rsidR="00CA7D7C" wsp:rsidRPr="00E1185E"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="Arial" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>Form Code</w:t></w:r><w:r
+	wsp:rsidR="001F635F"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" /><wx:font wx:val="Arial" /><w:sz w:val="18" /><w:sz-cs
+	w:val="18" /><w:lang w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="00CA7D7C" wsp:rsidRPr="00E1185E"><w:rPr><w:rFonts
+	w:ascii="Arial" w:h-ansi="Arial" w:cs="Arial" w:hint="fareast" /><wx:font
+	wx:val="宋体" /><w:sz w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>表格代码</w:t></w:r><w:r
+	wsp:rsidR="00BF7305"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> </w:t></w:r><w:r
+	wsp:rsidR="00CA7D7C"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>QCF-</w:t></w:r><w:r
+	wsp:rsidR="00570111"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>27</w:t></w:r><w:r
+	wsp:rsidR="00CA7D7C"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t> Rev.</w:t></w:r><w:r
+	wsp:rsidR="00570111"><w:rPr><w:rFonts w:ascii="Arial" w:h-ansi="Arial"
+	w:cs="Arial" w:hint="fareast" /><wx:font wx:val="Arial" /><w:sz
+	w:val="18" /><w:sz-cs w:val="18" /><w:lang
+	w:fareast="ZH-CN" /></w:rPr><w:t>1</w:t></w:r></w:p><w:p
+	wsp:rsidR="00CA7D7C" wsp:rsidRDefault="00CA7D7C"><w:pPr><w:pStyle
+	w:val="a5" /></w:pPr></w:p></w:ftr><w:pgSz w:w="11907"
+	w:h="16839" w:code="9" /><w:pgMar w:top="851" w:right="720"
+	w:bottom="431" w:left="720" w:header="851" w:footer="431" w:gutter="0" /><w:cols
+	w:space="720" /><w:noEndnote /><w:docGrid w:line-pitch="326" /></w:sectPr></wx:sect></w:body></w:wordDocument>

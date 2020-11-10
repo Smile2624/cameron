@@ -1,0 +1,718 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.6.xsd">
+
+    <!--	<changeSet id="PATCH-1" author="system">-->
+    <!--	<addColumn tableName="bom">-->
+    <!--		<column name="ITEM_NO" type="varchar(80)"></column>-->
+    <!--	</addColumn>-->
+    <!--	</changeSet>-->
+
+
+    <changeSet id="PATCH-2" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="PRODUCT_DESC" type="varchar(255)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-3" author="system">
+        <addColumn tableName="PRODUCT_INFORMATION">
+            <column name="PAINTING_SPECIFICATION_FILE_REV" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-4" author="system">
+        <addColumn tableName="ASSEMBLING">
+            <column name="PART_NO" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-5" author="system">
+        <dropColumn tableName="PRODUCT_ROUTING">
+            <column name="PRODUCT_VERSION_ID"></column>
+        </dropColumn>
+        <addColumn tableName="PRODUCT_ROUTING">
+            <column name="PRODUCT_DESC" type="varchar(255)"></column>
+            <column name="ROUTING_GROUP" type="varchar(80)"></column>
+            <column name="INNER_GROUP_NO" type="varchar(80)"></column>
+            <column name="ROUTING_DESC" type="varchar(255)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-6" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="PRODUCT_QTY" type="int"></column>
+            <column name="ROUTING_GROUP" type="varchar(80)"></column>
+            <column name="INNER_GROUP_NO" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-7" author="system">
+        <addColumn tableName="PRODUCT_INFORMATION">
+            <column name="QULITY_PLAN" type="varchar(255)"></column>
+            <column name="QULITY_PLAN_REV" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <!--
+    <changeSet id="PATCH-8" author="system">
+         <dropColumn tableName="PRODUCT_ORDER">
+            <column name="PRODUCT_NUMBER"></column>
+        </dropColumn>
+    </changeSet>
+     -->
+    <changeSet id="PATCH-9" author="system">
+        <addColumn tableName="SPARE_PART">
+            <column name="QA_PLAN" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-10" author="system">
+        <addColumn tableName="BOM">
+            <column name="LONG_TEXT" type="varchar(2000)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-11" author="system">
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="PRIMER_DRY_FILM_THICKNESS" newDataType="float"/>
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="PRIMER_DRY_TIME" newDataType="float"/>
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="FINAL_COAT_TOTAL_FILM_THICKNESS"
+                        newDataType="float"/>
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="FINAL_COAT_DRY_TIME" newDataType="float"/>
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="VISUAL_TOTAL_DRY_FILM_THICKNESS"
+                        newDataType="float"/>
+    </changeSet>
+
+    <changeSet id="PATCH-12" author="system">
+        <addColumn tableName="SPARE_PART">
+            <column name="LONG_TEXT" type="varchar(2000)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-13" author="system">
+        <modifyDataType tableName="PRESSURE_TEST" columnName="GAGE_NO_SIZE" newDataType="varchar(80)"/>
+    </changeSet>
+    <changeSet id="PATCH-14" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="WORK_ORDER" type="varchar(80)"></column>
+            <column name="TEST_TABLE_NAME" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-15" author="system">
+        <addColumn tableName="HARDNESS_TEST_REPORT">
+            <column name="TEMP" type="varchar(80)"></column>
+            <column name="MATERIAL_MS" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-16" author="system">
+        <dropColumn tableName="HARDNESS_TEST_REPORT_ITEMS">
+            <column name="TEMP"></column>
+        </dropColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-17" author="system">
+        <addColumn tableName="SPARE_PART">
+            <column name="IS_RETROSPECT" type="boolean" defaultValue="false"/>
+            <column name="RETROSPECT_TYPE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-18" author="system">
+        <addColumn tableName="STATION_EQUIPMENT">
+            <column name="EQUIPMENT_TYPE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-19" author="system">
+        <addColumn tableName="DIMENSION_INSPECTION_RESULT">
+            <column name="MATERIAL_SN" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-20" author="system">
+        <addColumn tableName="PAINTING_INFORMATION">
+            <column name="INTERMEDIATE" type="float"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-21" author="system">
+        <addColumn tableName="DIMENSION_INSPECTION_RESULT">
+            <column name="INSPECTION_NAME" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-22" author="system">
+        <addColumn tableName="PURCHASING_ORDER">
+            <column name="DIMENSION_CHECKED" type="boolean" defaultValue="false"/>
+            <column name="HARDNESS_CHECKED" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-23" author="system">
+        <addColumn tableName="UNIQUE_DIMENSION_RESULT">
+            <column name="VENDOR" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-24" author="system">
+        <addColumn tableName="UNIQUE_TRACEABILITY_RECORD">
+            <column name="CUST_ORDER" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-25" author="system">
+        <addColumn tableName="UNIQUE_TRACEABILITY_RECORD">
+            <column name="PURCHASING_ORDER" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-26" author="system">
+        <addColumn tableName="PURCHASING_ORDER">
+            <column name="DIMENSION_CHECKED_RLT" type="varchar(80)"/>
+            <column name="HARDNESS_CHECKED_RLT" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-27" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="TEST_RESULT" type="varchar(80)" defaultValue="OK"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-28" author="system">
+        <addColumn tableName="RECEIVING_INSPECTION_REPORT">
+            <column name="QC_CHECKER" type="varchar(80)"/>
+            <column name="QA_CHECKER" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-29" author="system">
+        <addColumn tableName="UNIQUE_DIMENSION_RESULT">
+            <column name="PASS" type="boolean" defaultValue="true"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-30" author="system">
+        <addColumn tableName="RECEIVING_INSPECTION_REPORT">
+            <column name="SN" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-31" author="system">
+        <addColumn tableName="PRODUCT_ROUTING">
+            <column name="INNER_GROUP_NO_INT" type="int"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-32" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="STATION_EQU_NO" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-34" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="DRIFT_TEST_BY" type="varchar(80)"/>
+            <column name="TORQUE_VALUE1" type="varchar(80)"/>
+            <column name="TORQUE_VALUE2" type="varchar(80)"/>
+            <column name="TORQUE_VALUE3" type="varchar(80)"/>
+            <column name="TORQUE_VALUE4" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-35" author="system">
+        <addColumn tableName="GAGE">
+            <column name="STATUS" type="varchar(80)"/>
+            <column name="DESC" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-36" author="system">
+        <modifyDataType tableName="GAGE" columnName="DESC" newDataType="varchar(255)"/>
+    </changeSet>
+    <changeSet id="PATCH-37" author="system">
+        <dropColumn tableName="GAGE">
+            <column name="DESC"></column>
+        </dropColumn>
+    </changeSet>
+    <changeSet id="PATCH-39" author="system">
+        <addColumn tableName="STATION_EQUIPMENT">
+            <column name="PROCEDURE_NO" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-40" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="PROCEDURE_NO" type="varchar(80)"/>
+            <column name="TORQUE_DRIFT_SAVED" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-41" author="system">
+        <addColumn tableName="PRESSURE_RULER">
+            <column name="UPPER_INSPECTION_TIMES" type="int"/>
+            <column name="UPPERTIME" type="double"/>
+            <column name="DOWN_INSPECTION_TIMES" type="int"/>
+            <column name="DOWNTIME" type="double"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-42" author="system">
+        <addColumn tableName="PURCHASING_ORDER">
+            <column name="INSPECTION_QUANTITY" type="int"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-43" author="system">
+        <addColumn tableName="BOM">
+            <column name="PART_DES" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-44" author="system">
+        <addColumn tableName="BOM">
+            <column name="QA_PLAN" type="varchar(80)"/>
+            <column name="QA_PLAN_REV" type="varchar(80)"/>
+            <column name="DRAW_NO" type="varchar(80)"/>
+            <column name="PRESSURE_TEST" type="varchar(80)"/>
+            <column name="PRESSURE_TEST_REV" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-45" author="system">
+        <addColumn tableName="PAINTING_INFORMATION">
+            <column name="OP_USER" type="varchar(80)"/>
+            <column name="QC_CONFIRMER" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-46" author="system">
+        <addColumn tableName="PURCHASING_ORDER">
+            <column name="CHECKED_SN" type="varchar(500)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-47" author="system">
+        <modifyDataType tableName="BOM" columnName="LONG_TEXT"
+                        newDataType="varchar(5000)"/>
+    </changeSet>
+    <changeSet id="PATCH-48" author="system">
+        <modifyDataType tableName="BOM" columnName="LONG_TEXT"
+                        newDataType="longtext"/>
+        <modifyDataType tableName="SPARE_PART" columnName="LONG_TEXT"
+                        newDataType="longtext"/>
+    </changeSet>
+
+    <changeSet id="PATCH-49" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="CUSTOMER_CODE" type="varchar(255)"/>
+            <column name="SALES_ORDER" type="varchar(255)"/>
+            <column name="SALES_ORDER_ITEM" type="varchar(255)"/>
+            <column name="PAINT_SPECIFICATION" type="varchar(255)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-50" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="COMMENTS" type="varchar(1024)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-51" author="system">
+        <addColumn tableName="PRESSURE_RULER">
+            <column name="TIME1" type="double"/>
+            <column name="TIME2" type="double"/>
+            <column name="UPPERTIME1" type="double"/>
+            <column name="UPPERTIME2" type="double"/>
+            <column name="DOWNTIME1" type="double"/>
+            <column name="DOWNTIME2" type="double"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-53" author="system">
+        <modifyDataType tableName="ASSEMBLING_TEMP" columnName="X_VALUE" newDataType="int"/>
+        <modifyDataType tableName="ASSEMBLING_TEMP" columnName="Y_VALUE" newDataType="int"/>
+    </changeSet>
+
+    <changeSet id="PATCH-54" author="system">
+        <addColumn tableName="APPEARANCE_INSTRUMENTATION_RESULT">
+            <column name="GAGEINFO" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-57" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="TEST_TYPE" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-58" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="JK_OPEN_BODY_RECORD" type="varchar(80)"></column>
+            <column name="JK_CROSSOVER_BODY_TOP_RECORD" type="varchar(80)"></column>
+            <column name="JK_CROSSOVER_BODY_BTM_RECORD" type="varchar(80)"></column>
+            <column name="JK_CHRISTMAS_TREE_RECORD" type="varchar(80)"></column>
+            <column name="JK_WELLHEAD_ASSEMBLY_RECORD" type="varchar(80)"></column>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_RECORD" type="varchar(80)"></column>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_RECORD" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-59" author="system">
+        <addColumn tableName="PRODUCT_INFORMATION">
+            <column name="BLOWDOWN_TORQUE" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-60" author="system">
+        <addColumn tableName="PRODUCT_INFORMATION">
+            <column name="IS_REVIEWED" type="boolean" defaultValue="false"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-61" author="system">
+        <addColumn tableName="SPARE_PART">
+            <column name="IS_REVIEWED" type="boolean" defaultValue="false"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-62" author="system">
+        <addColumn tableName="PRODUCT_INFORMATION">
+            <column name="GAS_TEST" type="varchar(80)"></column>
+            <column name="GAS_TEST_REV" type="varchar(80)"></column>
+            <column name="LEVP" type="varchar(80)"></column>
+            <column name="LEVP_REV" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-63" author="system">
+        <addColumn tableName="PURCHASING_ORDER">
+            <column name="VISUAL_CHECKED" type="boolean" defaultValue="false"/>
+            <column name="VISUAL_CHECKED_RLT" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-64" author="system">
+        <addColumn tableName="VISUAL_INSPECTION">
+            <column name="QC_WITNESS" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-65" author="system">
+        <addColumn tableName="PRODUCT_ROUTING">
+            <column name="CHECK_STATUS" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-66" author="system">
+        <addColumn tableName="SPARE_PART">
+            <column name="D_NOTE" type="varchar(80)"></column>
+            <column name="D_NOTE_REV" type="varchar(80)"></column>
+            <column name="COATING" type="varchar(80)"></column>
+            <column name="COATING_REV" type="varchar(80)"></column>
+            <column name="WELDING" type="varchar(80)"></column>
+            <column name="WELDING_REV" type="varchar(80)"></column>
+            <column name="DRAW_REV" type="varchar(80)"></column>
+            <column name="HARDNESS_REV" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-67" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="WORKSHOP" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-68" author="system">
+        <addColumn tableName="FINAL_INSPECTION_RESULT">
+            <column name="REPORT_NO" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-69" author="system">
+        <addColumn tableName="PRODUCT_ROUTING">
+            <column name="RECONFIRM_NEEDED" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-70" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="SUPERIOR_ORDER" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-71" author="system">
+        <addColumn tableName="ORDER_HISTORY">
+            <column name="RECONFIRM_NEEDED" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-72" author="system">
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="PRIMER_DRY_FILM_THICKNESS" newDataType="varchar(80)"/>
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="FINAL_COAT_TOTAL_FILM_THICKNESS"
+                        newDataType="varchar(80)"/>
+    </changeSet>
+    <changeSet id="PATCH-73" author="system">
+        <modifyDataType tableName="PAINTING_INFORMATION" columnName="VISUAL_TOTAL_DRY_FILM_THICKNESS"
+                        newDataType="varchar(80)"/>
+    </changeSet>
+    <changeSet id="PATCH-74" author="system">
+        <addColumn tableName="PAINTING_SPECIFICATION">
+            <column name="REV" type="varchar(80)"></column>
+            <column name="TOTAL" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <!-- Changed by Cameron: 压力测试加入阀门带压打开时的扭矩传感器记录 -->
+    <changeSet id="PATCH-75" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="TORQUE_SENSOR_NO" type="varchar(80)"></column>
+        </addColumn>
+    </changeSet>
+    <!-- Changed by Cameron: 在子工单加入上级工单列，用于确定子工单逻辑 -->
+    <changeSet id="PATCH-76" author="system">
+        <addDefaultValue tableName="PRODUCT_ORDER" columnName="SUPERIOR_ORDER" defaultValue=""/>
+    </changeSet>
+    <changeSet id="PATCH-623-01" author="system">
+        <addColumn tableName="PRESSURE_RULER">
+            <column name="PRODUCT_NO" type="varchar(80)"/>
+            <column name="PRESSURE_TYPE" type="varchar(80)"/>
+            <column name="TEST_PRESSURE_VALUE" type="double"/>
+            <column name="MAX_PRESSURE_VALUE" type="double"/>
+            <column name="DIFFERENCE_PRESSURE_VALUE" type="double"/>
+            <column name="FIRST_TIME" type="double"/>
+            <column name="SECOND_TIME" type="double"/>
+            <column name="THIRD_TIME" type="double"/>
+            <column name="TORQUE_VALUE" type="double"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-630-01" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="FM_OPEN_BODY_FLAG" type="boolean" defaultValue="false"/>
+            <column name="FM_OPEN_BODY_STATION_NAME" type="varchar(80)"/>
+            <column name="FM_OPEN_BODY_STATION_NO" type="varchar(80)"/>
+            <column name="FM_OPEN_BODY_RECORD" type="varchar(80)"/>
+            <column name="FM_OPEN_P1" type="double"/>
+            <column name="FM_OPEN_P2" type="double"/>
+            <column name="FM_OPEN_P3" type="double"/>
+            <column name="FM_OPEN_T1" type="double"/>
+            <column name="FM_OPEN_T2" type="double"/>
+            <column name="FM_OPEN_T3" type="double"/>
+            <column name="FM_OPEN_RESULT" type="varchar(80)"/>
+            <column name="FM_OPEN_USER" type="varchar(80)"/>
+            <column name="FM_OPEN_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-630-02" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="FM_DOWN_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="FM_DOWN_STATION_NAME" type="varchar(80)"/>
+            <column name="FM_DOWN_STATION_NO" type="varchar(80)"/>
+            <column name="FM_DOWN_RECORD" type="varchar(80)"/>
+
+            <column name="FM_DOWN_P1" type="double"/>
+            <column name="FM_DOWN_P2" type="double"/>
+            <column name="FM_DOWN_P3" type="double"/>
+            <column name="FM_DOWN_T1" type="double"/>
+            <column name="FM_DOWN_T2" type="double"/>
+            <column name="FM_DOWN_T3" type="double"/>
+
+            <column name="FM_DOWN_RESULT" type="varchar(80)"/>
+            <column name="FM_DOWN_USER" type="varchar(80)"/>
+
+            <column name="FM_DOWN_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-630-03" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="FM_UP_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="FM_UP_STATION_NAME" type="varchar(80)"/>
+            <column name="FM_UP_STATION_NO" type="varchar(80)"/>
+            <column name="FM_UP_RECORD" type="varchar(80)"/>
+
+            <column name="FM_UP_P1" type="double"/>
+            <column name="FM_UP_P2" type="double"/>
+            <column name="FM_UP_P3" type="double"/>
+            <column name="FM_UP_T1" type="double"/>
+            <column name="FM_UP_T2" type="double"/>
+            <column name="FM_UP_T3" type="double"/>
+
+            <column name="FM_UP_RESULT" type="varchar(80)"/>
+            <column name="FM_UP_USER" type="varchar(80)"/>
+
+            <column name="FM_UP_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-630-04" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="JK_OPEN_BODY_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="JK_OPEN_BODY_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_OPEN_BODY_STATION_NO" type="varchar(80)"/>
+
+            <column name="JK_OPEN_P1" type="double"/>
+            <column name="JK_OPEN_P2" type="double"/>
+            <column name="JK_OPEN_P3" type="double"/>
+
+            <column name="JK_OPEN_T1" type="double"/>
+            <column name="JK_OPEN_T2" type="double"/>
+            <column name="JK_OPEN_T3" type="double"/>
+
+            <column name="JK_OPEN_R1" type="varchar(80)"/>
+            <column name="JK_OPEN_R2" type="varchar(80)"/>
+            <column name="JK_OPEN_R3" type="varchar(80)"/>
+
+            <column name="JK_OPEN_USER" type="varchar(80)"/>
+
+            <column name="JK_OPEN_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-629-05" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="JK_CROSSOVER_BODY_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="JK_CROSSOVER_BODY_TOP_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_BODY_TOP_STATION_NO" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_BODY_BTM_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_BODY_BTM_STATION_NO" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_BODY_TOP_P1" type="double"/>
+            <column name="JK_CROSSOVER_BODY_TOP_P2" type="double"/>
+            <column name="JK_CROSSOVER_BODY_TOP_P3" type="double"/>
+            <column name="JK_CROSSOVER_BODY_TOP_T1" type="double"/>
+            <column name="JK_CROSSOVER_BODY_TOP_T2" type="double"/>
+            <column name="JK_CROSSOVER_BODY_TOP_T3" type="double"/>
+            <column name="JK_CROSSOVER_BODY_TOP_R1" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_BODY_TOP_R2" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_BODY_TOP_R3" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_BODY_BTM_P1" type="double"/>
+            <column name="JK_CROSSOVER_BODY_BTM_P2" type="double"/>
+            <column name="JK_CROSSOVER_BODY_BTM_P3" type="double"/>
+            <column name="JK_CROSSOVER_BODY_BTM_T1" type="double"/>
+            <column name="JK_CROSSOVER_BODY_BTM_T2" type="double"/>
+            <column name="JK_CROSSOVER_BODY_BTM_T3" type="double"/>
+            <column name="JK_CROSSOVER_BODY_BTM_R1" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_BODY_BTM_R2" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_BODY_BTM_R3" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_BODY_USER" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_BODY_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-630-06" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="JK_CHRISTMAS_TREE_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="JK_CHRISTMAS_TREE_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_CHRISTMAS_TREE_STATION_NO" type="varchar(80)"/>
+
+            <column name="JK_CHRISTMAS_TREE_P1" type="double"/>
+            <column name="JK_CHRISTMAS_TREE_P2" type="double"/>
+            <column name="JK_CHRISTMAS_TREE_P3" type="double"/>
+
+            <column name="JK_CHRISTMAS_TREE_T1" type="double"/>
+            <column name="JK_CHRISTMAS_TREE_T2" type="double"/>
+            <column name="JK_CHRISTMAS_TREE_T3" type="double"/>
+
+            <column name="JK_CHRISTMAS_TREE_R1" type="varchar(80)"/>
+            <column name="JK_CHRISTMAS_TREE_R2" type="varchar(80)"/>
+            <column name="JK_CHRISTMAS_TREE_R3" type="varchar(80)"/>
+
+            <column name="JK_CHRISTMAS_TREE_USER" type="varchar(80)"/>
+
+            <column name="JK_CHRISTMAS_TREE_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-630-07" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="JK_WELLHEAD_ASSEMBLY_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="JK_WELLHEAD_ASSEMBLY_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_WELLHEAD_ASSEMBLY_STATION_NO" type="varchar(80)"/>
+
+            <column name="JK_WELLHEAD_P1" type="double"/>
+            <column name="JK_WELLHEAD_P2" type="double"/>
+            <column name="JK_WELLHEAD_P3" type="double"/>
+
+            <column name="JK_WELLHEAD_T1" type="double"/>
+            <column name="JK_WELLHEAD_T2" type="double"/>
+            <column name="JK_WELLHEAD_T3" type="double"/>
+
+            <column name="JK_WELLHEAD_R1" type="varchar(80)"/>
+            <column name="JK_WELLHEAD_R2" type="varchar(80)"/>
+            <column name="JK_WELLHEAD_R3" type="varchar(80)"/>
+
+            <column name="JK_WELLHEAD_USER" type="varchar(80)"/>
+
+            <column name="JK_WELLHEAD_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-629-08" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+            <column name="JK_CROSSOVER_ASSEMBLY_FLAG" type="boolean" defaultValue="false"/>
+
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_STATION_NO" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_STATION_NAME" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_STATION_NO" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_P1" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_P2" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_P3" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_T1" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_T2" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_T3" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_R1" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_R2" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_TOP_R3" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_P1" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_P2" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_P3" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_T1" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_T2" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_T3" type="double"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_R1" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_R2" type="varchar(80)"/>
+            <column name="JK_CROSSOVER_ASSEMBLY_BTM_R3" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_ASSEMBLY_USER" type="varchar(80)"/>
+
+            <column name="JK_CROSSOVER_ASSEMBLY_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+
+    <changeSet id="PATCH-701-01" author="system">
+        <addColumn tableName="PRESSURE_TEST">
+        <column name="DRIFT_TEST_DATE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-701-02" author="system">
+        <modifyDataType tableName="PRESSURE_TEST" columnName="TEST_DATE" newDataType="varchar(80)"/>
+    </changeSet>
+    <changeSet id="PATCH-720-01" author="system">
+        <addColumn tableName="ISSUE_MATERIAL_LIST">
+            <column name="STATUS" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-721-01-P" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="NEWEST_BOM_VERSION" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-722-01-P" author="system">
+        <addColumn tableName="BOM">
+            <column name="ITEM_CATEGORY" type="varchar(80)"/>
+            <column name="EXPLOSION_LEVEL" type="varchar(80)"/>
+            <column name="SORT_STRING" type="varchar(80)"/>
+            <column name="LEGACY_REV" type="varchar(80)"/>
+            <column name="BASE_UNIT" type="varchar(80)"/>
+            <column name="PHANTOM_ITEM" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-729-01-P" author="system">
+        <addColumn tableName="OPERATION_INSTRUCTION">
+            <column name="TOC_TYPE" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-806-01-P" author="system">
+        <addColumn tableName="OPERATION_INSTRUCTION">
+            <column name="WI_DEPARTMENT" type="varchar(80)"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-818-02-P" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="PULL_MAT_FLAG" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-819-01-P" author="system">
+        <addColumn tableName="OPERATION_INSTRUCTION">
+            <column name="DELETE_FLAG" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-828-01-P" author="system">
+        <addColumn tableName="PRODUCT_ORDER">
+            <column name="BOM_CHECK_FLAG" type="boolean" defaultValue="false"/>
+            <column name="BOM_LOCK_FLAG" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+    <changeSet id="PATCH-901-01-P" author="system">
+        <addColumn tableName="ORDER_HISTORY">
+            <column name="DELETE_FLAG" type="boolean" defaultValue="false"/>
+        </addColumn>
+    </changeSet>
+</databaseChangeLog>
